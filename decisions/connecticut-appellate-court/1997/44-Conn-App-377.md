@@ -1,0 +1,38 @@
+---
+court: "Connecticut Appellate Court"
+docket: "15352"
+decided: "1997-02-25"
+citations: ["44 Conn. App. 377"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROCCO D’ARCANGELO v. HARTFORD CASUALTY INSURANCE COMPANY"]
+source_url: "https://static.case.law/conn-app/44/cases/0377-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 789402
+cites_cases: ["12 Conn. L. Rptr. 142", "213 Conn. 625", "220 Conn. 30", "569 A.2d 1105", "594 A.2d 977"]
+---
+
+# D'Arcangelo v. Hartford Casualty Insurance
+
+## Majority (HENNESSY, J.)
+
+HENNESSY, J.
+This is an appeal from the judgment of the trial court rendered after the granting of a motion for summary judgment in favor of the defendant, Hartford Casualty Insurance Company. The plaintiff, Rocco D’Arcangelo, claims that the trial court, in ruling that the tortfeasor’s vehicle was not underinsured, improperly construed General Statutes (Rev. to 1991) § 38a-336 (d) and case law by comparing the per occurrence limit of the tortfeasor’s single limit liability insurance policy with the per person limit of the plaintiffs split limit underinsured motorist policy.
+The trial court found the following facts. On August 29,1992, the plaintiff was a passenger in a vehicle driven by August Wildman. Wildman’s vehicle collided with a vehicle driven by Judith Nicolari, the tortfeasor. Nicolari’s liability insurance has a single limit of $500,000.
+In his two count complaint, the plaintiff sought to recover underinsured motorist benefits. In count one, the plaintiff made a claim under a policy issued by the defendant to Florindo D’Arcangelo and Malfado D’Arcangelo (D’Arcangelo policy), which provides $100,000 coverage per person and $300,000 per accident for three vehicles. In count two, the plaintiff made a claim under a policy issued by the defendant to Wildman (Wildman policy), which provides $250,000 coverage per person and $500,000 per accident.
+The defendant filed a motion for summary judgment on the ground that Nicolari’s vehicle is not underinsured with respect to either the D’Arcangelo policy or the Wildman policy. The court granted the motion and this appeal followed.
+The plaintiff contends that in order to assess whether Nicolari’s vehicle is underinsured, the tortfeasor’s insurance limit must be compared against the per accident limit of each underinsured motorist policy. Thus, the plaintiff argues that because he has $300,000 per accident coverage on each of his three vehicles under the D’Arcangelo policy, the stacked per accident limit is $900,000 and, therefore, Nicolari’s vehicle is under-insured.
+The trial court ruled that the plaintiff could collect only the total per person limits, not the per accident limits. It found that the plaintiffs policy has a total $300,000 per person underinsured limit and concluded that Nicolari is not underinsured. We agree.
+“Courts construing statutes . . . that compare uninsured motorist coverage limits with tortfeasor liability limits have generally held that the legislative objective was simply to give an insured who is injured in an accident the same resource he would have had if the tortfeasor had carried liability insurance equal to the amount of the insured’s uninsured motorist coverage. Where an underinsured motor vehicle is statutorily defined as an insured motor vehicle with applicable liability limits less in amount than the injured person’s uninsured motorist’s limits, it is clear that the underinsured motorist coverage is not applicable if the insured person’s uninsured motorist limits are equal to, or less than, the tortfeasor’s liability limits.” (Internal quotation marks omitted.) American Motorists Ins. Co. v. Gould, 213 Conn. 625, 632, 569 A.2d 1105 (1990). Where the insurance policy is a split limit policy, “the total of the per person limit is the amount of liability insurance available to the claimant . . . .” Covenant Ins. Co. v. Coon, 220 Conn. 30, 34, 594 A.2d 977 (1991).
+We conclude that the decision in Coon is dispositive of the issue on appeal. In Coon, the defendant Ernestine Coon, a passenger in a vehicle owned and operated by Robert Sabo, sustained injuries when the vehicle was struck by another vehicle. Coon owned an insurance policy with underinsured motorist coverage of $20,000. Sabo owned a policy with underinsured coverage of $50,000. The tortfeasor had liability insurance with liability limits of $25,000 per person and $50,000 per accident. The Supreme Court held that “even though [the tortfeasor] had $50,000 per accident liability limits, Coon never had more than $25,000 of this coverage potentially available to her. Thus, it is consistent with our earlier interpretation of § 38a-336 to conclude that the total of the per person limit is the amount of liability insurance available to the claimant, i.e. $25,000.” Id., 34.
+In the present case, the plaintiff had a stacked total of $900,000 per accident uninsured motorist coverage, but he never had more than the stacked total of $300,000 per person uninsured motorist coverage available to him. Thus, the total amount of underinsured coverage available to the plaintiff was $300,000, not $900,000. See id. The trial court, therefore, correctly concluded that Nicolari’s vehicle, covered by a single limit of $500,000, was not underinsured pursuant to General Statutes (Rev. to 1991) § 38a-336.
+The judgment is affirmed.
+In this opinion the other judges concurred.
+General Statutes (Rev. to 1991) § 38a-336 (d) provides: “For the purposes of this section, an ‘underinsured motor vehicle’ means a motor vehicle with respect to which the sum of the limits of liability under all bodily injury liability bonds and insurance policies applicable at the time of the accident is less than the applicable limits of liability under the uninsured motorist portion of the policy against which claim is made under subsection (b) of this section.”
+A split limit policy sets the maximum liability amount both per person and per accident or per occurrence.
+The estate of a deceased occupant of Nicolari’s vehicle received $400,000 under Nicolari’s policy. After arbitration between the plaintiff and two other claimants, the plaintiff received $43,500.
+At oral argument the plaintiff conceded that if he were not successful under count one, count two would also fail.
+The plaintiff cites Stride v. Allstate Ins. Co., Superior Court, judicial district of Waterbury, Docket No. 0115903 (August 4, 1994) (12 Conn. L. Rptr. 142), in support of his proposition that in order to determine whether a vehicle is underinsured, the tortfeasor’s single limit should be compared to the underinsured motorist coverage limit per occurrence rather than per person. The case, however, was cited without analysis and cannot overrule the Supreme Court decision in Coon.
+The plaintiff also cites decisions from several foreign jurisdictions in order to support his position. After a review of these cases we find that they are not persuasive. None of the cases cited involves statutes with the same wording as the statute in place in Connecticut as it applies to the facts in the matter before us.
+The plaintiff attempts to distinguish this case from Coon by arguing that it does not apply when there are multiclaimants or when the per occurrence limits of both underinsured motorist and liability policies are not the same. We find that the Coon decision also involved multiclaimants and, therefore, this distinction does not exist. We also find that Coon's rationale applies even where the policies have different per occurrence limits.
