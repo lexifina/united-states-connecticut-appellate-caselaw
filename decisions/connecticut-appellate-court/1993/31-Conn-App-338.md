@@ -1,0 +1,31 @@
+---
+court: "Connecticut Appellate Court"
+docket: "10852"
+decided: "1993-05-18"
+citations: ["31 Conn. App. 338"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ronald Michel v. Jane Baklik Michel"]
+source_url: "https://static.case.law/conn-app/31/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 723751
+cites_cases: ["12 Conn. App. 596", "16 Conn. App. 680", "181 Conn. 463", "191 Conn. 328", "197 Conn. 1", "2 Conn. App. 416", "22 Conn. App. 367", "26 Conn. App. 585", "435 A.2d 1016", "464 A.2d 780", "479 A.2d 826", "495 A.2d 704", "533 A.2d 229", "548 A.2d 471", "577 A.2d 1087", "602 A.2d 1054"]
+---
+
+# Michel v. Michel
+
+## Majority (Freedman, J.)
+
+Freedman, J.
+The plaintiff appeals from the judgment of the trial court in this action for dissolution of marriage. The plaintiff claims that the trial court improperly ordered him to maintain life insurance without any evidence of (1) the availability of such insurance, (2) the cost of such insurance and (3) his insurability. We agree with the plaintiff, reverse the trial court’s financial orders and remand the matter to the trial court for a new trial.
+The parties were married on February 28, 1987. There were two minor children issue of the marriage at the time of the dissolution. On November 8, 1991, the trial court issued its memorandum of decision dissolving the marriage. Custody of the minor children was awarded to the defendant with reasonable rights of visitation granted to the plaintiff. The trial court also entered orders regarding property distribution, alimony, child support, medical and dental insurance for the minor children, and other miscellaneous matters. In addition, the plaintiff was ordered to “provide life insurance in the amount of $50,000 with the defendant as irrevocable beneficiary until such time as the youngest child reaches the age of eighteen.”
+At the time of the dissolution of the marriage, the plaintiff had no life insurance. Neither party presented any evidence as to the availability of life insurance to the plaintiff, as to the cost of such insurance or as to his insurability. The trial court in its memorandum of decision stated that the defendant had complained of the plaintiffs use of alcohol and cocaine. The trial court further stated in its memorandum of decision that “[b]oth the defendant and the plaintiff complain of health problems but each appears able to do some work.”
+“Our standard of review in a domestic relations case is well settled. We will not substitute our judgment for that of the trial court and will not disturb an order of the trial court absent an abuse of discretion or findings lacking a reasonable basis in the facts.” Paddock v. Paddock, 22 Conn. App. 367, 372, 577 A.2d 1087 (1990). Here, the trial court, in its commendable desire to ensure that funds would be available for the support of the defendant and the children in the event of the death of the plaintiff, attempted to make a fund available for that purpose through the vehicle of life insurance. Such an order is very often an appropriate and necessary component of a judgment of dissolution of marriage. Indeed, orders requiring the maintenance of life insurance have been approved on numerous occasions by our courts. See Leo v. Leo, 197 Conn. 1, 495 A.2d 704 (1985); Wolk v. Wolk, 191 Conn. 328, 464 A.2d 780 (1983); Broaca v. Broaca, 181 Conn. 463, 435 A.2d 1016 (1980); Mauro v. Mauro, 16 Conn. App. 680, 548 A.2d 471 (1988); Papageorge v. Papageorge, 12 Conn. App. 596, 533 A.2d 229 (1987). In each of these cases, however, it is important to note that the life insurance policy was in existence at the time of the judgment. The trial court in each of these cases, therefore, had available to it all of the information necessary to craft an appropriate order regarding such insurance. By contrast, in this case, the trial court ordered $50,000 of life insurance without any evidence whatsoever of the cost or the availability of such life insurance to the plaintiff. Without knowing the availability of such insurance, the trial court has entered an order with which the plaintiff may not be able to comply. Without knowing the cost of such insurance, the trial court has entered other financial orders that may be inappropriate, that is, too high or too low depending on the funds required to obtain such insurance. Under these circumstances, we must conclude that the court’s order regarding life insurance lacks a reasonable basis in the facts.
+In an unpublished case involving a substantially similar issue, the Court of Appeals of Ohio reversed a judgment of the trial court that required the plaintiff to obtain life insurance where the record was silent as to the insurability of the plaintiff and failed to indicate the cost of such insurance. Dotson v. Dotson, Ohio Court of Appeals, Docket No. H-76-11, March 25, 1977.
+Because the financial orders in an action for dissolution of marriage are of necessity interwoven and because the rendering of a judgment in an action for the dissolution of marriage is “a carefully crafted mosaic”; Ehrenkranz v. Ehrenkranz, 2 Conn. App. 416, 424, 479 A.2d 826 (1984); we must remand the case to the trial court for a new trial on all financial matters. Mulholland v. Mulholland, 26 Conn. App. 585, 590, 602 A.2d 1054 (1992).
+The judgment is reversed as to the financial orders only and the case is remanded for a new hearing on all financial issues.
+In this opinion the other judges concurred.
+The plaintiff raises several other challenges to the financial orders entered by the trial court and the factual findings underlying those orders. Because we agree with the plaintiff on the issue regarding the order of life insurance and therefore reverse the trial court’s financial orders and remand for a new trial, we need not address these additional issues.
+The parties agreed to these custody and visitation arrangements, which agreement was approved by the trial court.
+We do not mean to imply that a trial court may not order life insurance if it is not in force at the time of the dissolution. To the contrary, it may do so if it has evidence before it that would create a proper foundation for such an order.
