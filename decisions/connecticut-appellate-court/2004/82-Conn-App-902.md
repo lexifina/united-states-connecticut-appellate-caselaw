@@ -1,0 +1,22 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 23754"
+decided: "2004-03-23"
+citations: ["82 Conn. App. 902"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IVAN CEPEDA v. COMMISSIONER OF CORRECTION"]
+source_url: "https://static.case.law/conn-app/82/cases/0902-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5161936
+cites_cases: ["230 Conn. 608", "646 A.2d 126"]
+---
+
+# Cepeda v. Commissioner of Correction
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The habeas court denied the petition for a writ of habeas corpus and denied the petitioner’s request for certification to appeal to this court. After a careful review of the record and briefs, we conclude that the petitioner has not demonstrated that the issues are debatable among jurists of reason or that a court could resolve the issues in a different manner or that the questions are adequate to deserve encouragement to proceed further. See Simms v. Warden, 230 Conn. 608, 616, 646 A.2d 126 (1994).
+The appeal is dismissed.
