@@ -1,0 +1,32 @@
+---
+court: "Connecticut Appellate Court"
+docket: "13093"
+decided: "1995-01-31"
+citations: ["36 Conn. App. 691"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pasquale D’Onofrio v. Commissioner of Correction"]
+source_url: "https://static.case.law/conn-app/36/cases/0691-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 731316
+cites_cases: ["113 S. Ct. 1271", "122 L. Ed. 2d 666", "2 Conn. App. 219", "202 Conn. 369", "207 Conn. 420", "220 Conn. 270", "223 Conn. 919", "224 Conn. 445", "28 Conn. App. 34", "477 A.2d 144", "507 U.S. 916", "521 A.2d 547", "541 A.2d 1216", "596 A.2d 407", "611 A.2d 878", "614 A.2d 826", "619 A.2d 453"]
+---
+
+# D'Onofrio v. Commissioner of Correction
+
+## Majority (Freedman, J.)
+
+Freedman, J.
+The petitioner appeals from the judgment of the habeas court dismissing his petition for a writ of habeas corpus. On appeal, the petitioner argues that his conviction for escape from custody must be vacated because General Statutes § 53a-171 does not apply to out-of-state inmates in temporary custody pursuant to the Interstate Agreement on Detainers (IAD), General Statutes § 54-186 et seq. We affirm the judgment of the habeas court.
+The habeas court found the following facts. On December 30,1981, a bench warrant was issued by the Superior Court for the arrest of the petitioner on a charge of failure to appear in violation of General Statutes § 53a-172. On May 20, 1983, the petitioner was sentenced to a term of thirty years imprisonment in the state of Oregon on a charge of burglary in the first degree. In June, 1983, the state of Connecticut requested temporary custody of the petitioner from the state of Oregon, pursuant to the IAD, to dispose of the information referenced in the bench warrant dated December 30, 1981.
+On or about October 11, 1983, the petitioner was placed in temporary custody in Connecticut. On November 16,1983, the petitioner, along with other prisoners, was transported from the community correctional center in New Haven to the geographical area number five courthouse in Milford. Upon arrival at the courthouse, as the sheriff opened the van door, the petitioner jumped out of the van and ran away. He was captured soon thereafter. On December 6, 1983, the petitioner was arrested on a warrant charging him with escape from custody in violation of § 53a-171.
+On January 10, 1984, the petitioner entered a plea of guilty to the charge of escape from custody in connection with the November 16,1983 incident. On January 26, 1984, the petitioner was sentenced to a term of ten years on the escape charge to run “consecutive to the sentence now serving in Oregon.” The original charge of failure to appear for which the petitioner was returned to Connecticut was nolled and on January 28, 1984, the petitioner was returned to Oregon. On March 15, 1991, the petitioner was paroled from his Oregon sentence and on March 18,1991, he entered the custody of the state of Connecticut to serve the sentence imposed in January, 1984.
+On June 26, 1992, the petitioner filed an amended petition for writ of habeas corpus. On April 16, 1993, the petitioner filed a request for leave to amend the petition by adding a paragraph claiming that he was not barred from obtaining the relief sought. On November 10,1993, a hearing was held, and on November 19, 1993, the court issued its memorandum of decision. The habeas court held that although the petitioner was not barred from seeking relief, he could not prevail on the merits because, at the time of the escape, he was in the custody of the state of Connecticut and “[t]here is nothing in the language of the statute which would require Connecticut to enact specific legislation enabling it to prosecute IAD transferees.”
+The petitioner argues on appeal, however, that “Connecticut courts lack subject matter jurisdiction to hold prosecutions of and impose sentence upon inmates who escape from temporary custody under the . . . [IAD] until and unless the legislature acts to criminalize escape from temporary custody.” In support of this argument, the petitioner attempts to distinguish the meaning of “custody” as used in § 53a-171 and the meaning of “temporary custody” as used in article V of § 54-186. We need not decide whether there is any such distinction, however, because, by pleading guilty to the escape charge, the petitioner has waived his right to pursue this argument.
+A valid guilty plea generally operates as a waiver of all defects in the prosecution “except those involving the canvass of the plea and the court’s subject matter jurisdiction.” State v. Reddick, 224 Conn. 445, 451, 619 A.2d 453 (1993); see also State v. Niblack, 220 Conn. 270, 276-77, 596 A.2d 407 (1991); State v. Gilnite, 202 Conn. 369, 374 n.4, 521 A.2d 547 (1987); State v. Satti, 2 Conn. App. 219, 221-22, 477 A.2d 144 (1984). The petitioner argues that his claim implicates the court’s subject matter jurisdiction. We disagree.
+“ ‘Jurisdiction of the subject matter is the power [of the court] to hear and determine cases of the general class to which the proceedings in question belong. . . . A court has subject matter jurisdiction if it has the authority to adjudicate a particular type of legal controversy. Such jurisdiction relates to the court’s competency to exercise power, and not to the regularity of the court’s exercise of that power.’ (Citations omitted; internal quotation marks omitted.) Castro v. Viera, 207 Conn. 420, 427, 541 A.2d 1216 (1988).” State v. Booker, 28 Conn. App. 34, 39, 611 A.2d 878, cert. denied, 223 Conn. 919, 614 A.2d 826 (1992), cert. denied, 507 U.S. 916, 113 S. Ct. 1271, 122 L. Ed. 2d 666 (1993). The court that accepted the petitioner’s guilty plea had the power to hear and determine the criminal matter charging the petitioner with escape in violation of § 53a-171. Therefore, the petitioner cannot prevail on his claim that the court was without subject matter jurisdiction.
+We conclude that the petitioner is essentially arguing that the evidence was insufficient on the element of custody to sustain his conviction for escape under § 53a-171. Such a claim is barred, however, by the petitioner’s guilty plea.
+The judgment is affirmed.
+In this opinion the other judges concurred.
+General Statutes § 53a-171 (a) provides: “A person is guilty of escape from custody if he escapes from custody.”
