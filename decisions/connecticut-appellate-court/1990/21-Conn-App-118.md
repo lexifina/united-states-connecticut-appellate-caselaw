@@ -1,0 +1,29 @@
+---
+court: "Connecticut Appellate Court"
+docket: "8100"
+decided: "1990-03-27"
+citations: ["21 Conn. App. 118"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William K. Cawley v. Harry Schochat"]
+source_url: "https://static.case.law/conn-app/21/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 747747
+cites_cases: ["11 Conn. App. 439", "187 Conn. 224", "19 Conn. App. 340", "19 Conn. App. 668", "20 Conn. App. 231", "20 Conn. App. 665", "205 Conn. 803", "209 Conn. 310", "213 Conn. 801", "445 A.2d 589", "527 A.2d 1234", "531 A.2d 935", "551 A.2d 704", "563 A.2d 299", "563 A.2d 752", "565 A.2d 882", "567 A.2d 833", "569 A.2d 1145"]
+---
+
+# Cawley v. Schochat
+
+## Majority (Spallone, J.)
+
+Spallone, J.
+The defendant appeals from the money judgment rendered by the trial court for the plaintiff and from the dismissal of his counterclaims. The defendant claims that the trial court erred (1) in granting the plaintiff’s motion for summary judgment on the issue of liability despite unresolved issues of law and fact, (2) in dismissing his counterclaims, and (3) in granting a money judgment where the plaintiff sought foreclosure of a mortgage. We find no error.
+The following facts are undisputed. The defendant contracted to purchase from the plaintiff a multi-unit house at 383-385 Poplar Street, New Haven, for $119,900. At the closing in June, 1987, the plaintiff accepted the defendant’s promissory note for $20,000 in partial payment of the purchase price, secured by a subordinated mortgage on the property. By the terms of the note, the defendant was to make thirty-six monthly payments of $166.67, after which the balance of the note was due in full. The note contained an acceleration clause allowing the plaintiff to demand full payment upon the occurrence of certain conditions, including the defendant’s failure to make timely installment payments.
+After the defendant made four timely payments, a disagreement arose between the parties about property maintenance expenses. The defendant’s November, 1987 payment was late and he made no further payments until April, 1988, after which his payments were intermittent and untimely. The plaintiff did not cash any checks sent by the defendant after October, 1987.
+The plaintiff instituted suit in January, 1988, seeking both a foreclosure of the mortgage and a money judgment on the note. The defendant failed to answer the plaintiff’s request for admissions, and the plaintiff moved for summary judgment on the debt liability. On the basis of the defendant’s failure to file an opposing affidavit, the court granted the plaintiff’s motion for summary judgment, finding that there was no genuine issue of material fact as to the defendant’s liability on the debt and that as a matter of law the plaintiff was entitled to judgment. In a separate hearing on damages, the trial court rendered a money judgment for the plaintiff in the amount of $25,833.35 and subsequently dismissed the defendant’s counterclaims. This appeal followed.
+In his first two claims of error, the defendant argues that the court improperly granted the plaintiff’s motion for summary judgment and improperly dismissed his counterclaims because material questions of fact and law remained to be decided. The defendant’s claims must fail because the court’s rulings on liability and damages and the dismissal of the defendant’s counterclaims were dictated by the defendant’s own failures to follow the rules of practice. We recognize that the defendant represented himself at these hearings, but he is an attorney admitted to the bar of New York and not ignorant of the existence of procedural requirements. Even pro se litigants must comply with our rules of practice. See Schaffer v. Schaffer, 187 Conn. 224, 227-28 n.3, 445 A.2d 589 (1982); In the Matter of Presnick, 19 Conn. App. 340, 345, 563 A.2d 299, cert. denied, 213 Conn. 801, 567 A.2d 833 (1989).
+The court was not required to resolve any of the allegedly undecided issues before rendering a judgment of liability. The court granted the motion for summary judgment solely upon the defendant’s failure to introduce a memorandum in opposition to the motion or to file counteraffidavits as required by Practice Book § 380. Such failure to provide supporting documents is fatal to a claim that the court erred in granting the motion for summary judgment on the debt. See Sheridan v. Board of Education, 20 Conn. App. 231, 238, 565 A.2d 882 (1989); DeLucia v. Burns, 11 Conn. App. 439, 442-43, 527 A.2d 1234, cert. denied, 205 Conn. 803, 531 A.2d 935 (1987). Although the defendant now argues that the court erred in dismissing his counterclaims, the record indicates that the defendant did not even appear for the scheduled hearing on these claims. The defendant has made no attempt to demonstrate that the court rulings here present an extraordinary situation compelling our review of his forfeited claims. See Williamson v. Commissioner of Transportation, 209 Conn. 310, 317, 551 A.2d 704 (1988).
+In his third claim of error the defendant asserts that the plaintiff was seeking the equitable remedy of foreclosure and received the incompatible legal remedy of a money judgment. The defendant, however, raises this allegation for the first time on appeal, and his brief contains a bare three sentence argument on the issue without citations of authority or references to the record. This court is not bound to review unpreserved claims of error or issues inadequately briefed. See Practice Book § 4065; State v. Fudge, 20 Conn. App. 665, 666 n.1, 569 A.2d 1145 (1990); State v. Luca, 19 Conn. App. 668, 671, 563 A.2d 752 (1989). Accordingly, we decline to review this claim.
+There is no error.
+In this opinion the other judges concurred.
