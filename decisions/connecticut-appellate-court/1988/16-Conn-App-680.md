@@ -1,0 +1,33 @@
+---
+court: "Connecticut Appellate Court"
+docket: "6536"
+decided: "1988-10-18"
+citations: ["16 Conn. App. 680"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Burnice A. Mauro v. Ralph J. Mauro"]
+source_url: "https://static.case.law/conn-app/16/cases/0680-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1964245
+cites_cases: ["12 Conn. App. 525", "12 Conn. App. 596", "13 Conn. App. 300", "14 Conn. App. 296", "159 Conn. 477", "168 Conn. 579", "184 Conn. 36", "187 Conn. 249", "190 Conn. 132", "200 Conn. 202", "362 A.2d 835", "440 A.2d 782", "445 A.2d 598", "459 A.2d 518", "510 A.2d 186", "532 A.2d 591", "533 A.2d 229", "536 A.2d 978", "541 A.2d 873"]
+---
+
+# Mauro v. Mauro
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The defendant appeals from the judgment rendered in this dissolution of marriage action. The defendant claims that the trial court erred (1) by abusing its discretion in failing to recognize the value of the defendant’s one-half interest in the jointly owned marital home, (2) in ordering the defendant to maintain a $25,000 life insurance policy naming the plaintiff as irrevocable beneficiary where no grant of alimony was awarded, and (3) by permitting the plaintiff to retain approximately $40,000 in jointly owned assets which she unilaterally arrogated to herself after the dissolution proceedings were instituted. We find no error.
+In his first claim of error, the defendant argues that the trial court abused its discretion in failing to recognize the value of his one-half interest in the jointly owned marital home. The record indicates that both parties introduced expert testimony concerning the value of that real estate. The defendant’s witness appraised its value at $190,000 and the plaintiff’s witness testified that it was worth $175,000. The court accepted the plaintiff’s valuation. It then subtracted an existing $18,200 mortgage and $10,800 in real estate commission and closing costs, which resulted in a net value of $146,000. The defendant was ordered to quitclaim his interest in the property to the plaintiff, who was ordered to pay him $55,000. This sum was to be secured by a mortgage deed and note payable in one year at 6 percent interest.
+General Statutes § 46b-81 governs the assignment of property in dissolution actions. Subsection (a) provides that the trial court “may assign to either the husband or wife all or any part of the estate of the other.” Hence, there is no statutory authority for the defendant’s claim that he is per se entitled to one-half of the net value of the marital home. Tutalo v. Tutalo, 187 Conn. 249, 253, 445 A.2d 598 (1982); Hurtado v. Hurtado, 14 Conn. App. 296, 308, 541 A.2d 873 (1988).
+Our examination of the record indicates that the court adequately considered the criteria set forth in § 46b-81 (c) when it awarded the defendant $55,000 as the value of his interest in the real estate. It was not required to make express findings on each of the statutory criteria, nor was it required to weigh each of them equally. Debowsky v. Debowsky, 12 Conn. App. 525, 526, 532 A.2d 591 (1987).
+The defendant’s second claim of error alleges that the court erred in ordering that the plaintiff be continued as irrevocable beneficiary on the defendant’s existing $25,000 life insurance policy when the court failed to award alimony. The defendant argues that General Statutes § 46b-82 authorizes such an order only when its purpose is to secure alimony payments. Thus, he asserts, the court abused its discretion.
+The trial court’s authority to order one former spouse to name and maintain the other as the primary beneficiary on a life insurance policy independent of an alimony award was upheld in Papageorge v. Papageorge, 12 Conn. App. 596, 533 A.2d 229 (1987). There, the trial court awarded the defendant periodic alimony that was to be secured by a nonnegotiable mortgage note on two of the plaintiff’s properties. In addition, the plaintiff was to maintain a $100,000 insurance policy on his life naming the defendant as beneficiary. Id., 598.
+Our Supreme Court has also addressed this issue. In Gallo v. Gallo, 184 Conn. 36, 440 A.2d 782 (1981), it stated: “Such an order is well within the inherent equitable powers of the court.” Id., 47. It added, “[i]nsuranee premiums are paid during a decedent’s lifetime and the proceeds flow directly to the beneficiary. This is not analogous to a claim of continued payment of periodic alimony from the estate of the deceased ex-spouse.” Id.
+While the facts in Gallo indicate that alimony was awarded, the court’s discussion of the issue fails to link the life insurance policy to the alimony award as further security for payment pursuant to General Statutes § 46b-82. See also Thomas v. Thomas, 159 Conn. 477, 271 A.2d ‘62 (1970). The court’s decision to order the defendant to keep his former spouse as irrevocable beneficiary of his $25,000 life insurance policy was within its equitable powers; Pasquariello v. Pasquariello, 168 Conn. 579, 585, 362 A.2d 835 (1975); and its decision is sufficiently supported by the record. There was no abuse of the court’s discretion.
+In his final claim of error, the defendant argues that the court abused its discretion in permitting the plaintiff to retain approximately $40,000 in jointly owned assets that she unilaterally arrogated to herself after the commencement of the dissolution proceeding. He claims that by failing to make any order regarding this sum the court, in effect, rewarded the plaintiff for her own wrongdoing.
+The trial court’s authority to assign property pursuant to General Statutes § 46b-81 “is permissive not mandatory.” O’Neill v. O’Neill, 13 Conn. App. 300, 306, 536 A.2d 978 (1988). It need not rule on every single possession owned by the parties.
+The defendant had ample opportunity to challenge the absence of a ruling concerning the $40,000. He failed to raise it at the time of the judgment, or in his motion for special finding. In addition, he failed to seek articulation pursuant to Practice Book § 4051 or to move to open the judgment pursuant to Practice Book § 326. See Lucisano v. Lucisano, 200 Conn. 202, 205, 206 n.4, 510 A.2d 186 (1986); Misinonile v. Misinonile, 190 Conn. 132, 134, 459 A.2d 518 (1983).
+There is no error.
+In the addendum to his brief, the defendant correctly states that the trial court’s inclusion of $10,800 in real estate commission and closing costs was not warranted by the evidence. This, however, does not support his claim that he was entitled to an exact “one half’ of the value of the marital home.
