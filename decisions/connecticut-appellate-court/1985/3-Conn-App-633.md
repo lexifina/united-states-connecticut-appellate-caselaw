@@ -1,0 +1,34 @@
+---
+court: "Connecticut Appellate Court"
+docket: "2671"
+decided: "1985-04-30"
+citations: ["3 Conn. App. 633"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Carrione v. State of Connecticut"]
+source_url: "https://static.case.law/conn-app/3/cases/0633-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 777170
+cites_cases: ["103 S. Ct. 1775", "188 Conn. 681", "190 Conn. 351", "190 Conn. 667", "193 Conn. 35", "32 Conn. Sup. 349", "355 A.2d 324", "453 A.2d 1137", "460 A.2d 1290", "460 U.S. 1084", "461 A.2d 1380", "475 A.2d 269", "76 L. Ed. 2d 347"]
+---
+
+# Carrione v. State
+
+## Majority (Dupont, C.P. J.)
+
+Dupont, C.P. J.
+The issue of this case is whether the plaintiffs petition for a new trial made pursuant to General Statutes § 52-270 should have been granted by the trial court. Prior to her petition, the plaintiff had been convicted of larceny in the first degree, a violation of General Statutes §§ 53a-122 (a) (2) and 53a-119. The larceny conviction involved a Ponzi profit scheme in which the plaintiff persuaded her friends and relatives to invest money through her.. Some investors received very large monetary returns in very short periods of time on their investments. They, and others, induced by such seemingly high profits, invested other money or reinvested the same money with the plaintiff which was never returned to them. The plaintiff appealed her conviction to the Supreme Court and it was upheld.
+The plaintiff’s petition for a new trial is based upon the claim that someone not involved in the original trial has now made a statement that he invested money with William Belward, and not the plaintiff. William Belward was a member of the Norwalk police department and testified at the plaintiff’s trial that he was also a victim of the plaintiff, having invested his own funds with her.
+The plaintiff claims that this evidence was newly discovered, could not have been discovered by the exercise of due diligence for use in the original trial, was material, was exculpatory, and that the jury would probably have found in her favor if the evidence had been presented at her trial. These are the classic tests for determining whether a petition for a new trial should be granted where it is claimed that other evidence was discovered after the conclusion of a trial. Kubeck v. Foremost Foods Co., 190 Conn. 667, 670, 461 A.2d 1380 (1983); Burr v. Lichtenheim, 190 Conn. 351, 355, 460 A.2d 1290 (1983); Reilly v. State, 32 Conn. Sup. 349, 354-55, 355 A.2d 324 (1976). The granting or denial of a petition for a new trial is within the discretion of the trial court and will not be disturbed unless an abuse of discretion has occurred. Burr v. Lichtenheim, supra. A new trial is not required if the evidence is merely cumulative, that is, if the evidence duplicates a fact already established or is of the same nature as was previously offered for proof of a fact. Reilly v. State, supra, 355.
+The paramount question to be determined in a petition for a new trial is whether an injustice occurred in the rendering of the prior judgment, and whether it is probable that a new trial would yield a different result. Id., 355-56.
+In the present case, the same trial judge presided at the trial and at the hearing on the petition for a new trial. That judge is in a uniquely advantageous position to assess whether another trial would produce a different outcome, given the introduction of the new evidence. The trial court found that any testimony of the newly discovered witness would not establish the probability of a different result at a second trial, and that the statement of the putative witness was not exculpatory.
+The guilt of Mary Carrione was earlier established beyond a reasonable doubt. State v. Carrione, 188 Conn. 681, 453 A.2d 1137 (1982), cert. denied, 460 U.S. 1084, 103 S. Ct. 1775, 76 L. Ed. 2d 347 (1983). Larceny in the first degree, at the time of the commission of the crime, required a misappropriation of a sum in excess of $2000. Even with the testimony of the additional new witness, and even if the testimony of William Belward were stricken, the verdict of guilty of the crime charged, as established through other witnesses, would not change. See footnote 2, supra.
+The plaintiff claims that one of the standards for determining whether to grant a petition for a new trial has been changed by case law and that it is no longer whether a different result would be “likely” but whether a different result would be “probable” after a second trial. She relies upon Reilly v. State, supra, for that proposition. She senses a substantive difference in the semantics. There is none. “Likely” is defined in Webster, Third New International Dictionary as “of such a nature or so circumstanced as to make something probable.” The synonyms for “probable” in the same source are “possible” and “likely.” In this case, even if “probable” were a lesser standard than “likely,” the memorandum of decision of the trial court uses the terms interchangeably and concludes that the new testimony did not establish the “probability of a different result upon a new trial.”
+It is not certain that the evidence was not available to the plaintiff, whether it be deemed exculpatory or not. The trial court found that the material was neither exculpatory nor material. The burden was with the plaintiff to show that the evidence was both. State v. Gradzik, 193 Conn. 35, 40, 475 A.2d 269 (1984). The plaintiff has not provided this court with a transcript of the original trial and it is impossible, therefore, to review her claim that the statement of the new witness would have been both material and exculpatory.
+The state claims that it maintained an “open file” for the plaintiff’s perusal, and that the plaintiff either did not see the statement or failed to avail herself of the opportunity to look in the file. Whether the statement is new or newly resurrected, however, fails to change the outcome of this appeal.
+There is no error.
+In this opinion the other judges concurred.
+General Statutes § 52-270 (a) provides in pertinent part: “The Superior Court may grant a new trial of any action that may come before it, for . . . the discovery of new evidence . . . according to the usual rules in such cases.”
+State v. Carrione, 188 Conn. 681, 453 A.2d 1137 (1982), cert. denied, 460 U.S. 1084, 103 S. Ct. 1775, 76 L. Ed. 2d 347 (1983). On appeal, in that case, Carrione conceded that if the jury believed the testimony of the witnesses for the state, particularly of Louis Argenio, they could reasonably conclude that she was guilty. Louis Argenio testified that he had given the defendant $32,000.
+Six persons, other than William Belward, testified during the original trial that they were victims of Carrione and had given money to her.
