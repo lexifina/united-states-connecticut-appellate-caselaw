@@ -1,0 +1,33 @@
+---
+court: "Connecticut Appellate Court"
+docket: "11485"
+decided: "1993-06-29"
+citations: ["31 Conn. App. 757"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Colucci v. PJR’s, Inc., et al."]
+source_url: "https://static.case.law/conn-app/31/cases/0757-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 723925
+cites_cases: ["213 Conn. 446", "569 A.2d 10"]
+---
+
+# Colucci v. PJR's, Inc.
+
+## Majority (Landau, J.)
+
+Landau, J.
+The plaintiff appeals from the trial court’s judgment, challenging the granting of a motion in limine precluding him from offering any evidence regarding a prior accident that he claims was “substantially similar” to the accident that occurred in this case. The plaintiff claims that the trial court’s exclusion of this evidence was improper. We disagree and affirm the judgment of the trial court.
+The following facts are pertinent to this appeal. Deana Phelan was a customer at the defendant My Place Cafe. After consuming five or more alcoholic beverages, Phelan was involved in an altercation leading to her removal from the establishment. After she had been thrown out of the cafe, Phelan continued to cause a disturbance and a bartender at the cafe called the Waterbury police. The police arrived and, when approached by a police officer, Phelan got into her car, locked the doors, and drove out onto Meriden Road in front of the cafe. She then turned her car and drove directly into the left front of the cafe. When her car first struck the cafe, it did not go through the wall but instead became stuck on the curb in front. Phelan backed up her car and then drove forward through the wall into the cafe and struck the plaintiff, John Colucci, causing him injury.
+The plaintiff brought a cause of action against the defendants in two counts. The first count was brought pursuant to General Statutes § 30-102, the Dram Shop Act. The second count alleged negligent supervision. At trial, the defendants filed a motion in limine requesting the trial court to exclude any evidence regarding what the plaintiff described as a “substantially similar” accident that occurred eight or nine years prior to the incident involving Phelan. The trial court granted the defendants’ motion and the jury returned a plaintiff’s verdict on count one, awarding the plaintiff $200,000 in damages, and a defendants’ verdict on count two. This appeal ensued.
+On appeal, the plaintiff claims that the trial court improperly granted the defendants’ motion precluding the introduction of any evidence regarding the prior accident. We disagree.
+“It is a well established principle of law that the trial court may exercise its discretion with regard to eviden-tiary rulings, and the trial court’s rulings will not be disturbed on appellate review absent abuse of that discretion. . . . Evidence of other similar accidents is admissible to prove the existence of a particular physical condition, situation, or defect. ... A party attempting to offer evidence of prior accidents or evidence of the experience of others has the burden of proving that the circumstances were substantially the same as those under which the plaintiff was injured, and that the use by others was substantially similar to that of the plaintiff. ... We cannot ignore completely that when a claim is made for the showing of prior accidents, an element of a trial on collateral issues, sometimes termed a trial within a trial, is introduced with a real possibility of undue delay. . . . Moreover, [ejvidence of prior occurrences will be admitted only if the proffering party first lays a sufficient foundation of substantial similarity of conditions between the immediate and the prior happenings. . . . The question whether the essential preliminaries have been established is for the court, and the court’s decision will not be disturbed unless there is clear and manifest error.” (Citations omitted; internal quotation marks omitted.) Hall v. Burns, 213 Conn. 446, 451-52, 569 A.2d 10 (1990).
+In an offer of proof, the plaintiff attempted to show that the incident that occurred previously was substantially similar to Phelan’s actions in the present case. The court heard evidence that a patron of the bar, Michael Wagner, after ordering a drink, created a disturbance and was asked to leave. Wagner left the bar, got into his truck, and drove it into the front wall of the bar. Wagner did not drive all the way into the bar because the sidewalk curb stopped his vehicle. Mr. Wagner, however, could not account for how his truck was propelled into the bar. In the present case, Phelan, after initially getting caught on the curb, made a second attempt to drive into the bar, and was successful.
+“The term ‘substantially’ in this context is relative in its significance and it is a term that must be evaluated according to the facts of a particular case in determining whether the trial court’s exercise of discretion was ‘clear and manifest error.’ ” Id., 454. “[I]t is within the trial court’s sound discretion to admit evidence of prior accidents. Sound discretion, by definition, means a discretion that is not exercised arbitrarily or wilfully, but with regard to what is right and equitable under the circumstances and the law. . . . And [it] requires a knowledge and understanding of the material circumstances surrounding the matter . . . .” (Internal quotation marks omitted.) Id., 455.
+Under the circumstances of this case, we cannot say that it was an abuse of discretion for the trial court to exclude the prior accident evidence.
+The judgment is affirmed.
+In this opinion the other judges concurred.
+The other defendants are the named defendant and Peter Francis, the permittee of My Place Cafe.
+General Statutes § 30-102 provides in pertinent part: “If any person, by himself or Ms agent, sells any alcoholic liquor to an intoxicated person, and such purchaser, in consequence of such intoxication, thereafter injures the person or property of another, such seller shall pay just damages to the person injured, up to the amount of twenty thousand dollars, or to persons injured in consequence of such intoxication up to an aggregate amount of fifty thousand dollars, to be recovered in an action under this section, provided the aggrieved person or persons shall give written notice to such seller within sixty days of the occurrence of such injury to person or property of his or their intention to bring an action under this section. . . .”
+The trial court reduced the jury’s award to $20,000 in accordance with General Statutes § 30-102. See footnote 2, supra.
