@@ -1,0 +1,29 @@
+---
+court: "Connecticut Appellate Court"
+docket: "2391"
+decided: "1984-06-19"
+citations: ["2 Conn. App. 160"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sandra Jannetty v. Joseph Jannetty"]
+source_url: "https://static.case.law/conn-app/2/cases/0160-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 774989
+cites_cases: ["1 Conn. App. 400", "191 Conn. 468", "464 A.2d 837", "472 A.2d 799"]
+---
+
+# Jannetty v. Jannetty
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal from a postjudgment modification of a judgment rendered on March 17, 1982, in an action for the dissolution of marriage. The original judgment, in pertinent part, ordered that the parties would have joint custody of their fifteen year old child, with the recommendation that physical custody be with the plaintiff mother. The defendant was ordered to pay seventy dollars per week to the plaintiff for the support of the minor child “while [the child was] residing with the plaintiff or such daily portion thereof if not continuous.” Shortly after the rendition of the judgment, the defendant filed a motion to reargue and clarify, which was denied, after a hearing, on May 4, 1982. Nine days later the defendant filed a “motion for physical support and custody.” The trial court, DeMayo, J., modified the judgment by ordering that physical custody of the minor child be awarded to the defendant and that the plaintiff pay the defendant forty dollars per week as child support. The sole issue on appeal is whether the trial court erred in modifying the original financial orders. The claim of the plaintiff is that there was no evidence of a substantial change in circumstances of either party upon which such a modification could be based.
+General Statutes § 46b-86 (a), in pertinent part, provides that “any final order for the periodic payment of permanent alimony or support . . . may at any time thereafter be continued, set aside, altered or modified . . . upon a showing of a substantial change in the circumstances of either party.” Decisional law makes it clear that the substantial change must not have been contemplated at the time of the original decree and must have arisen thereafter. Connolly v. Connolly, 191 Conn. 468, 473, 464 A.2d 837 (1983); Howat v. Howat, 1 Conn. App. 400, 402-403, 472 A.2d 799 (1984).
+In the present case, the defendant did not show that there had been an uncontemplated substantial change in the circumstances of either party between the time of the final judgment and the modification, a period of less than two months.
+As of the date of the original judgment, the memorandum of decision of the trial court makes it clear that the son was living with his paternal grandmother during the week and with his father during the weekend. The son, at that time, stated that he wished to live with his father. Since the trial court believed that the son’s interests might better be served by residing with his mother, it recommended that physical custody be with the mother. In contemplation of the eventuality that his son would reside with him, the defendant sought certain items of furniture which were in possession of the plaintiff. The trial court denied that request. The defendant’s post-trial motion for physical custody states, as its basis, that the minor child “desires to live with the defendant.” Since that fact was contemplated by the trial court at the time of the original judgment, it cannot serve as a foundation for the substantial change in circumstances necessary for modification of child support orders. Furthermore, the trial court, knowing that the physical custody of the son was not with the mother at the time, did not order her to pay any amount for child support.
+The financial affidavits of the parties, filed at the time of the original judgment and at the time of the modification, differ only to the extent that they are reflective of the orders of the original judgment. The plaintiff had approximately $100 more in weekly income and the defendant had approximately $100 less in weekly income at the time of the modification hearing because of the original award of $100 to the plaintiff of weekly periodic alimony. Any difference in the dollar value of the assets of the plaintiff and the defendant during the same time period is also attributable to the original judgment. Such a change in the financial condition of the parties does not constitute an uncontemplated substantial change in their circumstances.
+There is error, the judgment is set aside and the case is remanded to the trial court with direction to delete from the modification of the judgment, the order that the plaintiff pay the defendant forty dollars per week as child support.
+This appeal, originally filed in the Supreme Court, was transferred to this court. Public Acts, Spec. Sess., June, 1983, No. 83-29, § 2 (c).
+The plaintiff also claimed error in the trial court’s modification of that portion of the original judgment relating to custody. The trial court’s memorandum of decision in response to the plaintiff’s motion for articulation, however, makes it clear that there was no modification of the original joint custody order. This issue, therefore, is not considered by this court. Physical custody of the child, shortly after the dissolution of the marriage of the parties and at the time of oral argument was with the defendant father. In accordance with the original judgment, the plaintiff is not due any sums for child support as long as the child is not residing with her.
+At the time of the original judgment, the defendant’s financial affidavit indicated that he was paying $100 per week to his mother for the support of his son. Presumably, now that the child no longer resides with his grandmother, the defendant will be relieved of this obligation.
