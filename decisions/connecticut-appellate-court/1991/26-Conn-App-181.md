@@ -1,0 +1,38 @@
+---
+court: "Connecticut Appellate Court"
+docket: "9631"
+decided: "1991-11-19"
+citations: ["26 Conn. App. 181"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Audubon Parking Associates Limited Partnership v. Barclay and Stubbs, Inc., et al."]
+source_url: "https://static.case.law/conn-app/26/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 755253
+cites_cases: ["151 Conn. 107", "193 A.2d 601", "40 Conn. Sup. 358", "497 A.2d 771", "499 A.2d 444", "5 Conn. App. 203"]
+---
+
+# Audubon Parking Associates Ltd. Partnership v. Barclay & Stubbs, Inc.
+
+## Majority (Foti, J.)
+
+Foti, J.
+The defendants appeal from the judgment rendered in favor of the plaintiff. The plaintiff has cross appealed claiming that the trial court improperly denied its request for costs and attorney’s fees.
+The plaintiff brought an action against the defendants for breach of a commercial lease, and the defendants filed a counterclaim. The trial commenced on May 15,1990, and after two days of jury selection the parties reported to the trial judge that the matter had been settled for $50,000 with an exchange of releases between the parties. The court asked the parties if they fully understood and agreed with the terms of the settlement. After receiving an affirmative response, the court asked the attorneys to withdraw the complaint and the counterclaim for administrative reasons. As an incentive for compliance with this request, the court indicated that it would reinstate the case without costs or prejudice if the parties subsequently decided not to abide by the settlement.
+When the defendants did not tender payment in accordance with the settlement agreement, the plaintiff moved to restore the case to the docket. The plaintiff also reserved its right to enforce the settlement agreement. On August 15,1990, the court reinstated the matter to the trial docket and ordered jury selection to commence on August 21,1990. On August 20, 1990, the plaintiff filed a motion entitled “Motion for Judgment In Accordance with and Enforcement of Contract of Settlement.” On October 1,1990, the court granted the motion and rendered judgment for the plaintiff in accordance with the contract of settlement.
+The defendants appeal from that judgment claiming that (1) the court’s offer to reinstate the matter without costs or prejudice gave them the right to withdraw unilaterally from the settlement, (2) the plaintiff did not elect to enforce the settlement agreement properly because it did not move for judgment on the contract of settlement until after the matter had been reinstated to the docket for trial, and (3) the court violated the defendants’ constitutional right to a trial by jury by both reinstating the matter to the docket and rendering judgment on the settlement agreement. We reverse the judgment of the trial court.
+“(1) An accord is a contract under which an obligee promises to accept a stated performance in satisfaction of the obligor’s existing duty. Performance of the accord discharges the original duty.
+“(2) Until performance of the accord, the original duty is suspended unless there is such a breach of the accord by the obligor as discharges the new duty of the obligee to accept the performance in satisfaction. If there is such a breach, the obligee may enforce either the original duty or any duty under the accord.” 2 Restatement (Second), Contracts § 281; see W.H. McCune, Inc. v. Revzon, 151 Conn. 107, 109, 193 A.2d 601 (1963).
+The settlement agreement at issue was accompanied by and conditioned upon the withdrawal of both the action and counterclaim. At the time of the breach of the settlement agreement, because there was no longer an action pending, the plaintiff had alternative rights. The plaintiff could have proceeded on either the original claim or the subsequent contract. See Montgomery v. Smith, 40 Conn. Sup. 358, 360-61, 499 A.2d 444 (1985). A plaintiff, as a creditor under a default in the performance of an accord may “sue either on the original cause of action, or ... on the contract of accord.” 15 S. Williston, Contracts (3d Ed. Jaeger) § 1848; see Air-Care N.O. Nelson Co. v. Ratchet, 5 Conn. App. 203, 206, 497 A.2d 771 (1985).
+The court’s statement that if the parties chose not to proceed on the settlement it would allow the matter to be reinstated without costs or prejudice was directed to both parties, not merely to the plaintiff. The court’s remark was an offer to restore the parties to the status quo should the settlement agreement not be completed. The status quo was the position of the parties prior to the settlement agreement. When the agreement was not carried out by the defendants, the plaintiff had two options: The plaintiff could have (1) elected to proceed to trial, or (2) instituted a separate action based on the breached contract of accord. In either case, the defendants would have had the right to a trial by jury. The court, however, allowed the plaintiff to pursue both remedies in a single motion, rather than requiring the plaintiff to elect one remedy. In the context of the action for breach of the lease, the motion for judgment on the settlement agreement does not lie. In rendering judgment for the plaintiff in accordance with the contract of settlement without a trial, the court deprived the defendants of a right to a jury trial. The plaintiff must elect either to proceed to trial on the pending claim, or to bring suit on the settlement agreement.
+On the appeal, the judgment is reversed and the case is remanded with direction to deny the plaintiffs motion for judgment in accordance with the contract of settlement. The cross appeal is dismissed.
+In this opinion the other judges concurred.
+In addition to the named corporate defendant, there is a second defendant, Benjamin S. Morris, the president and principal shareholder, and a guarantor of the lease.
+Both the order that granted the motion and the judgment file indicate that the court granted attorney’s fees. A motion to rectify was granted by the court on February 11,1991, correcting the record to show that the plaintiff was denied attorney’s fees. While the cross appeal appears to be proper; Practice Book § 4005; we find it unnecessary to decide the cross appeal in view of our decision on the appeal.
+The court did not render judgment on the agreement but rather stated after hearing the terms of the agreement:
+“I would ask counsel to supply withdrawals of the complaint and the counterclaim now before they leave the courtroom.
+“Should this matter unravel and the parties choose not to proceed on the settlement on the underlying action, I will allow the matter to be reinstated without costs and without prejudice.”
+The plaintiff filed a motion to open asking that “the case be set down for immediate trial” and “[fjurther ... for the award of all attorneys fees, costs and expenses in connection with this motion . . . and for attorneys fees and costs in connection with any subsequent proceeding to enforce the contract of settlement or to further prosecute this action.”
+On July 16, 1990, the plaintiff, through counsel, sent a letter to the defendants’ counsel that stated in part:
+“This Motion to Reopen does not constitute an election on our part that we will only pursue the case in chief. It simply constitutes the first action we intend to take to resolve this matter. We reserve the right at all times to either sue upon the contract of settlement or to reopen the original claim. As to either action, we are seeking all attorneys’ fees so expended.”
