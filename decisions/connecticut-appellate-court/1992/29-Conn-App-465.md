@@ -1,0 +1,35 @@
+---
+court: "Connecticut Appellate Court"
+docket: "10768"
+decided: "1992-11-10"
+citations: ["29 Conn. App. 465"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Michael Infante v. Michelle Porath"]
+source_url: "https://static.case.law/conn-app/29/cases/0465-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 718789
+cites_cases: ["131 Conn. 396", "157 Conn. 126", "209 Conn. 191", "220 Conn. 796", "249 A.2d 249", "40 A.2d 190", "550 A.2d 309", "601 A.2d 1013"]
+---
+
+# Infante v. Porath
+
+## Majority (Landau, J.)
+
+Landau, J.
+The defendant appeals from the judgment of the trial court in favor of the plaintiff. The defendant claims that the trial court improperly concluded that her motion to reopen was untimely, thereby precluding the court’s jurisdiction to hear the matter. We agree.
+The plaintiff brought an action on a promissory note against the defendant, Michelle Porath. The defendant did not appear, and the trial court granted the plaintiff’s motion for default for failure to appear. In April, 1991, the plaintiff filed a motion for judgment, and judgment was rendered on April 29, 1991. On August 29,1991, the plaintiff filed a “motion to reopen” the judgment pursuant to Practice Book § 377. The trial court denied the motion, stating that the plaintiff failed to file the motion within the time period provided by the rules of practice.
+“The rules of statutory construction apply with equal force to Practice Book rules. ... A basic tenet of statutory construction is that when a statute [or rule of practice] is clear and unambiguous, there is no room for construction.” (Citations omitted; internal quotation marks omitted.) State v. Genotti, 220 Conn. 796, 807, 601 A.2d 1013 (1992); Nichols v. Warren, 209 Conn. 191, 196, 550 A.2d 309 (1988). The words “following” and “succeeding” mean “to come or take place after in time, sequence, or order.” Webster, Third New International Dictionary. The plain language of Practice Book § 377 and General Statutes § 52-212 requires that the date of the judgment not be included in the calculation.
+This determination is reinforced by the language in Practice Book § 584, which provides that “[t]he court may, upon motion, and after such notice by mail, or otherwise as it may order, vacate any judgment rendered under this procedure, within four months from the date thereof . . . .” The same section provides that the “court may, for the reasons indicated above, vacate any judgment rendered by default at any time within four months succeeding the date upon which a wage execution was levied.” If the framers of the rule had intended that the judgment be vacated within four months of the wage execution, including the date thereof, they would have explicitly so stated; State v. Genotti, supra, 809; as they did in Practice Book § 584, instead of stating that the judgment could be vacated within four months succeeding the date upon which the wage execution was levied. “ ‘We will not torture the words or sentence structure of a statute [or rule] to import an ambiguity where the ordinary meaning of the language leaves no room for it.’ ” State v. Genotti, supra.
+It is well settled that the day of the act from which a future time is to be ascertained is to be excluded from the computation. Lamberti v. Stamford, 131 Conn. 396, 397-98, 40 A.2d 190 (1944). This is consistent with the language of both Practice Book § 377 and General Statutes § 52-212. Excluding the date of the judgment, the first full day of the period was April 30, 1991.
+Finally, we consider the meaning of the word month. The word “month” shall mean “calendar month.” General Statutes § 1-1 (i). Four calendar months refers “to a period of time and not to specific months as named in the calendar.” Krajniak v. Wilson, 157 Conn. 126, 130, 249 A.2d 249 (1968). A period of time of one calendar month, if the first day of that period is the first day of the calendar month, would terminate at the end of the last day of that calendar month rather than at the end of the first day of the next succeeding calendar month. Correspondingly, if the first day of the period is other than the first day of the month, such as April 29 in the present case, the period of one month would terminate at the end of May 28 rather than at the end of May 29. The same rule applies where the period, as here, consists of several months. Id. Thus, in the present case, because the period began to run on April 30, 1991, it expired on August 29, 1991. Therefore, the defendant’s motion to open was timely filed.
+The denial of the defendant’s motion to open the judgment is reversed and the case is remanded for further proceedings on that motion.
+In this opinion the other judges concurred.
+We will treat the motion as a motion to open.
+Practice Book § 377 provides in part: “Any judgment rendered or decree passed upon a default or nonsuit may be set aside within four months succeeding the date on which it was rendered or passed . . . .”
+The parties framed the issue on this appeal as whether the language “within four months following the date on which [the judgment] was rendered or passed” found in General Statutes §§ 52-212 and 52-212a, as well as in Practice Book § 326, began to run on the day of the judgment or the day following the judgment. The rule of practice applicable to a motion to open upon default, however, is § 377. Furthermore, the applicable statute is § 52-212, not § 52-212a. Therefore, we review this appeal under Practice Book § 377 and General Statutes § 52-212.
+The language in each of those sections is similar. Prior to 1982, §§ 52-212 and 52-212a provided that a judgment could be opened within four months “succeeding” the date on which it was rendered or passed. In 1982, the legislature amended both sections, substituting the word “following” for the word “succeeding.” Public Acts 1982, No. 82-160, § 102. The legislative history reveals, however, that these revisions were technical in nature, and did not affect the substance of the law.
+Practice Book § 326 provides in part: “[A]ny civil judgment or decree rendered in the superior court may not be opened or set aside unless a motion to open or set aside is filed within four months succeeding the date on which it was rendered or passed. . . .”
+General Statutes § 52-212 provides in part: “reopening judgment upon default OR nonsuit, (a) Any judgment rendered or decree passed upon a default or nonsuit in the superior court may be set aside, within four months following the date on which it was rendered or passed . . .
+General Statutes § 52-212a provides in part: “civil judgment or decree reopened or set aside within four months only. Unless otherwise provided by law and except in such cases in which the court has continuing jurisdiction, a civil judgment or decree rendered in the superior court may not be opened or set aside unless a motion to open or set aside is filed within four months following the date on which it was rendered or passed. . . .”
