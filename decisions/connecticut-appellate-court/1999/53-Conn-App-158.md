@@ -1,0 +1,36 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 18357"
+decided: "1999-05-04"
+citations: ["53 Conn. App. 158"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANK RICIGLIANO v. J. J. RYAN CORPORATION ET AL."]
+source_url: "https://static.case.law/conn-app/53/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 228819
+cites_cases: ["132 Conn. 118", "139 Conn. 215", "177 Conn. 107", "177 Conn. 117", "207 Conn. 420", "207 Conn. 535", "21 Conn. App. 107", "215 Conn. 808", "219 Conn. 674", "411 A.2d 924", "42 A.2d 655", "49 Conn. App. 339", "51 Conn. App. 106", "541 A.2d 1216", "542 A.2d 1118", "572 A.2d 69", "576 A.2d 538", "594 A.2d 967", "715 A.2d 765", "719 A.2d 1225", "92 A.2d 736"]
+---
+
+# Ricigliano v. J. J. Ryan Corp.
+
+## Majority (SULLIVAN, J.)
+
+Opinion
+SULLIVAN, J.
+The plaintiff, Frank Ricigliano, appeals from the decision of the workers’ compensation review board (board) affirming the decision of the workers’ compensation commissioner (commissioner). The plaintiff asserts that the board improperly affirmed the commissioner’s finding (1) as to the degree of the plaintiffs hearing loss and (2) that the “insurance examining physician’s opinion was more credible than that of the other examining physician’s opinion” despite the fact that both physicians found hearing loss requiring the use of a hearing aid. We affirm the board’s decision.
+The commissioner found the following facts. In January, 1972, the plaintiff started working as a press operator for the Rex Forge division of the defendant J. J. Ryan Corporation (Rex Forge). After approximately one year, he moved to the forge shop where he worked on a drop hammer, a 3000 pound ram with a die head that stamps out tools. After his job at Rex Forge was terminated in 1989, he started working in the maintenance department at the defendant Ideal Forging Corporation (Ideal). His workroom was close to the forge area, and his job required his occasionally entering the forge area.
+Stanley Friedman, a physician, initially examined the plaintiff on January 17, 1992, and found a 24.58 percent binaural hearing loss. On November 13, 1992, physician Eiji Yanagisawa examined the plaintiff and interpreted an audiogram as indicating a 0.62 percent binaural hearing loss. A second examination by Friedman on January 22, 1993, resulted in an audiogram that he interpreted as indicating a 35 percent binaural hearing loss. Both Friedman and Yanagisawa agree that the plaintiff suffered a hearing loss caused by repeated occupational exposure to excessive noise at Rex Forge and Ideal. They disagree, however, in their interpretations of the audiograms. Yanagisawa used the American Medical Association (AMA) guidelines. Friedman used a different method of calculating hearing loss.
+On October 20, 1994, the commissioner relied on the AMA standards and found a 0.68 percent binaural hearing loss. The plaintiff appealed that decision. On January 18,1996, the board issued a decision remanding the matter to the commissioner with instructions to determine the plaintiffs hearing loss without limiting the determination to the AMA guidelines. At the second hearing in 1996, neither party submitted further evidence, and the commissioner made a determination based on evidence from the original hearing. On November 4, 1996, the commissioner issued a finding that credited the testimony of Yanagisawa over that of Friedman and determined the hearing loss to be 0.62 percent. The board affirmed that decision as a factual determination, which it had no power to overturn on appeal.
+I
+The plaintiff first claims that the board improperly affirmed the commissioner’s finding and award. Specifically, he argues that the finding was based on a formula that does not account for the full extent of his hearing loss, has not been adopted as a standard by the Workers’ Compensation Act, General Statutes § 31-275 et seq., and was not introduced into evidence. We find no merit in this claim.
+“As a preliminary matter, we note that when a decision of a commissioner is appealed to the review division, the review division is obligated to hear the appeal on the record of the hearing before the commissioner and not to retry the facts. Fair v. People’s Savings Bank, 207 Conn. 535, 538-39, 542 A.2d 1118 (1988). The commissioner has the power and duty, as the trier of fact, to determine the facts. Castro v. Viera, 207 Conn. 420, 435, 541 A.2d 1216 (1988). ‘ “The conclusions drawn by him from the facts found must stand unless they result from an incorrect application of the law to the subordinate facts or from an inference illegally or unreasonably drawn from them.” Adzima v. UAC/Norden Division, [177 Conn. 107, 118, 411 A.2d 924 (1979)].’ Id. ‘Our scope of review of the actions of the review division is similarly limited.’ DeBarros v. Singleton, 21 Conn. App. 107, 110, 572 A.2d 69 [cert. denied, 215 Conn. 808, 576 A.2d 538] (1990).” Vanzant v. Hall, 219 Conn. 674, 677, 594 A.2d 967 (1991).
+After considering the testimony of both Friedman and Yanagisawa, the commissioner determined the extent of the plaintiffs hearing loss to be 0.62 percent. Because the commissioner’s finding was a reasonable factual determination, we conclude that the board properly affirmed his decision.
+II
+The plaintiff also claims that the board improperly affirmed the commissioner’s determination that Yanagi-sawa’s opinion was more credible than Friedman’s opinion despite the fact that both physicians undisputedly found a hearing loss sufficient to warrant the use of a hearing aid. We disagree.
+As we stated in part I of this opinion, it is well established that “the trial commissioner is the arbiter of evidentiary credibility. Adzima v. UAC/Norden Division, [supra, 177 Conn. 117-18], The conclusions drawn by him from the facts found must stand unless they result from an incorrect application of the law to the subordinate facts or from an inference illegally or unreasonably drawn from them. . . . This standard clearly applies to conflicting expert medical testimony. It [is] the province of the commissioner to accept the evidence which impress [es] him as being credible and the more weighty. Stankewicz v. Stanley Works, 139 Conn. 215, 217, 92 A.2d 736 (1952); see Winzler v. United Aircraft Corp., 132 Conn. 118, 120, 42 A.2d 655 (1945). . . . Dichello v. Holgrath Corp., 49 Conn. App. 339, 353, 715 A.2d 765 (1998).” (Internal quotation marks omitted.) Weiss v. Chesebrough-Ponds USA Co., 51 Conn. App. 106, 110-11, 719 A.2d 1225 (1998).
+Although both physicians reached the same conclusion that the plaintiff suffered a hearing loss sufficient to warrant the use of a hearing aid, the commissioner found that Yanagisawa’s opinion that the plaintiff had sustained a 0.62 percent binaural hearing loss was more credible than that of Friedman. Because the commissioner, as the trier of fact, was entitled and obliged to make that determination, we conclude that the board properly affirmed his decision.
+The decision of the workers’ compensation review board is affirmed.
+In this opinion the other judges concurred.
+Until 1975, the company was named J. J. Ryan Tool Co.
