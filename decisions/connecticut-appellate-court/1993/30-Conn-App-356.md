@@ -1,0 +1,29 @@
+---
+court: "Connecticut Appellate Court"
+docket: "11098"
+decided: "1993-02-16"
+citations: ["30 Conn. App. 356"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Oakhill Associates v. Edward A. D’Amato, Sr., et al."]
+source_url: "https://static.case.law/conn-app/30/cases/0356-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 721296
+cites_cases: ["188 Conn. 36", "204 Conn. 303", "28 Conn. App. 557", "448 A.2d 207", "507 A.2d 1007", "528 A.2d 1123", "6 Conn. App. 707", "611 A.2d 449"]
+---
+
+# Oakhill Associates v. D'Amato
+
+## Majority (Freedman, J.)
+
+Freedman, J.
+The plaintiff partnership, Oakhill Associates, appeals from the judgment rendered, after a trial to the court, for the defendant Edward A. D’Amato, Sr. (D’Amato), a member of the partnership, and the defendant D’Amato Construction Company. Oakhill’s four count complaint alleged a breach of contract, negligence, a breach of fiduciary duty and a violation of the Connecticut Unfair Trade Practices Act, General Statutes § 42-110a et seq., all arising out of a claim that the defendants charged excessive and unreasonable amounts for site development work performed for Oakhill. The trial court found the issues for the defendants after concluding that the plaintiff had not sustained its burden of proving the defendants’ charges to be excessive or unreasonable. We affirm the judgment of the trial court.
+The plaintiff first challenges the factual findings of the trial court. The plaintiff argues that the trial court could not properly find that the defendants’ charges were not excessive. We are not persuaded.
+“When the factual basis of the trial court’s decision is challenged on appeal, the role of this court is to determine whether the facts set out in the memorandum of decision are supported by the evidence or whether, in light of the evidence and the pleadings in the whole record, those facts are clearly erroneous. . . . The trier is the final judge of the credibility of witnesses and of the weight to be accorded their testimony. ... On appeal, the function of this court is limited solely to the determination of whether the decision of the trial court is clearly erroneous. . . . This court cannot find fact[s] or draw conclusions from primary facts found, but can only review such findings to determine whether they could have legally, logically and reasonably been found by the trier. . . .” (Citations omitted; internal quotation marks omitted.) R. Zemper & Associates v. Scozzafava, 28 Conn. App. 557, 560-61, 611 A.2d 449 (1992).
+The trial court carefully reviewed the conflicting evidence regarding the work done by the defendants and the reasonable cost of the work involved. The court concluded that the plaintiff had failed to show that the defendants’ charges were excessive. After our own careful review of the trial transcript and the record and briefs on appeal, we believe that the trial court could reasonably and logically have concluded that the plaintiff failed to establish, by a preponderance of the evidence, that the defendants’ charges were improper. The plaintiffs challenge to the trial court’s finding that the defendants’ charges were not excessive or unreasonable is, therefore, without merit.
+The plaintiff’s challenge to the trial court’s determination of liability with respect to the third count, alleging a breach of a fiduciary duty by the individual defendant, must also fail. The plaintiff argues correctly that the trial court improperly allocated the burden of proof on this issue by not shifting the burden to defendant D’Amato to prove his fair dealing with the partnership by clear and convincing evidence. See 59A Am. Jur. 2d, Partnership § 420; see also Dunham v. Dunham, 204 Conn. 303, 322-23, 528 A.2d 1123 (1987). Yet, that misallocation does not require the reversal of the trial court’s judgment on the third count under the circumstances of this case.
+In an action alleging the breach of a fiduciary duty, although the burden will shift to the defendant to establish his freedom from liability by clear and convincing proof of his fair dealing, in all other respects the case proceeds as any other civil case. See Dunham v. Dunham, supra, 320; cf. Alaimo v. Royer, 188 Conn. 36, 40, 448 A.2d 207 (1982) (involving a claim of fraud). Thus, the burden remains with the plaintiff to prove every other element of its claim, including the fact of damage. Consequently, although the trial court misallocated the burden of proof on the liability aspect of the plaintiff’s claim of a breach of fiduciary duty, the trial court properly allocated the burden of proof on damages. That the trial court could misallocate the burden of proof with respect to an element of liability and still properly conclude that the plaintiff was not damaged is a function of the unique circumstances of this particular case. Here, the evidence probative of liability was the very same evidence related to damages. While the court was obligated to judge the evidence concerning the alleged breach of a fiduciary duty by shifting the burden to D’Amato to prove his fair dealing with the partnership by clear and convincing evidence, it was required to evaluate that evidence on the issue of damages by whether the plaintiff had met its burden by the less exacting preponderance of the evidence standard. As noted previously, the plaintiff failed to satisfy the trial court by a preponderance of the evidence that the defendants’ charges were excessive or unreasonable.
+Under these circumstances, the misapplication of the burden of proof could not have affected the result. See, e.g., Evans v. Santoro, 6 Conn. App. 707, 712, 507 A.2d 1007 (1986). Any error was therefore harmless and affords no basis for disturbing the judgment.
+The judgment is affirmed.
+In this opinion the other judges concurred.
