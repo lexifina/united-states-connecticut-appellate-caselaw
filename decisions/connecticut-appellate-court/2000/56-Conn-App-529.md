@@ -1,0 +1,43 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 18412"
+decided: "2000-02-08"
+citations: ["56 Conn. App. 529"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF CONNECTICUT v. HERIBERTO QUINONES"]
+source_url: "https://static.case.law/conn-app/56/cases/0529-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 444021
+cites_cases: ["147 Conn. 672", "165 A.2d 598", "195 Conn. 174", "213 Conn. 233", "213 Conn. 239", "235 Conn. 502", "235 Conn. 679", "237 Conn. 284", "242 Conn. 902", "244 Conn. 1", "244 Conn. 908", "245 Conn. 1", "250 Conn. 466", "250 Conn. 722", "384 U.S. 436", "44 Conn. App. 818", "47 Conn. App. 542", "487 A.2d 181", "53 Conn. App. 581", "567 A.2d 823", "668 A.2d 1288", "668 A.2d 1333", "677 A.2d 917", "692 A.2d 846", "697 A.2d 363", "706 A.2d 480", "707 A.2d 725", "713 A.2d 829", "717 A.2d 77", "734 A.2d 991", "736 A.2d 125", "737 A.2d 442"]
+---
+
+# State v. Quinones
+
+## Majority (O’CONNELL, C. J.)
+
+Opinion
+O’CONNELL, C. J.
+The defendant, Heriberto Quinones, appeals from the judgment of conviction, rendered after a jury trial, of assault in the third degree in violation of General Statutes § 53a-61 (a) (1) and breach of the peace in violation of General Statutes § 53a-181 (a) (2). On appeal, the defendant claims that the trial court improperly (1) admitted into evidence inculpatory statements he made during his postarrest interview and (2) declined to deliver a Secondino missing witness instruction. We affirm the judgment of the trial court.
+The following facts and procedural history are relevant to this appeal. On March 12, 1997, the defendant punched his girlfriend, Prudencia Ferrar, with whom he lived, causing her physical injury. The incident took place at a nightclub in Groton, in an area reserved for female patrons, where Ferrar had gone to observe a male striptease performance. The defendant was arrested on March 13,1997, and was taken to the Groton police headquarters.
+Prior to being questioned by Officers Jeffrey Scribner and David Menard, the defendant signed an acknowledgment form indicating that he had been advised of his Miranda rights. Although he refused to sign a waiver or to provide a written statement, he waived his rights verbally and spoke freely, admitting that he had hit Ferrar. At no time during his postarrest interview did the defendant request an attorney or the cessation of police questioning.
+Scribner testified that the defendant originally denied hitting Ferrar. The defendant objected to this testimony solely on the ground that such testimony constituted hearsay. The trial court overruled the objection, however, on the ground that the statements constituted admissions of a party opponent. The defendant does not challenge this ruling on appeal. Menard testified that the defendant admitted that he hit Ferrar. The defendant did not object to this testimony. Ferrar did not testify.
+I
+The defendant claims, for the first time on appeal, that the trial court improperly admitted Menard’s testimony, thereby violating his federal and state constitutional rights against compelled self-incrimination. When a claim is raised for the first time on appeal, our review is limited to either the plain error doctrine or the standard expounded in State v. Golding, 213 Conn. 233, 239-40, 567 A.2d 823 (1989). State v. Barnett, 53 Conn. App. 581, 600, 734 A.2d 991 (1999).
+In his brief, the defendant argues, in passing, that it was plain error for the trial court to admit Menard’s testimony. We decline, however, to review this claim under the plain error doctrine because it was inadequately briefed. See State v. Henderson, 47 Conn. App. 542, 558, 706 A.2d 480, cert. denied, 244 Conn. 908, 713 A.2d 829 (1998) (declining review of issues inadequately briefed).
+Furthermore, the defendant did not request Golding review, and we will not conduct such review unless it is requested. See State v. Rodriguez, 44 Conn. App. 818, 823-24, 692 A.2d 846, cert. denied, 242 Conn. 902, 697 A.2d 363 (1997). Accordingly, we will not review it sua sponte under the Golding doctrine.
+II
+The defendant next claims that the trial court improperly failed to instruct the jury that it could draw a negative inference from the state’s failure to produce Ferrar as a witness. We do not agree.
+In Secondino v. New Haven Gas Co., 147 Conn. 672, 674-75, 165 A.2d 598 (1960), our Supreme Court held that the failure to produce a witness for trial who is available and whom a party would naturally be expected to call, warrants an adverse inference against that party. Subsequent to the trial court’s decision in the present case, and also subsequent to oral argument in the Appellate Court, our Supreme Court decided State v. Malave, 250 Conn. 722, 739, 737 A.2d 442 (1999). In Malave, our Supreme Court abandoned the Secondino rule in criminal cases. The Malave decision applies retroactively to this case because so doing will not produce substantial inequitable results and because our Supreme Court did not stipulate that the Malave decision should apply prospectively only. See Marone v. Waterbury, 244 Conn. 1, 10, 707 A.2d 725 (1998) (“judgments that are not by their terms limited to prospective application are presumed to apply retroactively”); Neyland v. Board of Education, 195 Conn. 174, 180, 487 A.2d 181 (1985) (where retroactive application of decision could produce substantially inequitable results, injustice or hardship may be avoided by holding of nonretroactivity). When our Supreme Court has intended a decision to apply prospectively only, it knows how to say so clearly. State v. Delvalle, 250 Conn. 466, 475-76, 736 A.2d 125 (1999) (“we . . . direct our trial courts to refrain from using the [jury instruction at issue in that case] in the future” [emphasis added]); State v. Troupe, 237 Conn. 284, 305, 677 A.2d 917 (1996) (en banc) (“rule that we announce today will apply only to . . . [testimony admitted after] the date of the publication of this opinion”); State v. Brown, 235 Conn. 502, 526, 668 A.2d 1288 (1995) (“we now hold that henceforth a trial court must [follow the announced rule]” [emphasis added]).
+The trial court, here, declined to give the missing witness instruction because it found that the Secondino criteria were not satisfied. In light of the Malave decision, we need not analyze whether this determination was correct because the defendant was not entitled to the instruction under any circumstances.
+For this reason we conclude that the trial court properly refused to give the Secondino instruction.
+The judgment is affirmed.
+In this opinion the other judges concurred.
+Secondino v. New Haven Gas Co., 147 Conn. 672, 165 A.2d 598 (1960).
+Miranda v. Arizona, 384 U.S. 436, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966).
+The defendant, concedes that he did not, preserve the constitutional claim and 1 hat a party is not entitled to have a claim reviewed on appeal on grounds different from those presented at trial. Willow Springs Condominium Assn., Inc. v. Seventh BRT Development Corp., 245 Conn. 1, 47-49, 717 A.2d 77 (1998).
+In Golding, our Supreme Court held that “a defendant can prevail on a claim of constitutional error not preserved at trial only if all, of the following conditions are met: (1) the record is adequate to review the alleged claim of error; (2) the claim is of constitutional magnitude alleging the violation of a fundamental right; (3) the alleged constitutional violation clearly exists and clearly deprived the defendant of a fair trial; and (4) if subject to harmless error analysis, the state has failed to demonstrate harmlessness of the alleged constitutional violation beyond a reasonable doubt” (Emphasis in original.) State v. Golding, supra, 213 Conn. 239-40.
+Plain error review “is reserved for truly extraordinary situations where the existence of the error is so obvious that it affects the fairness and integrity of and public confidence in the judicial proceedings.” (Internal quotation marks omitted.) State v. Domian, 235 Conn. 679, 692, 668 A.2d 1333 (1996). The defendant has not provided an analysis to support reversal of the trial court’s judgment on the ground of plain error, and we do not perceive any such basis.
+This is commonly referred to as the Secondino, or missing witness rule. The jury charge explaining the rule is known as the Secondino instruction or missing witness instruction. We use these terms interchangeably in this opinion.
+In 1998, the General Assembly abolished the use of the Secondino charge in civil cases. General Statutes § 52-216c.
