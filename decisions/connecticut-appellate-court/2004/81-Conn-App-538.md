@@ -1,0 +1,34 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 23340"
+decided: "2004-02-17"
+citations: ["81 Conn. App. 538"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PABLO ANDRADES v. COMMISSIONER OF CORRECTION"]
+source_url: "https://static.case.law/conn-app/81/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3186302
+cites_cases: ["110 L. Ed. 2d 667", "110 S. Ct. 3220", "213 Conn. 289", "223 Conn. 922", "254 Conn. 214", "260 Conn. 909", "264 Conn. 915", "28 Conn. App. 247", "496 U.S. 939", "567 A.2d 1187", "610 A.2d 181", "614 A.2d 823", "68 Conn. App. 905", "75 Conn. App. 743", "756 A.2d 1264", "793 A.2d 299", "795 A.2d 545", "80 Conn. App. 386", "817 A.2d 704", "826 A.2d 1159", "835 A.2d 126"]
+---
+
+# Andrades v. Commissioner of Correction
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The petitioner, Pablo Andrades, appeals following the denial by the habeas court of his petition for certification to appeal from that court’s refusal to issue a writ of habeas corpus. The appeal involves three issues: (1) whether it was an abuse of discretion for the court to deny the petition for certification to appeal from the court’s underlying decision not to issue a writ of habeas corpus; (2) whether the court incorrectly refused to issue a writ of habeas corpus; and (3) whether the court incorrectly refused to appoint trial counsel for the petitioner in regard to his habeas petition. As to the first two issues, we reverse the judgment of the habeas court.
+The following procedural history is relevant to our consideration of the issues on appeal. The petitioner filed a direct appeal from the judgment of conviction in his criminal trial that was rendered after the jury found him guilty of murder and carrying a pistol without a permit. In a memorandum decision, this court affirmed the judgment of conviction. See State v. Andrades, 68 Conn. App. 905, 793 A.2d 299, cert. denied, 260 Conn. 909, 795 A.2d 545 (2002). Thereafter, the petitioner filed his pro se habeas petition in which he alleged, inter alia, that his trial counsel had not represented him properly. When presented with the petition for the issuance of a writ of habeas corpus, the habeas court, citing the provisions of Practice Book § 23-24, declined to issue the writ on the ground that the issues raised in the petition were the same as those raised on direct appeal and were, therefore, moot. Having determined not to issue the writ, the court also declined to appoint counsel. Following the court’s refusal to issue the writ, the petitioner timely filed a petition for certification to appeal from the court’s decision. The court denied the petition for certification and this appeal followed.
+We first address the petitioner’s claim that the court abused its discretion by refusing to grant his petition for certification to appeal from the denial of the petition for a writ of habeas corpus. As noted by both parties, when a petitioner is denied certification to appeal under General Statutes § 52-470, the petitioner must establish that the court abused its discretion in denying certification. See Rivera v. Commissioner of Correction, 254 Conn. 214, 226, 756 A.2d 1264 (2000). “To determine whether the court abused its discretion, the petitioner must demonstrate that the issues are debatable among jurists of reason; that a court could resolve the issues [in a different manner]; or that the questions are adequate to deserve encouragement to proceed further.” (Internal quotation marks omitted.) Bellino v. Commissioner of Correction, 75 Conn. App. 743, 747, 817 A.2d 704, cert. denied, 264 Conn. 915, 826 A.2d 1159 (2003). Here, for reasons we will discuss, the court should have granted the petition for certification.
+The court’s reliance on Practice Book § 23-24 to refuse to issue the writ on the ground of mootness implicates two subissues: (1) whether the mootness of a petition is a basis for refusing to issue a writ; and (2) whether the claims set forth in the petition were moot. We assess the issues in inverse order.
+It is axiomatic that in a criminal matter, a claim that a defendant has been denied the effective assistance of counsel generally is not directly appealable. See State v. Lopez, 80 Conn. App. 386, 390, 835 A.2d 126 (2003). Although this court issued a memorandum decision without opinion in the petitioner’s direct appeal, the habeas court and this court may take judicial notice of the court file in the direct appeal. Cf. McCarthy v. Warden, 213 Conn. 289, 293, 567 A.2d 1187 (1989), cert. denied, 496 U.S. 939, 110 S. Ct. 3220, 110 L. Ed. 2d 667 (1990); In re Mark C., 28 Conn. App. 247, 253, 610 A.2d 181, cert. denied, 223 Conn. 922, 614 A.2d 823 (1992). As the respondent has conceded in its brief, a review of the petitioner’s brief in his direct appeal reveals that the issues he raised therein were not the same claims he asserted in the habeas petition. Thus, as acknowledged by the respondent, the court incorrectly determined that the issues raised in the habeas petition were moot. Therefore, the court incorrectly dismissed the petition for a wilt of habeas corpus. Accordingly, it also abused its discretion in denying the petition for certification to appeal, as the petitioner had met his burden of demonstrating that a court could have resolved the issues differently.
+As to the petitioner’s claim that the court incorrectly declined to appoint counsel for him, we note that the court stated in an articulation that it had refused to appoint counsel only because it had declined to issue the writ. Indeed, the court noted that if it had issued the writ, counsel would have been appointed and fees would have been waived. Because we have no reason to discredit the court’s statement, we need not independently address the court’s failure to appoint counsel.
+The judgment is reversed and the case is remanded for further proceedings in accordance with law.
+Practice Book § 23-24 provides: “(a) The judicial authority shall promptly review any petition for a writ of habeas corpus to determine whether the writ should issue. The judicial authority shall issue the writ unless it appears that:
+“(1) the court lacks jurisdiction;
+“(2) the petition is wholly frivolous on its face; or
+“(3) the relief sought is not available.
+“(b) The judicial authority shall notify the petitioner if it declines to issue the writ pursuant to this rule.”
+Having determined that the court incorrectly declined to issue the writ on the ground of mootness, we need not reach the question of whether Practice Book § 23-24 gives the court, discretion to refuse to issue a writ on that basis. We note, however, that mootness is not one of the grounds set forth in Practice Book § 23-24, but it is a ground for dismissal of a writ under Practice Book § 23-29.
