@@ -1,0 +1,32 @@
+---
+court: "Connecticut Appellate Court"
+docket: "13102"
+decided: "1994-04-25"
+citations: ["34 Conn. App. 303"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thorn Americas, Inc. v. Michelle Torres"]
+source_url: "https://static.case.law/conn-app/34/cases/0303-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 726255
+cites_cases: ["207 Conn. 152", "213 Conn. 126", "224 Conn. 919", "225 Conn. 757", "29 Conn. App. 142", "33 Conn. App. 1", "33 Conn. App. 229", "540 A.2d 679", "566 A.2d 703", "613 A.2d 853", "618 A.2d 527", "627 A.2d 367", "632 A.2d 713", "635 A.2d 303"]
+---
+
+# Thorn Americas, Inc. v. Torres
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The defendant appealed from the granting of a prejudgment remedy under General Statutes § 52-2781. The plaintiff filed a motion to dismiss in which the dispositive issue is whether the subsequent dismissal of the prejudgment remedy by the trial court rendered the appeal moot. The defendant opposes the motion to dismiss. We conclude that the appeal is moot and must, therefore, be dismissed.
+The facts underlying the plaintiff’s cause of action are as follows. In April, 1993, the plaintiff, Thorn Americas, Inc., doing business as Rent-A-Center, and the defendant entered into an agreement pursuant to which the defendant leased a forty inch projection television set (property) from the plaintiff. The agreement provided that legal title to the property remained with the plaintiff and that upon termination of the agreement, the defendant would return the property to the plaintiff.
+Upon termination of the agreement, the defendant failed to return the property. The plaintiff filed an application for a prejudgment remedy seeking to replevy the property pursuant to General Statutes § 52-278c. A hearing was held, the trial court determined that probable cause existed and it issued the prejudgment remedy. The defendant appealed from the order granting the prejudgment remedy.
+After the appeal was filed, the defendant filed a motion to dismiss the prejudgment remedy in the trial court pursuant to General Statutes § 52-278j (a) on the ground that the writ, summons and complaint were not properly served and returned to court within thirty days of issuance. That motion was granted. The plaintiff then moved to dismiss this appeal as moot because the prejudgment remedy, the subject of the appeal, had been dismissed.
+“Mootness applies to situations where events have occurred during the pendency of an appeal that make an appellate court incapable of granting practical relief through a disposition on the merits. . . . The standards governing mootness are well established. Because this court has no jurisdiction to give advisory opinions, no appeal can be decided on its merits in the absence of an actual controversy for which judicial relief can be granted.” (Citation omitted; internal quotation marks omitted.) Madigan v. Madigan, 33 Conn. App. 229, 231, 635 A.2d 303 (1993), quoting Papagorgiou v. Anastopoulous, 29 Conn. App. 142, 146, 613 A.2d 853, cert. denied, 224 Conn. 919, 920, 618 A.2d 527 (1992). “Action of the parties themselves may render an appeal moot. Sobocinski v. Freedom of Information Commission, 213 Conn. 126, 134, 566 A.2d 703 (1989).” Amalgamated Transit Union Local 1588 v. Laidlaw Transit, Inc., 33 Conn. App. 1, 6, 632 A.2d 713 (1993).
+The only practical relief we could afford the defendant if the defendant were to prevail on appeal would be to reverse the order granting the plaintiffs application for a prejudgment remedy. Because the trial court has already dismissed the prejudgment remedy, there no longer is an order that we can review. Therefore, the appeal has been rendered moot.
+The defendant argues that the appeal is not moot because the plaintiff is relying on the trial court’s probable cause finding to support an application for a second prejudgment remedy. The defendant claims that our failure to review the finding that probable cause existed is a prejudicial collateral consequence that will result if we dismiss this appeal as moot.
+Where the matter being appealed creates collateral consequences prejudicial to the interests of the appellant, we may retain jurisdiction despite developments during the pendency of the appeal that would otherwise render it moot. Housing Authority v. Lamothe, 225 Conn. 757, 765, 627 A.2d 367 (1993). For example, an appeal taken from the denial of a motion to open a stipulated judgment in a summary process action was not moot despite the fact that the appellant had voluntarily vacated the premises because the judgment could have had a prospective negative impact on the appellant’s eligibility for low income subsidized housing in the future. Id., 765. Nor did the fact that the appellant had completed a sentence for a criminal offense render the appeal from the judgment revoking the appellant’s probation moot, in light of the potential impact on the appellant’s ability to obtain probation in the future and to enjoy a good reputation in the community. State v. Smith, 207 Conn. 152, 160-62, 540 A.2d 679 (1988) (appeal dismissed as moot only after determination that there were no collateral consequences).
+The plaintiff cannot obtain a second prejudgment remedy based on a complaint alleging the same cause of action underlying the original prejudgment remedy because that remedy was dismissed under General Statutes § 52-278j. See General Statutes § 52-278d (a). Therefore, the defendant’s argument regarding collateral consequences is without merit.
+The appeal is dismissed as moot.
+General Statutes § 52-278j (a) provides: “If an application for a prejudgment remedy is granted but the plaintiff, within thirty days thereof, does not serve and return to court the writ, summons and complaint for which the prejudgment remedy was allowed, the court shall dismiss the prejudgm,ent remedy. ” (Emphasis added.)
+General Statutes § 52-278d (a) provides in relevant part: “If the court, upon consideration of the facts before it, finds that the plaintiff has shown probable cause to sustain the validity of his claim, then the prejudgment remedy applied for shall be granted as requested or as modified by the court unless the prejudgment remedy or application for such prejudgment remedy was dismissed or withdrawn pursuant to the provisions of section 52-278j.”
