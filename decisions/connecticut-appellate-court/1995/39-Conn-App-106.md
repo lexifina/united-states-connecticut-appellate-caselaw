@@ -1,0 +1,36 @@
+---
+court: "Connecticut Appellate Court"
+docket: "13658"
+decided: "1995-09-05"
+citations: ["39 Conn. App. 106"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JACQULINE D. ZIEMBA v. HANOVER INSURANCE COMPANY ET AL."]
+source_url: "https://static.case.law/conn-app/39/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1016810
+cites_cases: ["15 Conn. App. 381", "155 Conn. 477", "209 Conn. 813", "218 Conn. 474", "228 Conn. 1", "232 Conn. 917", "234 A.2d 825", "36 Conn. App. 597", "37 Conn. App. 515", "37 Conn. App. 525", "544 A.2d 673", "550 A.2d 1083", "590 A.2d 431", "633 A.2d 716", "652 A.2d 527", "655 A.2d 260", "657 A.2d 230"]
+---
+
+# Ziemba v. Hanover Insurance
+
+## Majority (LANDAU, J.)
+
+LANDAU, J.
+The named defendant appeals from the judgment of the trial court, rendered after a bench trial, in favor of the plaintiff on her uninsured motorist claim. The defendant claims that the trial court improperly (1) granted the plaintiffs motion in limine, and (2) found that it was responsible, pursuant to the terms of the insurance contract regarding uninsured motorists, for the injuries and losses sustained by the plaintiff.
+The following procedural history is relevant to our disposition of this appeal. On September 6, 1990, the plaintiff suffered injuries when the motor vehicle that she was driving was struck from behind by a van owned by Steven Tata. At the time of the accident, the plaintiff had a contract for automobile insurance with the defendant that provided uninsured motorist coverage. The plaintiff commenced a negligence action against Tata as the owner of the van and against William Beardsley as the operator of the van. Although Tata was uninsured on the date of the accident, Beardsley had automobile liability coverage. Upon receiving affidavits from Tata and Beardsley in which they asserted that Tata was actually the operator of the van at the time of the accident, the defendant accepted the plaintiffs insurance claim as an uninsured motorist claim. The plaintiff immediately withdrew the action against Tata and Beardsley, and subsequently filed an uninsured motorist action against the defendant. After conducting further discovery and arriving at the conclusion that Beardsley was, in fact, the driver of the van, the defendant impleaded Beardsley as a third party defendant in the action.
+In its answer to the plaintiffs amended complaint, the defendant pleaded the special defense that “the conditions precedent to assertion of an uninsured motorist claim have not been fulfilled.” Prior to trial, the plaintiff and Beardsley filed a joint motion in limine, seeking to bar the defendant from offering “any evidence in support of its special defense . . . specifically that the motor vehicle that injured [the plaintiff] was not uninsured because the defendant Beardsley was operating it.” After granting the motion, the trial court heard the matter as a hearing in damages and ruled that the defendant was liable to the plaintiff in the amount of $153,000. This appeal followed.
+I
+The defendant first claims that the trial court improperly granted the motion in limine. On appeal, the defendant claims that the granting of the motion in limine both (1) eviscerated its special defense, and (2) constituted a partial summary judgment rendered without a proper evidentiary basis. The defendant, however, failed to present these arguments to the trial court.
+We will not review a claim that has not been distinctly raised at trial. Practice Book § 4185; Skrzypiec v. Noonan, 228 Conn. 1, 13, 633 A.2d 716 (1993); Baker v. Cordisco, 37 Conn. App. 515, 525, 657 A.2d 230 (1995); Brown v. Brown, 36 Conn. App. 597, 599, 652 A.2d 527, cert. denied, 232 Conn. 917, 655 A.2d 260 (1995). In this case, the defendant failed to avail itself of the several opportunities to proffer its arguments to the tiial court. The defendant could have filed a written objection to the motion in limine, voiced its arguments at the hearing on the motion, or filed any postruling motions designed to contest the court’s granting of the motion in limine, however, it did neither.
+The defendant’s previous failure to raise the claim it now raises on appeal deprived the trial court of the opportunity to address the issue adequately while there was time to correct it. Baker v. Cordisco, supra, 37 Conn. App. 525; see Misiurka v. Maple Hill Farms, Inc., 15 Conn. App. 381, 385-86, 544 A.2d 673, cert. denied, 209 Conn. 813, 550 A.2d 1083 (1988). “[T]o review [a] claim, which has been articulated for the first time on appeal and not before the trial court, would result in a trial by ambuscade of the trial judge.” (Internal quotation marks omitted.) Baker v. Cordisco, supra, 525. For these reasons, we decline to review this claim.
+II
+The defendant next claims that the trial court improperly found that it was responsible, pursuant to the terms of the insurance contract regarding uninsured motorists, for the injuries and losses sustained by the plaintiff. The defendant claims that the plaintiff failed to sustain her burden of proof at the trial because she did not offer any evidence regarding causation, the lack of insurance coverage on the van, or the identity of the operator of the van. The plaintiff responds that because the trial was conducted as a hearing in damages only, to which the defendant acquiesced, she was relieved of her burden of proving the elements relating to liability.
+The defendant again presents us with a claim that it failed to raise before the trial court. The defendant never objected to the nature of the proceedings at trial and subsequently filed no motion seeking to open or set aside the judgment on the ground that the plaintiff had failed to sustain her burden of proof relating to liability or that the trial had been inappropriately conducted as a hearing in damages. See id.
+Counsel for the defendant admitted at trial that the proceedings were “analogous to a hearing in damages” and “essentially a hearing in damages.” “ ‘The general rule is that admissions, if relevant and material, made by an attorney incidental to the general authority of the attorney to represent his client in connection with and for the purpose of controlling the matter committed to him are admissible against the client.’ ” Expressway Associates II v. Friendly Ice Cream Corp. of Connecticut, 218 Conn. 474, 478, 590 A.2d 431 (1991), quoting Collens v. New Canaan Water Co., 155 Conn. 477, 496, 234 A.2d 825 (1967). Consequently, by admission, the defendant acquiesced in the nature of the proceedings, which limited the plaintiffs burden of proof to showing damages only.
+The judgment is affirmed.
+In this opinion the other judges concurred.
+We refer in this opinion to the named defendant as the defendant. See footnote 2.
+The plaintiff subsequently filed an amended complaint, naming Beardsley as a codefendant, after which the defendant’s third party complaint against Beardsley was stricken.
+Following the granting of the motion in limine and before the commencement of trial, the plaintiff withdrew her action against Beardsley.
