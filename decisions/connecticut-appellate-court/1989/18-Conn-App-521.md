@@ -1,0 +1,33 @@
+---
+court: "Connecticut Appellate Court"
+docket: "7112"
+decided: "1989-05-30"
+citations: ["18 Conn. App. 521"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jerry M. Tinagero et al. v. Lawrence J. Phillips, Jr., et al."]
+source_url: "https://static.case.law/conn-app/18/cases/0521-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 742964
+cites_cases: ["10 Conn. App. 41", "102 Conn. 663", "129 A.2d 849", "197 Conn. 101", "495 A.2d 1074", "521 A.2d 221"]
+---
+
+# Tinagero v. Phillips
+
+## Majority (Daly, J.)
+
+Daly, J.
+This is an appeal by the defendants from the judgment rendered against them in a quiet title action. They claim on appeal that the trial court erred in accepting the report of the attorney trial referee where there was insufficient evidence to .support his factual findings. We find error.
+The plaintiffs, Jerry M. and Diantha Tinagero, instituted this action to quiet title to the portion of their property bounded on the east by the defendants’ property. The dispute concerns the proper location of the common boundary line between the two parcels.
+The property of the plaintiffs and defendants is located on the northerly side of Stone Hill Road in the town of Griswold and was, prior to 1979, part of one parcel owned by Lawrence J. Phillips, Sr. By way of a quit claim deed dated January 29,1979, Phillips, Sr., conveyed the eastern portion of the land to the defendants and retained title to the remaining, western portion. Virginia Phillips, the successor in title of the retained parcel, conveyed the property to the plaintiffs by way of a warranty deed dated February 16, 1984. The plaintiffs had their property surveyed in 1985 and, in January, 1986, commenced the quiet title action in order to determine the common boundary line between their property and that of the defendants.
+The matter was tried before an attorney trial referee. The plaintiffs presented the testimony of Roland J. Harris, who had prepared a survey of the premises. Harris’ survey, dated April 15, 1985, placed the common boundary line through the defendants’ house. Harris testified that he had prepared his survey based upon the legal description of the premises contained in the 1979 quit claim deed from Phillips, Sr., to the defendants; he admitted, however, that he was unable to locate any of the monuments mentioned in the description.
+The defendants also presented the testimony of a land surveyor, John Kopko, who had prepared a survey of the premises. He testified that in preparing his survey he had relied on existing maps and deeds, as well as on the location of the monuments set forth in the legal description of the land. Kopko determined that the defendants’ house and driveway were in existence in 1979 when the deed creating the common boundary was executed. He concluded that the boundary line ran to the west of the defendants’ house.
+The trial was concluded on January 15,1987, and the attorney trial referee filed the report containing his findings of fact and conclusion on November 17,1987. In recommending that judgment be rendered in favor of the plaintiffs, the trial referee adopted the survey prepared by Harris as one of the facts found. The defendants thereafter filed a motion to correct; Practice Book § 438; an exception to the trial referee’s findings; Practice Book § 439; and an objection to the trial court’s acceptance of the report. Practice Book § 440. Those motions were denied and the trial court rendered judgment for the plaintiffs on May 18,1988. It is from that judgment that the defendants appeal.
+The defendants essentially claim that the trial court erred in accepting the attorney trial referee's report because the referee had ignored the survey prepared by Kopko, which was the more reliable survey because it established the boundary line according to the monuments referred to in the description of the land as set out in the deed. The defendants assert that Kopko’s survey should control the location of the boundary line.
+The location of the boundary line presents a question of fact for the trier to decide. Our function as an Appellate Court is to review, not to retry. When we determine, however, that the trial court’s factual findings are clearly erroneous in view of the evidence and pleadings in the whole record, Practice Book § 4061 empowers this court to reverse or modify the trial court’s decision.
+In our limited scope of review regarding a factual finding, “we do not examine the record to determine whether the judge or the trier of fact could have made a finding other than the one made. Instead, we first determine whether there is evidence to support the finding. If not, the finding is clearly erroneous. Even if there is evidence to support it, however, a finding is clearly erroneous if ‘in view of the evidence and pleadings in the whole record [this court] is left with the definite and firm conviction that a mistake has been committed Doyle v. Kulesza, 197 Conn. 101, 105, 495 A.2d 1074 (1985).” Buddenhagen v. Luque, 10 Conn. App. 41, 45, 521 A.2d 221 (1987).
+Upon our review of the record, we are convinced that a mistake in the factual findings has been committed. First, it was unrefuted that the defendants’ house existed on the original, undivided property prior to the creation of the two parcels. Several witnesses, including a bank appraiser who had inspected the property in 1978, confirmed this. Second, Harris never made any inquiries to establish whether the defendants’ house was in existence at the time of 1979 conveyance by Phillips, Sr., to the defendants. Moreover, Harris testified that if the house was in existence, he then would have to redraw the boundary line, because the house would be considered a monument. Finally, Kopko’s survey was based on, among other things, the monuments referred to in the legal description of the premises while Harris’ was not. It is a well settled rule that in cases of contradictory or uncertain property descriptions, known and fixed monuments control over courses and distances. Russo v. Corideo, 102 Conn. 663, 672, 129 A.2d 849 (1925). Accordingly, we conclude that the findings of fact made by the attorney trial referee and adopted by the court as to the location of the common boundary line are clearly erroneous.
+There is error, the judgment is set aside and the case is remanded for a new trial.
+In this opinion the other judges concurred.
+The defendants remaining in this appeal are Lawrence J. Phillips, Jr., and Joann Phillips, the owners of the property. Accordingly, the term “defendants” as used in this opinion refers only to those defendants.
