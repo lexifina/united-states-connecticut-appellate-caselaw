@@ -1,0 +1,31 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 21256"
+decided: "2002-05-21"
+citations: ["70 Conn. App. 1"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATEWIDE GRIEVANCE COMMITTEE v. JOHN TIMBERS"]
+source_url: "https://static.case.law/conn-app/70/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1274537
+cites_cases: ["139 Conn. 660", "215 Conn. 162", "216 Conn. 127", "227 Conn. 829", "247 Conn. 762", "255 Conn. 949", "46 Conn. App. 450", "575 A.2d 210", "577 A.2d 1054", "61 Conn. App. 445", "633 A.2d 296", "67 A. 497", "699 A.2d 1047", "725 A.2d 948", "767 A.2d 732", "769 A.2d 64", "80 Conn. 140", "96 A.2d 802"]
+---
+
+# Statewide Grievance Committee v. Timbers
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The defendant, John Timbers, appeals from the trial court’s judgment suspending him from the practice of law for a period of six months. We affirm the judgment of the trial court.
+On May 26,1999, the plaintiff, the statewide grievance committee, filed a presentment complaint alleging misconduct against the defendant, an attorney licensed to practice law in this state. On August 2, 2000, following a hearing, the court filed a memorandum of decision and rendered judgment against the defendant. The court concluded that the defendant had violated rule 1.4 (a) of the Rules of Professional Conduct by failing to communicate with his client regarding his fee and rule 1.5 (c) of the Rules of Professional Conduct by failing to secure a written contingent fee agreement with his client. In determining the appropriate sanction for the defendant’s violations of the Rules of Professional Conduct, the court utilized the American Bar Association’s Standards for Imposing Lawyer Sanctions (Standards). Pursuant to § 9.22 of the standards, which sets forth aggravating factors, the court found that the defendant (1) previously had been disciplined by the plaintiff, (2) had acted in a selfish manner and (3) had been a member of the Connecticut bar- for approximately nineteen years. The court suspended the defendant from the practice of law from August 15, 2000, to February 15, 2001. The defendant thereafter appealed.
+On appeal, the defendant claims that the court improperly (1) denied his motion for articulation, (2) concluded that he did something more than violate rule 1.5 (c) by violating rule 1.4 (a) and (3) imposed a penalty of six months suspension from the practice of law.
+“In presentment proceedings, the statewide grievance committee must prove by clear and convincing evidence that the attorney engaged in misconduct in violation of the Rules of Professional Conduct. See Statewide Grievance Committees. Whitney, [227 Conn. 829, 838, 633 A.2d 296 (1993)]. The trial court conducts the presentment proceeding de novo. See Statewide Grievance Committee v. Presnick, 215 Conn. 162, 167, 575 A.2d 210 (1990). In determining whether an attorney violated the Rules of Professional Conduct and the appropriate sanction to impose, the trial court possesses a great deal of discretion. See Statewide Grievance Committee v. Presnick, 216 Conn. 127, 131, 577 A.2d 1054 (1990); Grievance Committee v. Nevas, 139 Conn. 660, 666, 96 A.2d 802 (1953). When the trial court determines that an attorney committed misconduct in violation of the Rules of Professional Conduct, unless it clearly appears that [the attorney’s] rights have in some substantial way been denied him, the action of the court will not be set aside upon review. . . . Statewide Grievance Committee v. Presnick, supra, [132], quoting In re Durant, 80 Conn. 140, 150, 67 A. 497 (1907).” (Internal quotation marks omitted.) Statewide Grievance Committee v. Egbarin, 61 Conn. App. 445, 453, 767 A.2d 732, cert. denied, 255 Conn. 949, 769 A.2d 64 (2001).
+We have reviewed the proceedings in the trial court and, after considering the briefs and arguments of the parties, we conclude that the court’s findings and the penalty imposed on the defendant were well within the court’s discretion.
+The judgment is affirmed.
+Rules of Professional Conduct 1.4 (a) provides: “A lawyer shall keep a client reasonably informed about the status of a matter and promptly comply with reasonable requests for information.”
+Rules of Professional Conduct 1.5 (c) provides: “Afee maybe contingent on the outcome of the matter for which the service is rendered, except in a matter in which a contingent fee is prohibited by subsection (d) or other law. A contingent fee agreement shall be in writing and shall state the method by which the fee is to be determined, including the percentage or percentages of the recovery that shall accrue to the lawyer as a fee in the event of settlement, trial or appeal, whether and to what extent the client will be responsible for any court costs and expenses of litigation, and whether such expenses are to be deducted before or after the contingent fee is calculated. Upon conclusion of a contingent fee matter, the lawyer shall provide the client with a written statement stating the outcome of the matter and, if there is a recovery, showing the remittance to the client and the method of its determination.”
+“Courts considering sanctions against attorneys measure the defendant’s conduct against rules of professional conduct. The professional conduct of attorneys in Connecticut is governed by the Rules of Professional Conduct, as found in the Practice Book. Although Connecticut’s Rules of Professional Conduct delineate what is improper conduct, they do not provide guidance for what sanctions are appropriate for the particular conduct. For this reason, Connecticut courts reviewing attorney misconduct have looked to the American Bar Association’s Standards for Imposing Lawyer Sanctions . . . which do provide guidance as to what disciplinary sanctions are appropriate.” Statewide Grievance Committee v. Spirer, 46 Conn. App. 450, 463-64, 699 A.2d 1047 (1997), rev’d on other grounds, 247 Conn. 762, 725 A.2d 948 (1999).
+We need not address that claim because whether there was a need for the trial court to articulate its decision was resolved by this court’s ruling with respect to the defendant’s request to file a late motion for articulation.
