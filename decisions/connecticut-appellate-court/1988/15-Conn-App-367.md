@@ -1,0 +1,29 @@
+---
+court: "Connecticut Appellate Court"
+docket: "6392"
+decided: "1988-08-02"
+citations: ["15 Conn. App. 367"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Clifton B. et al."]
+source_url: "https://static.case.law/conn-app/15/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1965984
+cites_cases: ["14 Conn. App. 88", "180 Conn. 141", "429 A.2d 810", "540 A.2d 378"]
+---
+
+# In re Clifton B.
+
+## Majority (Stoughton, J.)
+
+Stoughton, J.
+The respondent parents appeal from the denial of their purported “petition for new trial” and from the subsequent denial of their motion for a stay of execution of the decision of the trial court and for rights to visit their two minor children, pending their appeal. No motion for review of the denial of this motion was filed. We find error in the form of the judgment.
+On September 3, 1986, the department of children and youth services (DCYS) filed petitions seeking to terminate the rights of Gloria F. and Clifton B., Sr., in their two children, Clifton B., Jr., and Keona, pursuant to General Statutes § 17-43a. After a hearing attended by Gloria F., but not by Clifton B., Sr., the trial court found proven by clear and convincing evidence two of the pleaded grounds for terminating the rights of both parents. It found that, as parents of children who had been found by the Superior Court to have been uncared for in a prior proceeding, they had each failed to achieve such degree of personal rehabilitation as would encourage the belief that within a reasonable time, considering the age and needs of the children, either parent could assume a responsible position in the life of either child. It also found that, whatever the relationship between Clifton B., Sr., and the children and between Gloria F. and the children, it did not rise to the level of a parent-child relationship. The trial court considered the six factors enumerated in General Statutes § 17-43a (d) and found it to be, by clear and convincing evidence, in the best interest of both children that parental rights be terminated so that the children might be placed in the permanent security of adoptive homes without waiting longer than the three years they had already been in foster care. By its judgment rendered on May 6, 1987, the trial court terminated the parental rights of Gloria F. and Clifton B., Sr., in and to their children, Clifton B., Jr., and Keona B.
+On July 16, 1987, the respondents filed what they called a petition for new trial pursuant to General Statutes § 52-270, alleging as grounds (1) newly discovered evidence, (2) want of actual notice on the part of Clifton B., Sr., and (3) mistake. No appeal was taken from the judgment of May 6, 1987. The respondents claimed that a new trial was required (1) because the feelings of Clifton B., Sr., for his children came to light only after he realized that his parental rights had been terminated, (2) because Clifton B., Sr., was served by publication, not by personal service, and there was no evidence that he had actual notice of the time, place and nature of the termination hearings, and (3) because the respondents were not aware that the hearings could result in the total loss of their parental rights.
+The parties have not addressed in their briefs the fact that the purported petition for a new trial was not instituted as a separate civil action. The trial ended on May 6,1987, and the purported petition for a new trial was filed on July 16, 1987, within the confines of the original proceeding for termination of parental rights, and not as a separate action. A petition for a new trial is properly instituted by a writ and complaint served on the adverse party; although it is collateral to the action in which the new trial is sought, it is by its nature a distinct and separate proceeding. State v. Asherman, 180 Conn. 141, 144, 429 A.2d 810 (1980). The respondents thus deprived the trial court of subject matter jurisdiction, and the court should have dismissed the petition. See State v. Servello, 14 Conn. App. 88, 101-102, 540 A.2d 378 (1988).
+There is error in the form of the judgment, the order denying the petition for a new trial is set aside and the case remanded with direction to dismiss that petition.
+In this opinion the other judges concurred.
+Practice Book § 4049 provides in pertinent part: “The sole remedy of any party desiring the supreme court to review an order concerning a stay of execution shall be by motion for review under Sec. 4053. ...” Practice Book § 4053 provides in pertinent part: “A motion to review an order concerning a stay of execution must be filed within five days from the issuance of notice of the order. ...”
+The petitioners did not file a motion for review of the denial of their “Motion For Stay Of Execution, And Allowance of Visitation, Pending Appeal.” The denial of the petitioner’s motion may be considered only on a motion for review, and we do not consider it in this appeal.
+“[General Statutes] Sec. 52-270. causes for which new trials may be granted, (a) The superior court may grant a new trial of any action that may come before it, for mispleading, the discovery of new evidence or want of actual notice of the action to any defendant or of a reasonable opportunity to appear and defend, when a just defense in whole or part existed, or the want of actual notice to any plaintiff of the entry of a non-suit for failure to appear at trial or dismissal for failure to prosecute with reasonable diligence, or for other reasonable cause, according to the usual rules in such cases. The judges of the superior court may in addition provide by rule for the granting of new trials upon prompt request in cases where the parties or their counsel have not adequately protected their rights' during the original trial of an action.”
