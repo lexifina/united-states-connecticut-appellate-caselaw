@@ -1,0 +1,31 @@
+---
+court: "Connecticut Appellate Court"
+docket: "12877"
+decided: "1995-04-04"
+citations: ["37 Conn. App. 453"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arlyne Fox v. Colony T.V. and Appliance, Inc., et al."]
+source_url: "https://static.case.law/conn-app/37/cases/0453-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 734259
+cites_cases: ["2 Conn. App. 523", "208 Conn. 675", "208 Conn. 680", "225 Conn. 420", "225 Conn. 425", "481 A.2d 82", "546 A.2d 264", "623 A.2d 1014"]
+---
+
+# Fox v. Colony T.V. & Appliance, Inc.
+
+## Majority (Hennessy, J.)
+
+Hennessy, J.
+The defendants appeal from the trial court’s judgment setting aside the jury’s verdict and ordering a new trial. The defendants claim that the trial court’s action was an abuse of discretion because there was no evidence of jury confusion in the verdict rendered. We disagree and affirm the judgment of the trial court.
+The following facts form the basis of this appeal. This negligence action was tried to a jury in April, 1993. At the close of the evidence, the trial court instructed the jury as to the plaintiff’s burden of proof, causation, damages, comparative negligence, and the method of completing either the plaintiff's or the defendant^’ verdict form. During deliberations, the jury submitted a question to the court in a note that read: “We are confused as to which form should be used if, one, fifty percent negligence each; two, no damages, plaintiff’s verdict or defendants’ verdict?” In response, the trial court instructed the jury: “It would be a plaintiff’s verdict form.”
+The jury returned with a completed plaintiff’s verdict form that read: “We the jury find the issues in favor of the plaintiff Arlyne Fox and against the defendants Colony T.V. and Appliance, Inc., and Laurel Creagh and therefore find the damages to be as follows: [total damages zero.]” The plaintiffs verdict form further indicated that the negligence attributable to the defendants was 50 percent and the negligence attributable to the plaintiff was 50 percent. The form clearly explained that if the percentage of negligence attributable to the plaintiff was 50 percent or less, the percentage of negligence attributable to the defendant should be multiplied by the total damages found to ascertain the amount of the damage award. Because the jury found zero total damages, however, the final figure of damages awarded was also zero.
+The plaintiff filed a timely motion to set aside the verdict and for a new trial, arguing that the verdict was inconsistent and ambiguous. After hearing argument on this motion the trial court granted the plaintiffs motion and rendered judgment ordering a new trial. It is from that judgment that the defendants appeal.
+In Connecticut, a jury’s verdict is normally accorded great deference. Balboni v. Stonick, 2 Conn. App. 523, 529-30, 481 A.2d 82 (1984). Nevertheless, it is the trial court’s duty to set aside a verdict when “ ‘it does manifest injustice, and is . . . palpably against the evidence.’ ” Malmberg v. Lopez, 208 Conn. 675, 679-80, 546 A.2d 264 (1988). We will not disturb the trial court’s decision to set aside the verdict unless there has been a clear abuse of discretion. Ginsberg v. Fusaro, 225 Conn. 420, 425, 623 A.2d 1014 (1993).
+In determining whether a jury verdict does manifest injustice, “the only practical test is whether the total damages awarded fall somewhere within the necessarily uncertain limits of fair and reasonable compensation in the particular case, or whether the verdict so shocks the sense of justice as to compel the conclusion that the jury were influenced by partiality, prejudice, mistake or corruption. ... A direct showing of partiality, prejudice, mistake or corruption is not required. [I]f the amount awarded shocks the sense of justice as to what is reasonable, then the inferred conclusion is that the jury was misguided in reaching its decision.” (Citations omitted; internal quotation marks omitted.) Malmberg v. Lopez, supra, 208 Conn. 680.
+Our Supreme Court has stated that “[a] plaintiff’s verdict with a nominal damage award ordinarily suggests that the jury found that despite the defendant’s liability, the plaintiff failed to prove damages. . . . The jury’s intent in rendering a plaintiff’s verdict with zero damages ... is far less clear.” (Citation omitted.) Id., 681-82. In this situation, it cannot be stated with certainty either that the jury found that the plaintiff had failed to prove any damages or that the jury was confused as to the correct interplay between damages and liability. Id., 682. “[T]he jury’s intent in finding the issues for the plaintiff, but awarding zero damages, is known only to the jurors, and this court’s endorsement of one plausible explanation of the verdict over another would amount merely to speculation.” Id., 683. The appropriate course of action when such an ambiguous verdict is rendered is to order a new trial on all issues. Id., 682; see also Ginsberg v. Fusaro, supra, 225 Conn. 425.
+In this case, the jury found in favor of the plaintiff on the issue of liability, yet awarded zero total damages. Because the jury was instructed that the finding of liability involved finding negligence by the defendants, which was a substantial factor in causing the plaintiff’s injuries, a plaintiff’s verdict with zero total damages is inherently ambiguous. Ginsberg v. Fusaro, supra, 225 Conn. 425. The trial court’s decision to set aside the verdict and to order a new trial comports perfectly with our Supreme Court’s holdings in Malmberg and Ginsberg.
+The judgment is affirmed.
+In this opinion the other judges concurred.
+The defendants also argue that, because the plaintiff failed to take exception to this jury instruction, the plaintiff waived the right to have the court consider the propriety of this instruction in the motion to set aside the verdict. Our review of the record indicates that the instruction was proper; see General Statutes § 52-572h (b); and that the plaintiffs motion to set aside the verdict challenged the verdict as confusing and ambiguous, not the court’s instruction as to which verdict form to use. There is no merit to this claim.
