@@ -1,0 +1,34 @@
+---
+court: "Connecticut Appellate Court"
+docket: "16240"
+decided: "1996-10-29"
+citations: ["43 Conn. App. 471"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["YANKEE MILLWORK SASH AND DOOR COMPANY v. JOSEPH A. BIENKOWSKI"]
+source_url: "https://static.case.law/conn-app/43/cases/0471-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 792221
+cites_cases: ["114 A. 88", "166 Conn. 432", "197 Conn. 82", "26 Conn. App. 80", "35 Conn. Sup. 79", "352 A.2d 288", "396 A.2d 510", "40 Conn. App. 492", "495 A.2d 1063", "597 A.2d 1289", "671 A.2d 1315", "9 Conn. Sup. 367", "96 Conn. 325"]
+---
+
+# Yankee Millwork Sash & Door Co. v. Bienkowski
+
+## Majority (O’CONNELL, J.)
+
+O’CONNELL, J.
+The defendant moves to dismiss the
+plaintiffs appeal for lack of a final judgment. He argues that the granting of a motion to cite in a party in order to pursue an interpleader claim is not an immediately appealable order. We agree.
+The following facts are necessary to the disposition of the defendant’s motion. The defendant and PRE Builders, Inc. (PRE), entered into an agreement for the performance of construction work on the defendant’s house. The plaintiff then entered into a contract with PRE to furnish materials for PRE’s use in completing the work on the defendant’s house. The plaintiff furnished the materials, but PRE failed to pay the plaintiff. As a result, the plaintiff placed a mechanic’s lien on the defendant’s property and brought this foreclosure action.
+The defendant does not contest that he owes $2250 for the work completed on his house pursuant to his contract with PRE. He alleges, however, that the Internal Revenue Service (IRS) notified him of its levy on any moneys owed to PRE and its hen against PRE for failure to pay taxes. Therefore, he argues that if he paid the plaintiff, he could still be liable to the IRS. The defendant therefore filed a motion to cite in the United States as a party, and a motion for permission to file an interpleader claim against the plaintiff and the United States pursuant to General Statutes § 52-484. The trial court granted both motions and ordered the defendant to serve the United States and the plaintiff with an interpleader complaint. This appeal followed.
+“The general rule, which is embodied in the Connecticut interpleader statute, is that a party who is confronted with conflicting claims from various alleged creditors to a fund in his possession and who does not claim any interest in the fund . . . may in good faith interplead the various claimants . . . .” Franklin Construction Co. v. F & M Concrete Construction Co., 35 Conn. Sup. 79, 81, 396 A.2d 510 (1978). An interpleader claim is most commonly raised in an independent action. It can be raised, however, as in this case, by counterclaim or cross claim. See Bishop v. Groton Savings Bank, 96 Conn. 325, 114 A. 88 (1921).
+“A complaint in an interpleader action should allege only such facts as show that there are adverse claims to the fund or property and need not, in fact, should not, allege the basis upon which any claimant relies to justify his claim; the latter allegations are to be made in the statement of claim following the interlocutory judgment of interpleader.” John Hancock Mutual Life Ins. Co. v. Advance Realty Co., 9 Conn. Sup. 367, 368 (1941); Practice Book § 538.
+The interlocutory judgment of interpleader determines the propriety of the interpleader procedure. 45 Am. Jur. 2d 179, Interpleader § 38 (Sup. 1996). Until the interlocutory judgment of interpleader has been rendered, there can be no trial on the merits of the interpleader proceeding. Practice Book § 539. In an interpleader proceeding, therefore, “there are, in effect, two separate and distinct suits, the first suit . . . [determining] whether there shall be a decree of inter-pleader, and the second . . . [determining] who shall get the fund or thing in dispute.” 45 Am. Jur. 2d 459, Interpleader § 35 (1969).
+In Kerite Co. v. Alpha Employment Agency, Inc., 166 Conn. 432, 437-38, 352 A.2d 288 (1974), our Supreme Court held that the interlocutory judgment of inter-pleader is immediately appealable. The proceeding before us, however, has not yet reached the point of an interlocutory judgment of interpleader. At the time the plaintiff appealed, the only developments as to the interpleader matter were the granting of the defendant’s motion to cite in the United States and the granting of his motion for permission to file an interpleader claim against the United States and the plaintiff. The defendant had not yet served the.parties nor filed the return with the court. A judgment, even an interlocutory judgment, cannot be rendered in an action that has not yet been brought.
+The appeal is jurisdictionally defective because it was not taken from an immediately appealable interlocutory judgment. The appeal therefore must be dismissed. Connecticut National Bank v. L & R Realty, 40 Conn. App. 492, 494, 671 A.2d 1315 (1996), citing Stroiney v. Crescent Lake Tax District, 197 Conn. 82, 86, 495 A.2d 1063 (1985), and Essex Savings Bank v. Frimberger, 26 Conn. App. 80, 81, 597 A.2d 1289 (1991).
+The defendant’s motion to dismiss the appeal is granted.
+In this opinion the other judges concurred.
+General Statutes § 52-484 provides: “Whenever any person has, or is alleged to have, any money or other property in his possession which is claimed by two or more persons, either he, or any of the persons claiming the same, may bring a complaint in equity, in the nature of a bill of interpleader, to any court which by law has equitable jurisdiction of the parties and amount in controversy, making all persons parties who claim to be entitled to or interested in such money or other property. Such court shall hear and determine all questions which may arise in the case, may tax costs at its discretion and, under the rules applicable to an action of interpleader, may allow to one or more of the parties a reasonable sum or sums for counsel fees and disbursements, payable out of such fund or property; but no such allowance shall be made unless it has been claimed by the party in his complaint or answer.”
+Practice Book § 538 provides: “The complaint in an interpleader action shall allege only such facts as show that there are adverse claims to the fund or property.”
+Practice Book § 539 provides: “No trial on the merits of an interpleader action shall be had until (1) an interlocutory judgment of interpleader shall have been entered; and (2) all defendants shall have filed statements of claim, been defaulted or filed waivers. Issues shall be closed on the claims as in other cases. The complaint and the answer or disclaimer shell follow the applicable Practice Book forms as nearly as possible.”
