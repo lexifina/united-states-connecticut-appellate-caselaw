@@ -1,0 +1,29 @@
+---
+court: "Connecticut Appellate Court"
+docket: "2311"
+decided: "1984-01-03"
+citations: ["1 Conn. App. 150"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carl Morello v. J. H. Hogan, Inc."]
+source_url: "https://static.case.law/conn-app/1/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 772749
+cites_cases: ["108 Conn. 186", "142 A. 683", "182 Conn. 444", "438 A.2d 708"]
+---
+
+# Morello v. J. H. Hogan, Inc.
+
+## Majority (Borden, J.)
+
+Borden, J.
+The defendant was the general contractor for the construction of a garage for the Southern New England Telephone Company. The plaintiff was the defendant’s masonry work subcontractor under a contract calling for a total price of $44,000. The plaintiff sued the defendant both for breach of contract, claiming that the defendant had wrongfully prevented the plaintiff’s performance, and in quantum meruit for the value of the work performed. The defendant counterclaimed for breach of contract, claiming that the plaintiff wrongfully failed to complete his work. The trial court rendered judgment for the plaintiff on the complaint in the amount of $9411.87 and for the defendant on the counterclaim in the amount of $10,356.36. The defendant appeals, claiming that the trial court, by awarding the plaintiff damages on the complaint, erroneously applied the applicable rule of law pertaining to damages. We agree.
+The trial court found the following facts relevant to this appeal, none of which is disputed here. The plaintiff began the work on or about June 16, 1977, and abandoned it on July 11,1977, when approximately 70 percent of the masonry work was left to be completed. The defendant did not prevent the plaintiff’s performance and did not breach the contract. The plaintiff breached the contract by wrongfully leaving the job and did not substantially complete performance of the contract. The defendant could not return the masonry work performed by the plaintiff and did not have the option of either accepting or retaining the benefit of that work. The reasonable value of the services performed by the plaintiff was $9411.87. Following the plaintiff’s breach the defendant spent $54,356.36 to complete the 70 percent of the contract work left undone by the plaintiff.
+Subtracting the contract price of $44,000 from the cost of completion of $54,356.36, the trial court rendered judgment for the defendant on the counterclaim in the amount of $10,356.36. Thus, the effect of the trial court’s judgment for the plaintiff on the complaint and for the defendant on the counterclaim is a net award to the defendant of $944.49.
+Both sides agree, as do we, that the right of the defendant to recover on his complaint is governed by Kelley v. Hance, 108 Conn. 186, 142 A. 683 (1928). Where a contractor has failed substantially to perform he may recover in quasi-contract for the value of his work less the damages caused by his breach, provided that he has not willfully abandoned the contract without justification. Id., 188-89. “While the mere fact that part performance has been beneficial to the defendant will not entitle the plaintiff to recover where he has abandoned performance without justification, the defendant may nevertheless make himself liable by his voluntary acceptance of the benefits under circumstances sufficient to raise an implied promise to pay for them notwithstanding the nonperformance of the contract. Where one retains goods received in part performance of a contract, a promise to pay for them is ordinarily implied, since he has the option either to pay for or return them. Where, however, work has been done upon one’s land, the benefit cannot well be returned and an acceptance of the benefit cannot be implied from the mere retention of possession of the land. In such cases therefore the better rule would seem to be that, except where there has been an actual acceptance of the work prior to its abandonment by the plaintiff, mere inaction on the part of the defendant will not be treated as an acceptance of the work from which a promise to pay for it may be implied.” Id., 189.
+The court’s findings that the plaintiff wrongfully abandoned the job, that the defendant could not return the work performed by the plaintiff and that the defendant had no choice but to retain its benefits, bring the case squarely within the rule that “mere inaction on the part of the defendant will not be treated as an acceptance of the work from which a promise to pay for it may be implied.” Id. Thus, it was error to award the plaintiff damages on his complaint.
+Viewed through a different prism, the court’s judgment violated the basic rule of contract damages that the award should place the injured party in the same position as it would have been had the contract been performed. Danpar Associates v. Somersville Mills Sales Room, Inc., 182 Conn. 444, 446, 438 A.2d 708 (1980). The defendant was required to spend $54,356.36 to complete the work after the plaintiff left the job. Thus, the $54,356.36 already took into account the value of the work performed by the plaintiff. Awarding the plaintiff $9411.87 on the complaint coupled with the award on the counterclaim limiting the defendant to $10,356.36 gave the plaintiff double credit for his work and left the defendant $9411.87 short of the position in which it would have been placed had the contract been performed.
+There is error, the judgment on the complaint is set aside and the case remanded with direction to render judgment for the defendant on the complaint.
+In this opinion the other judges concurred.
+This appeal, originally filed in the Supreme Court, was transferred to this court. Public Acts, Spec. Sess., June, 1983, No. 83-29, § 2 (c).
