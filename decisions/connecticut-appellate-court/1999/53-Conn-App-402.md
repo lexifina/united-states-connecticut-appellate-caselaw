@@ -1,0 +1,31 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 18411"
+decided: "1999-05-18"
+citations: ["53 Conn. App. 402"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF CONNECTICUT v. MIGDALIA RABELL"]
+source_url: "https://static.case.law/conn-app/53/cases/0402-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 228777
+cites_cases: ["234 Conn. 324", "239 Conn. 957", "245 Conn. 923", "43 Conn. App. 527", "48 Conn. App. 545", "48 Conn. App. 605", "51 Conn. App. 463", "51 Conn. App. 478", "53 Conn. App. 236", "662 A.2d 1199", "684 A.2d 1199", "688 A.2d 329", "710 A.2d 190", "711 A.2d 746", "717 A.2d 239", "723 A.2d 817", "724 A.2d 1127", "729 A.2d 238"]
+---
+
+# State v. Rabell
+
+## Majority (HENNESSY, J.)
+
+Opinion
+HENNESSY, J.
+The defendant, Migdalia Rabell, appeals from the judgment of the trial court revoking her probation. On appeal, the defendant claims that the trial court improperly found sufficient evidence proving that the defendant had violated the terms of her probation. We affirm the judgment of the trial court.
+Initially, it must be noted that the record in this case contains neither a written memorandum of decision nor a signed transcript. See Practice Book § 64-1. The duty to provide this court with a record adequate for review rests with the appellant. See Practice Book § 61-10; Statewide Grievance Committee v. Clarke, 48 Conn. App. 545, 547, 711 A.2d 746, cert. denied, 245 Conn. 923, 717 A.2d 239 (1998). We have often declined to review claims where the appellant has failed to provide us with an adequate record for review. See Chase Manhattan Bank/City Trust v. AECO Elevator Co., 48 Conn. App. 605, 607, 710 A.2d 190 (1998). In this matter, however, we exercise our discretion to review the defendant’s claim because the unsigned transcript is sufficient to reveal the basis of the trial court’s factual conclusions. See State v. Sandra O., 51 Conn. App. 463, 465, 724 A.2d 1127 (1999).
+The following facts are relevant to the disposition of this appeal. The defendant was convicted of criminal trespass in the first degree in violation of General Statutes § 53a-107, criminal mischief in the third degree in violation of General Statutes § 53a-117 and threatening in violation of General Statutes § 53a-62. She received a total effective sentence of two years and six months in the custody of the commissioner of correction, execution suspended, and three years probation. One of the conditions of the defendant’s probation was that she have no contact with the victim of the underlying crime, Jennifer Poline.
+Subsequent to her conviction, the defendant was charged with violating her probation pursuant to General Statutes § 53a-32 for making a threatening telephone call to Poline at her place of employment. On March 18, 1998, the defendant was convicted of violating the terms of her probation and was sentenced to forty-five days incarceration. This appeal followed.
+The defendant claims that the evidence was insufficient to prove that she had violated the terms of her probation. Specifically, the defendant claims that the sole evidence presented, the voice identification of the defendant by Poline, was unreliable and, therefore, insufficient to support the conviction. We disagree.
+“To support a finding of probation violation, the evidence must induce a reasonable belief that it is more probable than not that the defendant has violated a condition of his or her probation. ... In making its factual determination, the trial court is entitled to draw reasonable and logical inferences from the evidence. . . . This court may reverse the trial court’s initial factual determination that a condition of probation has been violated only if we determine that such a finding was clearly erroneous. ... A finding of fact is clearly erroneous when there is no evidence to support it . . . or when although there is evidence to support it, the reviewing court on the entire evidence is left with the definite and firm conviction that a mistake has been committed. ... In making this determination, every reasonable presumption must be given in favor of the trial court’s ruling .... A fact is more probable than not when it is supported by a fair preponderance of the evidence.” (Citations omitted; internal quotation marks omitted.) State v. Rollins, 51 Conn. App. 478, 482, 723 A.2d 817 (1999); see also State v. Askew, 53 Conn. App. 236, 729 A.2d 238 (1999).
+The defendant claims that her identity as the caller was not established because the victim’s testimony was the only evidence offered to demonstrate the caller’s identity. “ ‘The issue of the caller’s identity is one of fact properly to be resolved by the [fact finder].’ State v. Jones, 234 Conn. 324, 333, 662 A.2d 1199 (1995).” State v. Marsala, 43 Conn. App. 527, 531, 684 A.2d 1199 (1996), cert. denied, 239 Conn. 957, 688 A.2d 329 (1997). Here, Poline testified that she positively identified the defendant as the caller. Poline further testified that she recognized the caller’s voice as the defendant’s from hearing it on five prior occasions. In addition, Poline testified that the caller told her that the caller would kill her the next time she went near the caller’s son, and that Poline’s current boyfriend was the father of the defendant’s son. On the basis of that evidence the trial court reasonably could have concluded by a fair preponderance of the evidence, from the cumulative effect of both the circumstantial and direct evidence, that it was the defendant who had made the telephone call to Poline. Moreover, because it was reasonable for the trial court to conclude that the defendant had called Poline despite the condition of her probation, the trial court’s finding that the defendant violated the terms of her probation was not clearly erroneous.
+The judgment is affirmed.
+In this opinion the other judges concurred.
+General Statutes § 53a-32 provides in relevant part: “(a) At any time during the period of probation or conditional discharge, the court or any judge thereof may issue a warrant for the arrest of a defendant for violation of any of the conditions of probation or conditional discharge . . .
