@@ -1,0 +1,40 @@
+---
+court: "Connecticut Appellate Court"
+docket: "7054"
+decided: "1989-09-26"
+citations: ["20 Conn. App. 96"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. John Franklin"]
+source_url: "https://static.case.law/conn-app/20/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 746060
+cites_cases: ["16 Conn. App. 114", "17 Conn. App. 544", "17 Conn. App. 825", "194 Conn. 400", "200 Conn. 208", "201 Conn. 305", "206 Conn. 125", "206 Conn. 316", "211 Conn. 591", "211 Conn. 808", "480 A.2d 552", "508 A.2d 1329", "508 A.2d 456", "514 A.2d 734", "537 A.2d 145", "537 A.2d 480", "546 A.2d 926", "552 A.2d 1225", "554 A.2d 763", "559 A.2d 1141", "560 A.2d 444", "7 Conn. App. 211"]
+---
+
+# State v. Franklin
+
+## Majority (O’Connell, J.)
+
+O’Connell, J.
+The defendant appeals from the trial court’s granting of the state’s petition to continue his commitment to the custody of the commissioner of mental health. He claims that the trial court lacked jurisdiction to act on the petition and, in the alternative, that the ruling was erroneous. He also challenges the original proceeding in which he was found not guilty by reason of insanity.
+The relevant facts are set forth in Franklin v. Berger, 211 Conn. 591, 560 A.2d 444 (1989).
+“On January 5,1978, a criminal court adjudged the petitioner not guilty by reason of insanity. Pursuant to General Statutes (Rev. to 1977) § 53a-47 (repealed and replaced by General Statutes § 17-257), the petitioner was sent to Norwich Hospital for a psychiatric examination. On April 27, 1978, the trial court found the petitioner to be a danger to himself or others and ordered him committed to a mental institution for a term of ten years pursuant to General Statutes (Rev. to 1977) § 53a-47 (b). See General Statutes § 17-257c (e) (1) (A). Thereafter, the state declined to credit the petitioner’s pretrial jail time against the maximum term of his commitment set by the court.” Id., 593.
+The defendant filed a petition for a writ of habeas corpus on March 24, 1987, alleging that the state’s refusal to grant him credit for his pretrial confinement was a violation of the equal protection guarantees of the federal and state constitutions. The habeas court rejected this argument, and denied his petition. That decision was upheld in Franklin v. Berger, supra. These facts are the background of the present appeal.
+In challenging the jurisdiction of the trial court to act on the state’s petition, the defendant claims (1) that the state’s petition for the defendant’s continued commitment was untimely and (2) that the trial court had no authority to grant the state’s petition.
+During the period in question, General Statutes (Rev. to 1987) § 17-257n (c) provided that “[i]f reasonable cause exists to believe that the acquittee remains mentally ill to the extent that his discharge at the expiration of his maximum term of commitment would constitute a danger to himself or others, the state’s attorney, at least ninety days prior to such expiration, may petition the court for an order of continued commitment of the acquittee.”
+The defendant argues that the state failed to comply with the ninety day period required by § 17-257n (c) because although it served the defendant with its petition for continued commitment on March 26, 1987, it failed to file the petition with the court until April 11, 1988, less than two weeks prior to the expiration of the defendant’s term. Thus, he claims the trial court lacked jurisdiction to act on the state’s petition. We disagree.
+The file discloses that the defendant filed several motions to dismiss the state’s petition in which he specifically stated that the petition was filed on March 26, 1987. Hence, despite his objection to the court’s jurisdiction to act on the petition, his pleadings acknowledged that the petition was timely. See West Haven Sound Development Corporation v. West Haven, 201 Conn. 305, 312, 514 A.2d 734 (1986). Consequently, the defendant’s claim is meritless.
+In his next jurisdictional claim, the defendant argues that General Statutes § 17-257n, which governs discharge and recommitment, does not authorize the court to grant petitions for continued confinement.
+In Franklin v. Berger, supra, 597-604, our Supreme Court acknowledged the trial court’s inherent authority to continue the defendant’s confinement after his original term had expired. Therefore, this claim is also meritless.
+The defendant argues, in his next claim, that the court erroneously granted the state’s petition because it expressed the view on the record that it had no power to compel the defendant to receive the treatment he needs to prevent him from being dangerous to himself and others.
+We will not review this claim because the defendant failed to brief it adequately. See Practice Book § 4065. Instead, he simply cited State v. Putnoki, 200 Conn. 208, 218, 508 A.2d 1329 (1986), and stated that the trial court “committed precisely the same error . . . and for the same reasons its judgment should be vacated.” This bald assertion of error, without any analysis, is insufficient to warrant appellate review and is deemed abandoned. See Buchetto v. Haggquist, 17 Conn. App. 544, 555, 554 A.2d 763, cert. denied, 211 Conn. 808, 559 A.2d 1141 (1989); Menard v. Gentile, 7 Conn. App. 211, 216 n.5, 508 A.2d 456 (1976). Moreover, the record fails to indicate that the defendant was seeking release conditioned upon his agreement to receive treatment. Nor did he object or ask the court to clarify its view that it could not compel the defendant to continue his treatment. Accordingly, the defendant has failed to meet his burden of showing that there was an error in the judgment from which he appeals. Janet v. Scarpetti, 17 Conn. App. 825, 552 A.2d 1225 (1989).
+The defendant argues, in his final claim, that all of the proceedings in the Superior Court from 1978 to the present time should be vacated and that this case should be remanded with instruction to begin again. In support of this claim, he asserts that the record of the present case fails to show that he waived his right to contest the state’s proof of factual guilt with the understanding of either the law or the facts relevant to such a waiver. He urges this court to treat his “stipulated insanity defense” as a guilty plea and require an on-the-record showing that he fully understood the consequences of his decision.
+We cannot reach the merits of the defendant’s claim because he failed to provide this court with the transcript of the 1978 proceedings as required by Practice Book §§ 4061 and 4078. Nor has he referred to portions of the record to support his argument. Practice Book § 4065. “ ‘It is important to recognize that a claim of error cannot be predicated on an assumption that the trial court acted incorrectly.’ ” Rosenblit v. Danaher, 206 Conn. 125, 134, 537 A.2d 145 (1988), quoting Barra v. Ridgefield Card & Gift Gallery, Ltd., 194 Conn. 400, 407, 480 A.2d 552 (1984). Rather it must be presumed that the trial court acted properly. Rosenblit v. Danaher, supra. Without an adequate record, we are precluded from reviewing this claim. Commissioner v. Youth Challenge of Greater Hartford, Inc., 206 Conn. 316, 322, 537 A.2d 480 (1988); Rosenblit v. Danaher, supra; Sardilli v. Sardilli, 16 Conn. App. 114, 119 n.6, 546 A.2d 926 (1988).
+There is no error.
+In this opinion the other judges concurred.
+Jurisdiction over the defendant was subsequently transferred to the Psychiatric Security Review Board (PSRB), pursuant to General Statutes § 17-257 et seq.
+General Statutes § 17-257n (c) was subsequently amended to require the state to petition the court at least 135 days prior to the expiration of the acquittee’s release date. Public Acts 1987, No. 87-486.
+The defendant raised this issue in a motion to dismiss the state’s petition for continued commitment, which was denied.
+We are not aware of the existence of a “stipulated insanity defense” as a legal animal.
