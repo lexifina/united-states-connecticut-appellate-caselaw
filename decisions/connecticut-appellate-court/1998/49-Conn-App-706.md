@@ -1,0 +1,35 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 17861"
+decided: "1998-08-11"
+citations: ["49 Conn. App. 706"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KEVIN S. v. DEPARTMENT OF CHILDREN AND FAMILIES"]
+source_url: "https://static.case.law/conn-app/49/cases/0706-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1066786
+cites_cases: ["114 S. Ct. 176", "126 L. Ed. 2d 136", "224 Conn. 524", "226 Conn. 902", "234 Conn. 194", "236 Conn. 89", "30 Conn. App. 742", "510 U.S. 861", "620 A.2d 99", "622 A.2d 603", "625 A.2d 1375", "662 A.2d 107", "671 A.2d 345"]
+---
+
+# Kevin S. v. Department of Children & Families
+
+## Majority (SPALLONE, J.)
+
+Opinion
+SPALLONE, J.
+The plaintiff appeals from the trial court’s dismissal of his administrative appeal, through which he sought review of a plan of the department of children and families (department) to file termination petitions with respect to his children.
+The plaintiff claims that the trial court improperly (1) dismissed his administrative appeal and (2) violated his due process rights by denying his request for a hearing on his challenge to the treatment plan.
+The following facts are relevant to this appeal. On June 3,1997, the plaintiff formally requested a treatment plan hearing with the department pursuant to General Statutes § 17a-15 (c) to review the portion of the plan that stated that the department intended to seek termination of the plaintiffs parental rights in his children. A hearing date was set for July 9, 1997.
+On July 1, 1997, with full knowledge of the plaintiffs request for a hearing, and that a hearing date had been set, the department filed termination petitions with the trial court. On July 5,1997, the plaintiff received notice that because the department had filed termination petitions, his request for a treatment plan hearing was dismissed.
+On July 12, 1997, the plaintiff filed an administrative appeal pursuant to General Statutes §§ 4-183 and 17a-15, alleging that the department’s decision to dismiss his request for a treatment plan hearing was wrong and unlawful. The plaintiff also filed a motion to dismiss the department’s petitions for termination.
+On October 16,1997, the trial court, following a hearing, denied the plaintiffs motion to dismiss the termination petitions and dismissed his administrative appeal as moot. This appeal followed.
+Initially, we note that the jurisdiction for terminating parental rights lies either in the Probate Court or in the Superior Court pursuant to General Statutes §§ 17a-112, 45a-715 (a) and (g). Section 17a-112 authorizes termination petitions to be filed directly in the Superior Court. Section 45a-715 (a) authorizes the filing of same in the Probate Court. Section 45a-715 (g) authorizes the transfer of termination petitions from the Probate Court to the Superior Court. There is no statutory requirement that the department file a treatment plan as a condition precedent to the filing of a termination petition. An administrative hearing officer in the department has no authority to hear or determine a petition for termination of parental rights.
+Pursuant to § 17a-15 (a), a treatment plan is limited to the preparation of “a written plan for care and treatment of every child and youth under [the commissioner’s] supervision . . . .” (Emphasis added.) A hearing under § 17a-15 (c) must necessarily be limited to the plan required by subsection (a) for the care and treatment of children and youth under the supervision of the department, and is heard by an administrative hearing officer in the department.
+The only issue raised in the plaintiffs June 3, 1997 request for a treatment plan hearing concerned the department’s plan to file petitions to terminate the plaintiffs parental rights in his children. The resolution of whether termination petitions are appropriate requires a trial court to determine, inter alia, if terminations of parental rights would serve the best interests of the children. See General Statutes § 17a-112 (c). The department has the burden of proving by clear and convincing evidence that terminations would serve the best interests of the children. See In re Bruce R., 234 Conn. 194, 204, 662 A.2d 107 (1995).
+We agree with the trial court’s dismissal of the plaintiffs administrative appeal as moot because there was no practical relief that could have been granted in the administrative proceeding. The plaintiff conceded and the trial court found that even if the plaintiff had prevailed in the administrative hearing and the hearing officer determined that termination of parental rights was not an appropriate part of the treatment plan for the children, the hearing officer could not have forced the department to withdraw the termination petitions. Again, only the Superior Court or the Probate Court can make the decision to dismiss a termination petition. Additionally, at the point that the department filed for termination, the question of whether the department should seek termination became moot. “An issue is moot when the court can no longer grant any relief.” Ivimey v. Watertown, 30 Conn. App. 742, 754, 622 A.2d 603, cert. denied, 226 Conn. 902, 625 A.2d 1375 (1993). A case must be dismissed when intervening circumstances eliminate the possibility that any practical relief can be given to the party seeking relief. See Ayala v. Smith, 236 Conn. 89, 93, 671 A.2d 345 (1996). In this case, the filing of termination petitions by the department eliminated the possibility that the plaintiff could obtain the relief he sought in the administrative hearing requested under § 17a-15.
+The plaintiffs second claim is that by dismissing his administrative appeal, the court deprived him of due process by denying his request for a hearing on his challenge to the treatment plan. There is no merit to this claim. The plaintiffs interests in due process are fully protected because the issue that he raised for consideration in the administrative proceeding will be addressed in termination proceedings. Moreover, the plaintiff will benefit from a higher degree of due process in a termination proceeding than he would in a treatment plan hearing because in a termination proceeding, the burden is on the department to prove by clear and convincing evidence that sufficient grounds exist for termination. See generally Scinto v. Stamm, 224 Conn. 524, 536, 620 A.2d 99, cert. denied, 510 U.S. 861, 114 S. Ct. 176, 126 L. Ed. 2d 136 (1993) (hearing required only where hearing demonstrably more efficacious means of safeguarding interests of plaintiff than other procedural protections provided by defendant).
+In sum, the trial court, in dismissing the plaintiffs administrative appeal and in denying the plaintiffs request for a hearing on his challenge to the treatment plan, acted reasonably and in accordance with applicable law.
+The judgment is affirmed.
+In this opinion the other judges concurred.
