@@ -1,0 +1,32 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 20699"
+decided: "2001-08-21"
+citations: ["65 Conn. App. 172"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LAWRENCE R. SMITH v. COMMISSIONER OF CORRECTION"]
+source_url: "https://static.case.law/conn-app/65/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 213749
+cites_cases: ["13 Conn. App. 708", "199 Conn. 143", "201 Conn. 103", "201 Conn. 105", "219 Conn. 160", "255 Conn. 208", "42 U.S.C. § 1983", "506 A.2d 98", "513 A.2d 132", "539 A.2d 592", "592 A.2d 382", "764 A.2d 739"]
+---
+
+# Smith v. Commissioner of Correction
+
+## Majority (MIHALAKOS, J.)
+
+Opinion
+MIHALAKOS, J.
+The petitioner, Lawrence R. Smith, appeals from the judgment of the habeas court dismissing his petition for a writ of habeas corpus. The petitioner claims that the habeas court improperly granted the motion to dismiss filed by the respondent commissioner of correction. We agree and reverse the judgment of the habeas court.
+The following facts and procedural history are relevant to our disposition of the petitioner’s claim. While incarcerated for a previous conviction, the petitioner attacked and injured a correction officer. The petitioner was charged with assault in the second degree in violation of General Statutes § 53a-60 and entered a guilty plea in exchange for a sentence of four years imprisonment. The four year sentence was served concurrently to the term of imprisonment he currently is serving.
+On October 30, 1995, the petitioner filed a petition for a writ of habeas corpus, alleging that his guilty plea to the assault charge was not made knowingly, intelligently or voluntarily. The petitioner’s four year sentence for the assault conviction expired on June 1, 1998. On August 20, 1999, the respondent moved to dismiss the petition, arguing that it was moot because the petitioner’s sentence resulting from his guilty plea had expired. The petitioner objected, arguing that he had suffered collateral consequences as a result of his guilty plea. Specifically, the petitioner claimed that the assault conviction was relied on by the United States District Court for the District of Connecticut as the basis for its dismissal of his civil rights claim under 42 U.S.C. § 1983 and as a basis for imposing on him the maximum sentence for a subsequent conviction for possession of narcotics in a correctional institution. The court, L. Sullivan, J., denied the August 20, 1999 motion and, complying with a previous order to consolidate the petitioner’s six habeas actions, transferred the action to the Superior Court for the judicial district of Danbury.
+On January 25, 2000, the respondent filed with the court in Danbury a new motion to dismiss the underlying petition for the writ of habeas corpus as moot on the same ground that was raised in the August 20,1999 motion. The petitioner objected, arguing that the doctrine of res judicata barred the second motion to dismiss. On March 3, 2000, the court, Carroll, J., granted the second motion to dismiss, stating: “This petition is moot in light of the fact that the sentence to which this petition applies has expired and the petitioner is not being held on said sentence. This is a jurisdictional issue and can be raised and considered by the court at any time. The matter is ordered dismissed.” The court thereafter granted the petitioner’s petition for certification to appeal, and the petitioner filed this appeal.
+In his brief to this court, the petitioner originally argued that the habeas court’s dismissal of his petition was barred by the doctrine of res judicata. On March 22, 2001, we ordered the parties to file supplemental briefs on the following issue: “Why the habeas court’s judgment should not be reversed pursuant to Barlow v. Lopes, 201 Conn. 103, 105 n.2 [513 A.2d 132] (1986), which holds that a petition for habeas corpus is not rendered moot by the release of the petitioner from custody where the petition attacking the legality of the conviction was filed while the petitioner was still in custody. See also Herbert v. Manson, 199 Conn. 143, 143-44 n.1 [506 A.2d 98] (1986).” Because we find that issue to be dispositive, we do not address the ramifications that the doctrine of res judicata may have on the present case.
+Before addressing the merits of the petitioner’s claims, we must first elucidate the proper standard of review in the present case. “The conclusions reached by the trial court in its decision to dismiss the habeas petition are matters of law, subject to plenary review. . . . Thus, [w]here the legal conclusions of the court are challenged, we must determine whether they are legally and logically correct . . . and whether they find support in the facts that appear in the record.” (Citations omitted; internal quotation marks omitted.) In re Jonathan M., 255 Conn. 208, 217, 764 A.2d 739 (2001).
+It is clear that a petition for a writ of habeas corpus, if filed while the petitioner is in custody, is not rendered moot by the expiration of the petitioner’s sentence. See Barlow v. Lopes, supra, 201 Conn. 105 n.2; Herbert v. Manson, supra, 199 Conn. 143-44 n.1. The expiration of a petitioner’s sentence prior to a dispositive decision by the habeas court does not render his claims moot. Haynes v. Bronson, 13 Conn. App. 708, 710-11, 539 A.2d 592 (1988). In attacking the legality of his conviction in a habeas coipus action, the petitioner’s claim survives his release from incarceration. Id.; see also Barlow v. Lopes, supra, 105 n.2; Herbert v. Manson, supra, 143-44 n.1.
+Because the habeas court dismissed the petition as moot solely because the petitioner’s sentence had expired, we conclude that the court improperly granted the respondent’s second motion to dismiss.
+The judgment is reversed and the case is remanded with direction to reinstate the petition for a writ of habeas coipus and for further proceedings in accordance with law.
+In this opinion the other judges concurred.
+On October 3,1989, the petitioner was convicted of the crimes of kidnapping in the first degree, robbery in the third degree, larceny in the second degree and assault in the third degree. See State v. Smith, 219 Conn. 160, 592 A.2d 382 (1991). At the time of the events that gave rise to the present habeas action, the petitioner was serving a fifty-one year sentence.
