@@ -1,0 +1,57 @@
+---
+court: "Connecticut Appellate Court"
+docket: "5717"
+decided: "1988-08-30"
+citations: ["15 Conn. App. 690"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marc L. Fowler et al. v. Kevin Weiss et al."]
+source_url: "https://static.case.law/conn-app/15/cases/0690-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1966029
+cites_cases: ["113 A. 156", "113 A.2d 156", "122 Conn. 473", "146 Conn. 490", "147 Conn. 608", "152 A.2d 316", "164 A.2d 413", "166 Conn. 76", "179 Conn. 596", "191 A. 91", "32 Conn. Sup. 567", "345 A.2d 588", "347 A.2d 58", "427 A.2d 409", "511 P.2d 1370", "9 Wash. App. 202", "96 Conn. 88"]
+---
+
+# Fowler v. Weiss
+
+## Majority (Daly, J.)
+
+Daly, J.
+The defendants appeal from the judgment rendered, after a trial to the court, awarding the plaintiffs specific performance of a binder of sale as an enforceable contract for the sale of real estate.
+The defendants claim that the trial court erred (1) in finding that the binder of sale agreement signed by the parties created a final enforceable agreement, (2) in concluding that the plaintiffs had sustained their burden of proof with regard to their ability to perform their obligation under the binder of sale, and (3) in granting specific performance. We find error.
+The following facts are pertinent to this appeal. On August 18,1985, the parties executed a binder of sale agreement whereby the defendants agreed to sell their home, located at 6 Hazel Street, Norwalk, to the plaintiffs for $179,000. A down payment in the amount of $1790 was acknowledged with a superseding “contract of sale” to be signed on or before August 30, 1985, at which time an additional $16,110 would be paid. The sale was contingent upon the plaintiffs conducting a termite inspection and securing a first mortgage of not less than $139,000 at the then current interest rate for a term of thirty years before August 25, 1985. In addition, the binder provided that the closing was scheduled for October 15. The defendants expected to move to the Boston area due to a business relocation but this did not materialize. On or about August 28, 1985, the defendants notified their broker regarding this change of plans and their intent to withdraw from the binder agreement. At that particular time, the defendants returned the 1 percent binder deposit.
+At trial, the plaintiffs testified that they applied for a $139,000 mortgage from the Gateway Bank and, on September 4, the bank sent them a written mortgage commitment. The plaintiffs, however, never signed the commitment, paid the required fee or provided the bank with the requested copy of the contract of sale. After making further inquiries concerning the house, the plaintiffs purchased another home in Norwalk.
+The trial court concluded that the binder of sale was a legally enforceable agreement and that the plaintiffs were ready, willing and able to purchase the defendants’ house. The trial court ordered specific performance.
+In the first claim of error, the defendants argue that this is not a case that can be determined by reference to the statute of frauds. The defendants contend that the parties intended the binder to serve as documentation of their intent to enter into an enforceable contract and a statement of information for the attorneys who would draft the document for the contract of sale.
+The decisive question before us is whether the binder of sale was a binding contract or merely an informal writing documenting an intention to create a binding contract. In concluding that the binder of sale was not an enforceable contract, we examined the plain meaning of the contract in conjunction with the intent of the parties. As our Supreme Court has stated, “[t]he court will not torture words to import ambiguity where ordinary meaning leaves no room for ambiguity. Downs v. National Casualty Co., 146 Conn. 490, 494, 152 A.2d 316 [1959]. The circumstances surrounding the making of the contract, the purposes which the parties sought to accomplish and their motives cannot prove an intent contrary to the plain meaning of the language used. Connecticut Co. v. Division 425, 147 Conn. 608, 616-17, 164 A.2d 413 [1960]; see 3 Corbin, Contracts § 542; 4 Williston, Contracts (3d Ed.) § 609.” Zullo v. Smith, 179 Conn. 596, 601, 427 A.2d 409 (1980).
+Whether the parties intended legally to bind themselves prior to the execution of a formal contract is to be determined from (1) the language used, (2) the circumstances surrounding the transaction, and (3) the purpose that they sought to accomplish. Klein v. Chatfield, 166 Conn. 76, 80, 347 A.2d 58 (1974). A consideration of these factors enables a court to determine if the informal contract, in this case the binder, is enforceable or merely an intention to negotiate a contract in the future. See Johnson v. Star Iron & Steel Co., 9 Wash. App. 202, 206, 511 P.2d 1370 (1973).
+An examination of the binder of sale reveals that, by its own terms, the parties were not bound until a contract of sale was drawn. The binder specifically stated that a “CONTRACT OF SALE is to be signed on or before August 30,1985.” This contract of sale, unlike the binder, was to be a formal agreement between the parties. Moreover, it contemplated a large payment of $16,110 “on signing the superseding contract.” The plain meaning of supersede is “[t]o make obsolete, inferior, or outmoded ... to make void . . . annul, override ... to make superfluous or unnecessary . . . to take the place of . . . to take precedence over . . . . ” Webster, Third New International Dictionary. Applying the aforesaid definition of superseding we find that the mere execution of the binder by the parties did not create an enforceable contract. “It was essential to the creation of a contract that a formal written agreement should be executed. This formal written agreement was a condition precedent to the completion of a contract, and until such formal written agreement was executed the parties were still in the stage of negotiations for a contract and either party could withdraw from the negotiations.” Atlantic Terra Cotta Co. v. Chesapeake Terra Cotta Co., 96 Conn. 88, 101, 113 A.2d 156 (1921).
+In Schlott v. Zaremski, 32 Conn. Sup. 567, 345 A.2d 588 (1975), the parties signed a binder form supplied by a real estate broker. The binder contained the words “subject to the following terms and conditions a formal contract.” The binder was signed by the defendants, but no formal contract was executed by the defendants. The appellate session of the Superior Court held: “In this matter the written proposal and the acceptance by Zaremski did not create a binding and enforceable agreement. The written proposal contained an expressed condition that it was subject to ‘a formal contract’ being prepared and executed. The mere acceptance of the proposal by Zaremski did not create a binding agreement. The phrase ‘a formal contract’ was a condition precedent to the completion of a binding and enforceable agreement and until such a contract was executed, the parties were still in the stage of negotiation for ‘a formal contract.’ The parties did not intend to be bound until ‘a formal contract’ had in fact been executed. The intention of the parties may be implied from the expressed language used. Atlantic Terra Cotta Co. v. Chesapeake Terra Cotta Co., 96 Conn. 88, 101, 113 A. 156 (1921). We agree with the trial court that the plaintiff is not entitled to a real estate broker’s commission, as a matter of law, because no binding and enforceable written agreement was entered into by [the prospective buyer] and the defendants. The written proposal is not one which a court of equity would specifically enforce.” Schlott v. Zaremski, supra, 568.
+The language used in the binder here indicates that the agreement was not intended to be an enforceable contract. Although the binder agreement had the basic details of price and payment essential in any contract of sale for the house, it provided for the further negotiation of items involved in the purchase and sale. Moreover, only 1 percent of the negotiated price, $1790, was included in the binder agreement as opposed to 9 percent, $16,110, expected on the signing of the superseding contract. See Atlantic Terra Cotta Co. v. Chesapeake Terra Cotta Co., supra, 98.
+The circumstances surrounding the binder transaction also indicate that the binder was not intended by the parties to be legally enforceable. The binder was prepared by a broker in her office and not by an attorney. The parties expected an attorney to draft the contract of sale. As our Supreme Court has recognized, “considering the importance of the transaction to the parties, the memorandum appears no more than a statement of some of the essential features of a proposed contract and not a complete statement of all the essential terms.” Westbrook v. Times-Star Co., 122 Conn. 473, 481, 191 A. 91 (1937).
+Finally, the purpose which the parties sought to accomplish further evidences the parties’ intention that this was not a final enforceable contract. The plaintiffs testified that they felt free to negotiate any repair that was deemed necessary by the inspection while they were looking forward to the receipt of the superseding contract. Moreover, the plaintiffs testified that they did not sign the commitment from the bank because they were waiting for the signing of the superseding contract.
+In view of our holding, it is unnecessary to consider the other claims of error.
+There is error, the judgment is set aside and the case is remanded with direction to render judgment for the defendants.
+In this opinion the other judges concurred.
+“BINDER OF SALE
+“Aug. 18 1985
+“AGREEMENT between (SELLER) Kevin & Elizabeth Weiss residing at 6 Hazel St. Norwalk who hereby agrees to SELL, and Marc L. & Rhonda S. Fowler residing at 329-E 65th St. New York N.Y. who hereby agrees to BUY the property known and described as 6 Hazel St. Colonial INCLUDING THE FOLLOWING EXTRA ITEMS stove/hood d.w. garb disp. Refr. w/ D. as is s/ss. PRICE $179,000
+“payable as BINDER $1790
+“payable on signing superseding CONTRACT $16,110 10 %
+“payable by MORTGAGE $139,000
+“payable on taking TITLE $22,100
+“TOTAL $179,000
+“This sale is contingent upon Buyer’s ability to obtain a first mortgage from a bona fide lending institution of not less than $139,000 at an interest rate of current % per annum for a term of 30 years.
+“Subject to building & termit insp. Aug 25/85.
+“Hale & Grant 100 East 42nd Street New York, N.Y. 10017
+“Atty for Sellers: Preston Searle # (212) 867-2310
+“Atty for Buyers: Chuck Busek
+“The SELLER and BUYER agree that Palotay Real Estate in cooperation with the listing broker IS THE BROKER in this transaction and the SELLER agrees to pay a commission as agreed.
+“MORTGAGE commitment to be obtained on or before Sept. 20/85
+“CONTRACT OF SALE to be signed on or before Aug. 30/85
+“CLOSING OF SALE to be on or before Closing Oct. 15/85
+“WITNESSES: (Signed)
+“ACCEPTED: (Signed)”
+The trial court, in its memorandum of decision, stated: “I see no reason why the binder is not binding on the defendants and I believe it satisfies the requirements of the Statute of Frauds.”
+Black’s Law Dictionary, 5th Ed. defines supersede as to “obliterate, set aside, annul, replace, make void, inefficacous or useless, repeal.”
