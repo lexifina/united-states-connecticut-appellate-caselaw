@@ -1,0 +1,31 @@
+---
+court: "Connecticut Appellate Court"
+docket: "15809"
+decided: "1996-06-27"
+citations: ["42 Conn. App. 144"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF CONNECTICUT v. JOHN AHERN STATE OF CONNECTICUT v. LAWRENCE BROPHY STATE OF CONNECTICUT v. FRANK PERROTTI, JR. STATE OF CONNECTICUT v. THOMAS SANTA BARBARA"]
+source_url: "https://static.case.law/conn-app/42/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 127307
+cites_cases: ["112 S. Ct. 330", "116 L. Ed. 2d 270", "191 Conn. 27", "191 Conn. 34", "195 Conn. 303", "218 Conn. 85", "233 Conn. 44", "40 Conn. App. 483", "431 U.S. 651", "435 U.S. 850", "463 A.2d 566", "488 A.2d 778", "502 U.S. 919", "588 A.2d 145", "658 A.2d 947", "671 A.2d 1316"]
+---
+
+# State v. Ahern
+
+## Majority (FOTI, J.)
+
+FOTI, J.
+The defendants appeal from the denial of a motion to dismiss the charges against them on the grounds that each was denied his rights to a speedy trial and due process of law. The state asserts in its motion to dismiss the appeal that this court lacks subject matter jurisdiction because the order from which the defendants appeal is not a final judgment. We agree.
+The defendants were arrested on June 11, 1991, and charged with several violations of the Connecticut Fire Safety Code. On April 7, 1995, the defendants jointly moved to dismiss the charges against them on the grounds that they were denied their rights to a speedy trial under General Statutes § 54-82m, the constitution of Connecticut, article first, § 8, and the sixth amendment to the United States constitution, and that they were denied their rights to due process of law under the fourteenth amendment to the United States constitution. The trial court denied the defendants’ motion and this joint appeal followed.
+“[Ejxcept insofar as the legislature has specifically provided for an interlocutory appeal or other form of interlocutory appellate review . . . appellate jurisdiction is limited to final judgments of the trial court. . . . In a criminal proceeding, there is no final judgment until the imposition of a sentence. . . . The general rule is . . . that interlocutory orders in criminal cases are not immediately appealable.” (Citations omitted; internal quotation marks omitted.) State v. Garcia, 233 Conn. 44, 63, 658 A.2d 947 (1995).
+The denial of a motion to dismiss based on speedy trial grounds is not immediately appealable. Id., citing United States v. MacDonald, 435 U.S. 850, 857, 98 S. Ct. 1547, 56 L. Ed. 2d 18 (1978). In United States v. MacDonald, supra, 850, the respondent moved to dismiss the indictment on the ground that he was denied his right to a speedy trial under the sixth amendment to the United States constitution. The United States Supreme Court held that the denial of the respondent’s motion was “not final in the sense of terminating the criminal proceedings in the trial court.” Id., 857. Further, the court noted that “[t]he order sought to be appealed in this case may not accurately be described, in the sense that the description has been employed, as involving an important right which would be lost, probably irreparably, if review had to await final judgment.” (Internal quotation marks omitted.) Id., 860.
+The United States Supreme Court’s analysis, when applied to our test for the appealability of interlocutory orders enunciated in State v. Curcio, 191 Conn. 27, 31, 463 A.2d 566 (1983), leads to the same conclusion. “An otherwise interlocutory order is appealable in two circumstances: (1) where the order or action terminates a separate and distinct proceeding, or (2) where the order or action so concludes the rights of the parties that further proceedings cannot affect them.” Id.
+The denial of the defendants’ motion to dismiss on speedy trial and due process of law grounds did not terminate the criminal proceeding because the trial has not yet occurred. Nor does the denial of the motion to dismiss conclude the defendants’ rights so that further proceedings cannot affect them because, if the defendants are convicted and sentenced, they could appeal and, at that time, raise the issue of the denial of their motion to dismiss. See State v. Mooney, 218 Conn. 85, 588 A.2d 145, cert. denied, 502 U.S. 919, 112 S. Ct. 330, 116 L. Ed. 2d 270 (1991); State v. Brown, 40 Conn. App. 483, 671 A.2d 1316 (1996). If, after the defendants are found guilty at trial, an appellate court concludes that the convictions cannot stand as a result of the violation of the defendants’ rights to a speedy trial and due process of law, that court could set aside the convictions and remand the cases to the trial court with direction to grant the defendants’ motion to dismiss the charges. Because the defendants’ rights could be vindicated upon appeal from the final judgment in each case, immediate appellate review is not necessary to prevent the loss of the rights involved. State v. Curcio, supra, 191 Conn. 34.
+The rights to a speedy trial and to due process of law are distinguishable from the right to be free from double jeopardy. The denial of a motion to dismiss on double jeopardy grounds is immediately appealable. This is so because the constitutional right to protection against double j eopardy “not only protects against being twice punished but also ‘is a guarantee against being twice put to trial for the same offense.’ (Emphasis in original.) Abney v. United States, 431 U.S. 651, 661, 97 S. Ct. 2034, 52 L. Ed. 2d 651 (1977).” In re Juvenile Appeal (85-AB), 195 Conn. 303, 308-309, 488 A.2d 778 (1985).
+Our Supreme Court has “been disinclined ... to extend the privilege of an interlocutory appeal in criminal cases beyond the double jeopardy circumstance. This reluctance stems principally from [the] concern that to allow such appeals would greatly delay the orderly progress of criminal prosecutions in the trial court . . . .” Id, 309. The denial of the defendants’ motion to dismiss on speedy trial and due process of law grounds is not final for the purposes of appeal.
+The motion to dismiss the appeal is granted.
+In this opinion the other judges concurred.
+The defendants own property under a general partnership.
