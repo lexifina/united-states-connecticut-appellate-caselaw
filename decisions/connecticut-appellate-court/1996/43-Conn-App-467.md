@@ -1,0 +1,33 @@
+---
+court: "Connecticut Appellate Court"
+docket: "16244"
+decided: "1996-10-10"
+citations: ["43 Conn. App. 467"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAVINGS BANK LIFE INSURANCE COMPANY v. DAVID A. LINTHICUM ET AL."]
+source_url: "https://static.case.law/conn-app/43/cases/0467-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 792148
+cites_cases: ["191 Conn. 27", "194 Conn. 650", "195 Conn. 303", "197 Conn. 82", "224 Conn. 749", "237 Conn. 339", "26 Conn. App. 80", "31 Conn. App. 939", "40 Conn. App. 216", "40 Conn. App. 492", "42 Conn. App. 119", "463 A.2d 566", "485 A.2d 139", "488 A.2d 778", "495 A.2d 1063", "597 A.2d 1289", "620 A.2d 1276", "626 A.2d 1346", "669 A.2d 1246", "671 A.2d 1315", "676 A.2d 1367", "679 A.2d 32"]
+---
+
+# Savings Bank Life Insurance v. Linthicum
+
+## Majority (HENNESSY, J.)
+
+HENNESSY, J.
+The plaintiff in this foreclosure action moves to dismiss the defendant’s appeal for lack of a final judgment. We agree with the plaintiff that the denial of an application for protection from foreclosure under General Statutes § 49-3 If is not immediately appealable.
+The following facts are relevant to the disposition of this motion. The defendant David Linthicum executed a note and mortgage to the plaintiff. Following the defendant’s default on the note, the plaintiff brought this action to foreclose its mortgage on the defendant’s property located in the town of Fairfield. The pro se defendant then filed an answer to the complaint and an application for protection from foreclosure pursuant to § 49-3 If. The trial court denied his motion and this appeal followed.
+“In determining whether an order is a final judgment for purposes of appellate review, we rely on the standard articulated in State v. Curcio, 191 Conn. 27, 31, 463 A.2d 566 (1983). That standard permits the immediate appealability of an order in two circumstances: (1) where the order or action terminates a separate and distinct proceeding, or (2) where the order or action so concludes the rights of the parties that further proceedings cannot affect them. Madigan v. Madigan, [224 Conn. 749, 753, 620 A.2d 1276 (1993)], quoting State v. Curcio, supra, 31.” (Internal quotation marks omitted.) In re Elisabeth H., 40 Conn. App. 216, 218-19, 669 A.2d 1246 (1996). We conclude that neither of the two circumstances set forth in Curdo are present in this appeal.
+“The first alternative, termination of a separate and distinct proceeding, requires the order being appealed to be severable from the central cause to which it is related so that the main action can proceed independent of the ancillary proceeding. In re Juvenile Appeal (85-AB), 195 Conn. 303, 307, 488 A.2d 778 (1985). ... The question to be asked is whether the main action could proceed independent of the ancillary proceeding. State v. Parker, 194 Conn. 650, 654, 485 A.2d 139 (1984).” (Internal quotation marks omitted.) G. F. Construction, Inc. v. Cherry Hill Construction, Inc., 42 Conn. App. 119, 121-22, 679 A.2d 32 (1996).
+The puipose of an application for protection from foreclosure under § 49-31f is to grant the defendant an opportunity for the restructuring of the mortgage debt. General Statutes § 49-31g. If the application is approved, the foreclosure action is stayed for the restructuring period, pursuant to § 49-3 If (f). “If, for a period of three months following the end of the restructuring period, there are no further proceedings to continue the foreclosure proceedings based upon a default on the mortgage as restructured, the foreclosure action shall be dismissed. . . .” General Statutes § 49-31f (f).
+The main foreclosure action cannot proceed independent of the ancillary § 49-31f proceeding because, under the terms of the statute, the effect of the § 49-3 If proceeding is to stay, and possibly terminate, the foreclosure action. Because the application for protection from foreclosure is not a proceeding separate and distinct from the foreclosure action, the denial of the application does not terminate a separate and distinct proceeding.
+Likewise, the denial of the defendant’s § 49-3 If application does not so conclude the rights of the parties that further proceedings cannot affect those rights. After the court renders a final judgment as to the foreclosure, the defendant may appeal and then challenge the denial of his application for protection from foreclosure. See Savings Institute v. Wagner, 31 Conn. App. 939, 626 A.2d 1346 (1993). Because the defendant’s right to protection from foreclosure under § 49-3 If may be vindicated on appeal from the judgment on the merits of the foreclosure action, it is not necessary for the defendant to appeal at this time to prevent the irretrievable loss of that right. Ruggiero v. Fuessenich, 237 Conn. 339, 347, 676 A.2d 1367 (1996).
+Because the denial of the defendant’s application for protection from foreclosure under § 49-31f does not satisfy either standard of finality, the order is not a final judgment for the purpose of appeal. “ ‘The lack of a final judgment is a jurisdictional defect that requires that [this court] dismiss the appeal.’ Essex Savings Bank v. Frimberger, 26 Conn. App. 80, 81, 597 A.2d 1289 (1991), citing Stroiney v. Crescent Lake Tax District, 197 Conn. 82, 86, 495 A.2d 1063 (1985).” Connecti cut National Bank v. L & R Realty, 40 Conn. App. 492, 495, 671 A.2d 1315 (1996).
+The plaintiffs motion to dismiss the appeal is granted.
+In this opinion the other judges concurred.
+General Statutes § 49-31Í provides in relevant part: “(a) Subject to the provisions of subsection (b), a homeowner who is underemployed or unemployed against whom a foreclosure action is brought may make application, together with a financial affidavit, to the court having jurisdiction over the foreclosure action for protection from foreclosure . . . .”
+Also named as defendants were Derby Savings Bank, Joan Burry, Berj Haroian, the United States Department of the Treasury and the town of Fairfield. The complaint alleged that the interests of the above parties in the property were subordinate to that of the plaintiff. The plaintiff later withdrew the action as to Joan Burry and Berj Haroian. The term defendant in this opinion refers only to David Linthicum.
+For a discussion of what constitutes a final judgment on the merits of the foreclosure action, see Connecticut National Bank v. L & R Realty, 40 Conn. App. 492, 671 A.2d 1315 (1996), and Essex Savings Bank v. Frimberger, 26 Conn. App. 80, 597 A.2d 1289 (1991).
