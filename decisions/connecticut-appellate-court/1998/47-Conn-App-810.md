@@ -1,0 +1,29 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 16378"
+decided: "1998-03-03"
+citations: ["47 Conn. App. 810"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STANLEY DORSEY v. UNITED TECHNOLOGIES CORPORATION/NORDEN SYSTEMS, INC., ET AL."]
+source_url: "https://static.case.law/conn-app/47/cases/0810-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 283465
+cites_cases: ["118 Conn. 29", "170 A. 146", "221 Conn. 29", "242 Conn. 570", "242 Conn. 580", "243 Conn. 949", "43 Conn. App. 224", "45 Conn. App. 707", "45 Conn. App. 711", "602 A.2d 560", "682 A.2d 145", "697 A.2d 713", "698 A.2d 873", "704 A.2d 795"]
+---
+
+# Dorsey v. United Technologies Corp.
+
+## Majority (FOTI, J.)
+
+Opinion
+FOTI, J.
+This matter is currently before us on remand from our Supreme Court. A petition for certification was filed by the plaintiff following the publication of Dorsey v. United Technologies Corp., 45 Conn. App. 707, 697 A.2d 713 (1997) (Dorsey I). The petition was granted and the matter remanded to this court for reconsideration in light of our Supreme Court’s decision in Discuillo v. Stone & Webster, 242 Conn. 570, 698 A.2d 873 (1997). Dorsey v. United Technologies Corp., 243 Conn. 949, 704 A.2d 795 (1997).
+In Dorsey I, we relied on our decision in Discuillo v. Stone & Webster, 43 Conn. App. 224, 682 A.2d 145 (1996), aff'd, 242 Conn. 570, 698 A.2d 873 (1997), to “conclude that the statute of limitations in repetitive trauma cases runs one year from the date of last injurious exposure, regardless of when the plaintiff developed knowledge that the injury resulted from his employment.” Dorsey I, supra, 45 Conn. App. 711. Although our Supreme Court affirmed our decision in Diseuillo, it disagreed with the suggestion that “repetitive trauma injuries must automatically be treated as accidental injuries for purposes of [General Statutes] § 31-294.” (Emphasis in original.) Diseuillo v. Stone & Webster, supra, 242 Conn. 580 n.10. The court held that repetitive trauma claims fall within a statutory gap as to the duration of the filing period and, therefore, must be folded into one of the preexisting jurisdictional categories for claims based on accidental injury or occupational disease. Id., 577-78. The court stated that “the terms ‘accident’ and ‘occupational disease’ as they are used in § 31-294 must be read broadly enough so that even an injury that is defined as stemming from repetitive trauma pursuant to [General Statutes] § 31-275 (8) may nonetheless be deemed to fall into one of the two extant jurisdictional categories, as appropriate to the specific facts of each particular claim.” (Emphasis in original.) Id., 578. “Moreover, with regard to repetitive trauma claims to which the limitation period for accidents applies, the date on which the ‘accident’ is deemed to have occurred is the last day of exposure to the work-related incidents of repetitive trauma.” Id., 581. In analyzing the injury claim in Discuillo, our Supreme Court concluded, under the particular facts of that case, that “the plaintiffs heart attack more closely resembles an accidental injury than an occupational disease.” Id., 580.
+Our analysis of the plaintiffs claim herein, under the particular facts found, leads us to conclude that the plaintiffs hearing loss more closely resembles an accidental injury than an occupational disease. In Discuillo v. Stone & Webster, supra, 242 Conn. 580, our Supreme Court stated that “a series of repetitive workplace traumas can have the unintended result of causing an ‘accidental’ injury to an employee.” The facts found support the conclusion that an accidental injury resulted from the plaintiffs exposure to a series of traumas, i.e., noise, occurring over a course of time. The plaintiffs hearing loss was not found to be a “natural incident” of his occupation as a powerhouse operator, nor did it “attach to [his] occupation a hazard which distinguishes it from the usual run of occupations and is in excess of that attending employment in general.” Glodenis v. American Brass Co., 118 Conn. 29, 40-41, 170 A. 146 (1934). From the facts found, there was no recognizable link between the plaintiffs hearing loss and some distinctive feature of his employment that is common to all jobs of that sort. The facts do not establish that the plaintiff’s occupation as a powerhouse operator subjected him to a hazard that made it more likely that he would suffer a hearing loss than if he were otherwise employed. See Hansen v. Gordon, 221 Conn. 29, 34-37, 602 A.2d 560 (1992).
+Although the plaintiff was diagnosed with hearing loss on January 5, 1993, his last day of exposure was March 11, 1990. Because his claim was not filed until January 14, 1993, he did not file within one year of the last injurious exposure in a repetitive trauma case that more closely resembles an accidental injury than an occupational disease. The plaintiff, therefore, has not satisfied the jurisdictional filing prerequisites pursuant to § 31-294.
+The decision of the workers’ compensation review board is affirmed.
+In this opinion the other judges concurred.
+Pursuant to General Statutes § 31-294, compensation claims based on accidental injury must be filed within one year from the date of the accident, whereas claims based on occupational disease must be filed within three years from the first manifestation of a symptom of the occupational disease.
+We note that we ordered the parties to file simultaneous supplemental briefs to address the question: “Does the plaintiffs repetitive trauma iqjury (i.e., hearing loss) more closely resemble an ‘accident’ or an ‘occupational disease’ pursuant to General Statutes § 31-294? See Discuillo v. Stone & Webster, [supra, 242 Conn. 570].”
