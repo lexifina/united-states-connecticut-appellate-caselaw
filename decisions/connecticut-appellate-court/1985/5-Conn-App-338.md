@@ -1,0 +1,44 @@
+---
+court: "Connecticut Appellate Court"
+docket: "3478"
+decided: "1985-09-24"
+citations: ["5 Conn. App. 338"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Jesse Fullard"]
+source_url: "https://static.case.law/conn-app/5/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12254187
+cites_cases: ["163 Conn. 23", "188 Conn. 653", "190 Conn. 631", "196 Conn. 36", "3 Conn. App. 607", "301 A.2d 249", "453 A.2d 427", "461 A.2d 1375", "490 A.2d 1000", "491 A.2d 404"]
+---
+
+# State v. Fullard
+
+## Majority (Borden, J.)
+
+Borden, J.
+After a jury trial, the defendant was found guilty of manslaughter in the second degree, in violation of General Statutes § 53a-56 (a) (1). He appeals from the judgment of conviction following the verdict, claiming that the court erred in denying his motion for judgment of acquittal made at the close of all the evidence.
+The sole issue on appeal is whether there was sufficient evidence upon which the jury could have found the defendant’s claim of self-defense, raised pursuant to General Statutes § 53a-19 (a), disproved beyond a reasonable doubt. General Statutes § 53a-12 (a). We hold that there was sufficient evidence, and find no error.
+The defendant did not testify or present any evidence. There was evidence produced by the state from which the jury could reasonably have found that the cause of the death of the victim, James Heggs, was infection resulting from a stab wound to his abdomen, stomach, colon and liver, inflicted nearly three months prior to the date of death. The morning after the stabbing, the defendant telephoned his cousin, Myra Davis, and told her he had stabbed someone. After the death, the police investigation focused on the defendant, who gave a written statement to the police which was introduced in evidence.
+The statement indicated that the defendant paid Heggs $10 for Heggs to buy him a bag of heroin. When the defendant discovered the bag to be empty, he complained to Heggs.
+The statement continued: “While we were going back down the drive and I asked James to give me my money back and then he started to call me a punk and started to beat me up. He knocked me down on the ground and got on top of me. He started to beat me up and because he was heavier than me I couldn’t get him off. I was really scared because I knew that I couldn’t beat him and that he had a reputation of being a bad dude. I was trying to get him off me and my arm hit my pocket and that’s when I realized that I had a knife so I got my knife out and managed to open it up. I stabbed him one time and that’s how I got him off me. I had no other choice, I couldn’t get away from him. When he got off me and that’s when he told me Tf I ever see you again I am going to kill you.’
+“Q. Where did you go at that time?
+“A. I was still scared so I threw the knife somewheres around there and I went home. I never went back around there again.
+“Q. Do you know James’ last name?
+“A. No, I didn’t know it until my cousin Myra told me a few weeks later.
+“Q. I am showing you a police photo #12053, is that the man that you stabbed? (Photo #12053 is of James Heggs)
+“A. Yes, that’s the one that also beat me up.
+“Q. Is there anything else you would like to say concerning this incident.
+“A. I really didn’t want to kill the man, I just wanted to get him off me, I was scared.”
+The defendant argues in effect that, because the state relied on his statement to establish that he stabbed the victim, and because the same statement also raised the defense of the justified use of deadly physical force, there was insufficient evidence as a matter of law to disprove the defendant’s defense and to permit the case to go to the jury. We disagree.
+We agree that “[w]hen a defense other than an affirmative defense, is raised at a trial, the state shall have the burden of disproving such defense beyond a reasonable doubt.” General Statutes § 53a-12 (a). The use of deadly force in self-defense is a defense pursuant to General Statutes § 53a-19 (a), which provides in pertinent part: “[A] person is justified in using reasonable physical force upon another person to defend himself or a third person from what he reasonably believes to be the use or imminent use of physical force, and he may use such degree of force which he reasonably believes to be necessary for such purpose; except that deadly physical force may not be used unless the actor reasonably believes that such other person is (1) using or about to use deadly physical force, or (2) inflicting or about to inflict great bodily harm.”
+Whether the defense of the justified use of force, properly raised at trial, has been disproved by the state is a question of fact for the jury, to be determined from all the evidence in the case and the reasonable inferences drawn from that evidence. State v. Corchado, 188 Conn. 653, 663, 453 A.2d 427 (1982). “The statute focuses on the . . . defendant . . . claiming self-defense. It focuses on what he reasonably believes under the circumstances . . . .” (Emphasis in original.) Id.
+The defendant, by his claim of self-defense in his statement, raised the defense provided by General Statutes § 53a-19 (a). Thus, the state had the burden of disproving that defense beyond a reasonable doubt. General Statutes § 53a-12 (a).
+This does not mean, however, as the defendant urges, that the state had any further burden of production of evidence after it had introduced the defendant’s statement. Although it retained the burden of proof, or burden of persuasion, on each element of the crime beyond a reasonable doubt, and although that burden of persuasion included disproving the defendant’s claim of self-defense, the state was not precluded from relying on the evidence which it had produced to persuade the jury of the defendant’s guilt. As long as that evidence was sufficient for a jury reasonably to find that the state had met its burden of persuasion, the verdict must stand.
+In deciding whether the evidence was sufficient to justify the verdict, we construe the evidence in the light most favorable to sustaining the verdict, and we determine whether, on the basis of the cumulative effect of that evidence, the jury could reasonably have concluded that the defendant was guilty. State v. Dumlao, 3 Conn. App. 607, 613, 491 A.2d 404 (1985). The critical questions for the jury, in evaluating the defendant’s claim of self-defense, were (1) whether he reasonably believed that Heggs was using or about to use deadly physical force, or was inflicting or about to inflict great bodily harm, and (2) whether, acting with that reasonable belief, he used the deadly force of the knife stab on Heggs. General Statutes § 53a-19 (a); State v. Corchado, supra. There was sufficient evidence in this case to sustain the verdict.
+First, the jury could have believed that part of the defendant’s statement admitting that he stabbed Heggs, but disbelieved that part in which he claimed that it was done in self-defense. It is axiomatic that a jury can accept all, part or none of the testimony of a witness. Barrila v. Blake, 190 Conn. 631, 639, 461 A.2d 1375 (1983); Birgel v. Heintz, 163 Conn. 23, 29, 301 A.2d 249 (1972). We know of no authority for the proposition that, faced with a defendant’s written statement, part inculpatory and part exculpatory, the jury must accept the exculpatory with the inculpatory.
+This is particularly true here, because there was also evidence that the defendant lied to the police before giving his written statement. When he was first apprehended by the police he claimed that his name was Ron, not Jesse, he denied knowing his cousin, Myra Davis, and when shown a photograph of the victim, he denied knowing him, stabbing him or ever carrying a knife. The jury “could consider the defendant’s own misstatements and changes in his statements to the police, as consciousness of guilt.” State v. Carter, 196 Conn. 36, 48, 490 A.2d 1000 (1985).
+Second, even if the jury believed the exculpatory part of his statement, they could have reasonably concluded from it that the degree of force he used in response to Heggs was not reasonable, and that his belief that he was threatened with deadly force or great bodily harm was not reasonable. General Statutes j 53a-19 (a); State v. Corchado, supra. The facts that Heggs was on top of the defendant and beating him up without a weapon, and that Heggs had a “reputation of being a bad dude,” did not compel the jury to conclude that either the defendant’s response or belief were reasonable. Thus, the jury could reasonably have concluded that the defense provided pursuant to General Statutes § 53a-19 (a) was disproved beyond a reasonable doubt.
+There is no error.
+In this opinion the other judges concurred.
