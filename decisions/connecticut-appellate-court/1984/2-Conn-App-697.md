@@ -1,0 +1,40 @@
+---
+court: "Connecticut Appellate Court"
+docket: "2475"
+decided: "1984-11-13"
+citations: ["2 Conn. App. 697"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Abraham J. Kolodney, Trustee v. Joseph F. Kolodney et al."]
+source_url: "https://static.case.law/conn-app/2/cases/0697-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 774982
+cites_cases: ["103 A.2d 529", "121 Conn. 388", "129 Conn. 309", "137 Conn. 350", "141 Conn. 49", "149 Conn. 423", "151 Conn. 209", "180 A.2d 639", "185 A. 82", "196 A.2d 111", "20 Conn. 510", "203 A.2d 85", "25 Conn. Sup. 285", "27 A.2d 791", "77 A.2d 336", "90 Conn. 48", "96 A. 178"]
+---
+
+# Kolodney v. Kolodney
+
+## Majority (Hull, J.)
+
+Hull, J.
+This action raises the question of whether an appeal from a Probate Court order requiring increased payments to the beneficiary of a testamentary trust precludes a later declaratory judgment action by which the trustee seeks to determine the extent of his discretion under the terms of the trust. The trial court concluded that the later action was precluded by the earlier and rendered a judgment dismissing the later action, from which the plaintiff appealed. We find no error.
+On October 2, 1981, the Berlin Probate Court, Januszewski, J., after a hearing and pursuant to a trust created under the will of Ralph J. Kolodney, ordered the present plaintiff, Abraham J. Kolodney, trustee, to double his $1000 per month payments to the defendant beneficiary of that trust, Nancy Kolodney. On appeal to the Superior Court, the award to Nancy Kolodney was increased again to $2500 per month.
+During the pendency of that appeal, this declaratory judgment action was instituted against the beneficiary, several other parties interested in the will and Judge Januszewski by the trustee, who sought answers to five questions from the Superior Court. All of the questions focus on the extent of the trustee’s discretion as to the timing and amount of any payments required under the terms of the trust. This action was dismissed by the court, N. O’Neill, J., on the motion of Judge Januszewski, as duplicative of the issues presented in the prior appeal from the Probate Court.
+By 1850, it was already “well settled, that the pendency of a prior suit between the same parties, for the same thing, will [generally] abate a latter suit; because, in such a case, the last is deemed to be unnecessary, and therefore vexatious.” Quinebaug Bank v. Tarbox, 20 Conn. 510, 515 (1850). The few exceptions to this rule occur where the application of the rule would deprive the plaintiff “of any substantial right which the law gives him as incident to the determination of the issues or the direct and speedy collection of his debt.” Dettenborn v. Hartford-National Bank & Trust Co., 121 Conn. 388, 393, 185 A. 82 (1936); see also Brochin v. Connecticut Importing Co., 137 Conn. 350, 77 A.2d 336 (1950). Thus, where a Probate Court appeal and a Superior Court action are both instituted in the same matter, the latter will not be dismissed if it affords the plaintiff a remedy otherwise unavailable before the Probate Court; Dettenborn v. Hartford-National Bank & Trust Co., supra; or where the plaintiffs only alternative would be “time-consuming and might well have cost him the opportunity of assuring . . . the collection of any judgment he might obtain.” Brochin v. Connecticut Importing Co., supra, 353.
+Where, however, the plaintiffs “could have so easily procured the advantage . . . which they did obtain in the second action by getting an order . . . in the first action . . . the second action . . . was unreasonable.” Cole v. Associated Construction Co., 141 Conn. 49, 56, 103 A.2d 529 (1954). It is into this last group of cases that most actions for declaratory judgments fall. “It is manifestly unwise and unnecessary to permit a new action for a declaratory judgment when the same question can be determined in the pending action.” Buchman v. Taylor, 151 Conn. 209, 211, 196 A.2d 111 (1963); see also Redmond v. Matthies, 149 Conn. 423, 427-28, 180 A.2d 639 (1962).
+In the present case, the five claims upon which the plaintiff sought rulings from the Superior Court are directly involved in the appeal to the Superior Court from the decision of the Probate Court. They have since been decided, either explicitly or by necessary implication, by the Superior Court, Doyle, J., in that appeal.
+It should also be noted that a Probate Court judge is never a proper party defendant to a declaratory judgment resulting from his construction of a will in an action before him.
+There is no error.
+In this opinion the other judges concurred.
+This appeal, originally filed in the Supreme Court, was transferred to this court. Public Acts, Spec. Sess., June, 1983, No. 83-29, § 2 (c).
+The provisions of that trust read in part: “Fourth: All the rest, residue and remainder of my estate, of whatsoever the same may consist and wheresoever situated, I give, devise and bequeath to my said brother, Abraham J. Kolodney, to serve without bond, and if he is unable or unwilling to act, then to The New Britain National Bank, a national banking association located in said Town of New Britain, in trust, however, to pay over to my daughter, Nancy Kolodney, when she has reached or shall reach the age of fifty years. During the period while my Trustee, whichever one may act shall hold any estate in trust, he or it shall have the power to invest and reinvest the same and to collect the income therefrom and expend so much of the net income and principal thereof for the comfortable maintenance, support and education of my said daughter as he or it shall, in his or its sole discretion, deem advisable, or in the event my said daughter shall not be living at the time of my death or shall not survive to receive all of the trust estate hereunder in accordance with the terms hereof, then I give, devise and bequeath all said rest, residue and remainder estate or all of said trust estate then remaining, whichever the case may be, to her children then living and the issue then living of any deceased child of hers, equally per stirpes.”
+That appeal is, pursuant to General Statutes § 45-288, a trial de novo; Haverin v. Welch, 129 Conn. 309, 315, 27 A.2d 791 (1942); though limited to the jurisdiction of the Probate Court. MacKinnon v. Burke, 25 Conn. Sup. 285, 289, 203 A.2d 85 (1964), quoting Slattery v. Woodin, 90 Conn. 48, 50, 96 A. 178 (1915).
+Those five questions read as follows:
+“1. Whether the plaintiff has the sole and absolute discretion pursuant to said trust to determine what, if any, payments may be made to the defendant Nancy Kolodney.
+“2. Whether said trust requires the plaintiff to make any payments to the defendant Nancy Kolodney.
+“3. Whether the defendant Probate Judge Edward J. Januszewski has the power to order the plaintiff to make any specific payment to the defendant Nancy J. Kolodney.
+“4. Whether the defendant Probate Judge Edward J. Januszewski has the power to remove the plaintiff as trustee if the plaintiff fails to make any specified monthly payments to the defendant Nancy Kolodney.
+“5. Whether the defendant Probate Judge Edward J. Januszewski has the power to remove the plaintiff as trustee if the plaintiff fails to make any payment to the defendant Nancy Kolodney.”
+The opinion of the Superior Court for the judicial district of Hartford-New Britain at New Britain, No. 408498 (1984), Doyle, J., on the appeal from the Probate Court, deals directly with two of the questions raised here. Specifically, questions one and three are dealt with in Judge Doyle’s memorandum of decision. A casual glance at the five questions at issue here reveals that they are so redundant as to render specific discussion of each of the remaining questions unnecessary. See footnote 4, supra.
+It should be noted that the trustee has elected to appeal to this court from the judgment in the appeal from the Probate Court. That appeal is pending.
