@@ -1,0 +1,31 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 18464"
+decided: "2000-05-23"
+citations: ["57 Conn. App. 731"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HOUSING AUTHORITY OF THE CITY OF NORWALK v. VALERIE DAVIS ET AL."]
+source_url: "https://static.case.law/conn-app/57/cases/0731-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 445639
+cites_cases: ["219 Conn. 657", "225 Conn. 757", "236 Conn. 89", "246 Conn. 281", "54 Conn. App. 185", "594 A.2d 958", "627 A.2d 367", "671 A.2d 345", "715 A.2d 756", "733 A.2d 897"]
+---
+
+# Housing Authority v. Davis
+
+## Majority (HENNESSY, J.)
+
+Opinion
+HENNESSY, J.
+The defendants, Valerie Davis, Shonda Davis and Hosan Davis, appeal from the judgment granting possession of the leased premises in which they were residing to the plaintiff, the housing authority of the city of Norwalk, in a summary process action. On appeal, the defendants claim that the trial court improperly held that (1) conduct occurring off the defendants’ rental premises was sufficient for a finding of serious nuisance under General Statutes § 47a-15 (D) and (2) possession of marijuana with intent to sell was sufficient to constitute a serious nuisance under § 47a-15 (D). Because we determine that the defendants’ claims are moot, however, we do not reach these issues and dismiss the appeal for lack of subject matter jurisdiction.
+The relevant factual and procedural background follows. The plaintiff brought a three count summary process action against the defendants, alleging that they (1) either used, sold or possessed illegal drugs near their rental premises in violation of their public housing lease, (2) engaged in conduct that constituted ordinary nuisance in violation of General Statutes § 47a-32 and (3) engaged in conduct that was a serious nuisance in violation of § 47a-15 (D). The defendants filed an answer and a special defense alleging that they cured the alleged violation of the lease.
+On May 21, 1998, the court rendered judgment of immediate possession in favor of the plaintiff on the first count, which alleged breach of the lease, and on the third count, which alleged serious nuisance, and in favor of the defendants on the second count, which alleged nuisance. The defendants now appeal, challenging the decision of the court on the serious nuisance count. The plaintiff claims that this court lacks jurisdiction because the defendants’ claims are moot. We agree.
+“Mootness implicates [this] court’s subject matter jurisdiction and is thus a threshold matter for us to resolve. ... It is a well-settled general rule that the existence of an actual controversy is an essential requisite to appellate jurisdiction; it is not the province of appellate courts to decide moot questions, disconnected from the granting of actual relief or from the determination of which no practical relief can follow. ... An actual controversy must exist not only at the time the appeal is taken, but also throughout the pendency of the appeal. . . . When, during the pendency of an appeal, events have occurred that preclude an appellate court from granting any practical relief through its disposition of the merits, a case has become moot.” (Citations omitted; internal quotation marks omitted.) Ayala v. Smith, 236 Conn. 89, 93-94, 671 A.2d 345 (1996).
+The plaintiff contends that the present appeal is moot because we can grant the defendants no practical relief. If this court were to reverse the trial court’s judgment on the third count of the plaintiffs complaint, the judgment for the plaintiff on the first count would remain in effect. No practical relief, therefore, can follow from this appeal. See In re David L., 54 Conn. App. 185, 192-93, 733 A.2d 897 (1999). Because the defendants’ claims are moot, we dismiss the appeal for lack of subject matter jurisdiction.
+The appeal is dismissed.
+In this opinion the other judges concurred.
+In their preliminary statement of issues, the defendants claimed, among other things, that the court improperly found that the defendants breached their public housing lease. The defendants, however, did not brief this issue. Thus, we consider it to be abandoned. See Commissioner of Health Services v. Youth Challenge of Greater Hartford, Inc., 219 Conn. 657, 659 n.2, 594 A.2d 958 (1991). We are aware that the original notice of judgment from the trial court did not reflect that the judgment was based on breach of lease as well as serious nuisance. We also are aware that a corrected notice stating that the judgment was based on both of those grounds was not issued until after 1he defendants filed their brief. We nonetheless conclude that Ihe trial court’s oral findings were adequate to inform the defendants that the plaintiff prevailed on both bases.
+The court stated that “[djespite the good advice and the help that the mother gave, the son defied his own mother. I am not thoroughly impressed that [Ilosan] Davis has seen the error of his ways. Clearly ... by his own admission he sold drags.” It went on to conclude that “there was no cure in evidence presented. The court finds the issue in favor of the plaintiff on the grounds of serious nuisance. Certainly, the court cannot find the issues for the plaintiff on the second count. . . . [S]o the judgment is going to enter in favor of the plaintiff for possession of the premises.”
+In so concluding, we find no exception to permit review of the defendants’ claims. See, e.g., Conetta v. Stamford, 246 Conn. 281, 295, 715 A.2d 756 (1998) (reviewing issue despite mootness where issue “ ‘capable of repetition, yet evading review’ ”). Because the defendants are tenants in a public housing project, adverse collateral consequences may flow from the judgment of eviction. See Housing Authority v. Lamothe, 225 Conn. 757, 765, 627 A.2d 367 (1993). Such potential adverse consequences have been held to defeat a claim of mootness. Id., 766. In this case, however, any such adverse collateral consequences would not be avoided even if we were to review and reverse the judgment as to the serious nuisance issue because, as noted in the body of our opinion, the defendants failed to challenge the court’s finding of breach of lease.
