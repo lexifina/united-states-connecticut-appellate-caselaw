@@ -2,7 +2,7 @@
 court: "Connecticut Appellate Court"
 docket: "2014"
 decided: "1985-01-22"
-citations: ["9 Conn. App. 93", "3 Conn. App. 212"]
+citations: ["9 Conn. App. 93"]
 reporter: "conn-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Donna Durso v. Wayne Misiorek"]
 source_url: "https://static.case.law/conn-app/9/cases/0093-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1311269
-cites_cases: ["105 S. Ct. 2048", "135 Conn. 262", "160 Conn. 237", "165 Conn. 33", "170 Conn. 337", "178 Conn. 640", "189 Conn. 445", "190 Conn. 686", "190 Conn. 694", "191 Conn. 27", "191 Conn. 497", "194 Conn. 229", "200 Conn. 656", "261 A.2d 287", "278 A.2d 795", "28 Conn. Sup. 348", "3 Conn. App. 212", "327 A.2d 565", "337 U.S. 901", "36 Conn. Sup. 501", "365 A.2d 1082", "409 A.2d 1040", "425 A.2d 124", "456 A.2d 286", "461 A.2d 1387", "462 A.2d 4", "463 A.2d 566", "467 A.2d 674", "471 U.S. 1020", "478 A.2d 1011", "485 A.2d 1309", "506 A.2d 1054", "512 A.2d 917", "6 Conn. App. 530", "63 A.2d 589", "69 S. Ct. 1046", "85 L. Ed. 2d 311", "93 L. Ed. 1715"]
+cites_cases: ["105 S. Ct. 2048", "178 Conn. 640", "189 Conn. 445", "190 Conn. 686", "190 Conn. 694", "194 Conn. 229", "200 Conn. 656", "261 A.2d 287", "28 Conn. Sup. 348", "3 Conn. App. 212", "425 A.2d 124", "456 A.2d 286", "461 A.2d 1387", "462 A.2d 4", "471 U.S. 1020", "478 A.2d 1011", "485 A.2d 1309", "506 A.2d 1054", "512 A.2d 917", "6 Conn. App. 530", "85 L. Ed. 2d 311"]
 ---
 
 # Durso v. Misiorek
