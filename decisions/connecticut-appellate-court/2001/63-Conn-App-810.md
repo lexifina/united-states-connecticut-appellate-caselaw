@@ -1,0 +1,33 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 21112"
+decided: "2001-06-19"
+citations: ["63 Conn. App. 810"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DOROTHY M. WEISS v. ROBERT L. BERGEN, JR."]
+source_url: "https://static.case.law/conn-app/63/cases/0810-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 124001
+cites_cases: ["235 Conn. 107", "235 Conn. 114", "252 Conn. 174", "252 Conn. 188", "48 Conn. App. 671", "663 A.2d 398", "712 A.2d 433", "745 A.2d 789"]
+---
+
+# Weiss v. Bergen
+
+## Majority (MIHALAKOS, J.)
+
+Opinion
+MIHALAKOS, J.
+The defendant, Robert L. Bergen, Jr., appeals from the judgment of the trial court rendered following the granting in part of the motion for additur filed by the plaintiff, Dorothy M. Weiss, which proposed an increase in the jury award by $3000 in this personal injury action. The defendant’s sole claim on appeal is that the court improperly granted the motion. We agree with the defendant and, therefore, reverse the judgment and remand the case to the trial court with direction to reinstate the jury award.
+The following facts are relevant to our resolution of the defendant’s claim. On October, 29,1998, the plaintiff and the defendant were involved in a two car motor vehicle accident in Beacon Falls. Thereafter, the plaintiff initiated an action alleging that she had sustained personal injuries as a result of the defendant’s negligence. The plaintiffs mouth and arm had been injured as a result of the accident. She had been visiting a chiropractor prior to trial for treatment concerning neck pain.
+On May 10,2000, the jury returned a verdict in favor of the plaintiff and awarded her $8300 — $5800 in economic damages and $2500 in noneconomic damages. Thereafter, the plaintiff filed a motion for an additur. After conducting a hearing, the court granted the plaintiffs motion and ordered an additur of $3000. The defendant refused the additur and, thereafter, the court set aside the verdict and ordered a new trial. The defendant brought this appeal.
+The court, responding to the defendant’s motion for articulation concerning the additur, stated that “the award of $2500 in noneconomic damages is inconsistent with the conclusions the jury must have drawn concerning the plaintiffs injuries, as evidenced by the jury’s award of $5800 in economic damages, and that the award of $2500 for noneconomic damages is inadequate” to compensate the plaintiff for past, as well as future, pain and suffering.
+We begin by noting that “[t]he right to a jury trial is fundamental in our judicial system, and [our Supreme Court] has said that the right is one obviously immovable limitation on the legal discretion of the court to set aside a verdict, since the constitutional right of trial by jury includes the right to have issues of fact as to which there is room for a reasonable difference of opinion among fair-minded men passed upon by the jury and not by the court. . . . Because in setting aside the verdict, the trial court deprives the party in whose favor the verdict was rendered of his constitutional right to have factual issues resolved by the jury, our role generally is to examine the evidential basis of the verdict itself to determine whether the trial court abused its discretion.” (Citation omitted; internal quotation marks omitted.) Wickers v. Hatch, 252 Conn. 174, 188, 745 A.2d 789 (2000). Accordingly, “we review a decision of the trial court setting aside the verdict and ordering an additur to determine whether the trial court properly exercised its discretion.” Id., 181; Childs v. Bainer, 235 Conn. 107, 113, 663 A.2d 398 (1995).
+“The amount of damages awarded is a matter peculiarly within the province of the jury . . . .” Parasco v. Aetna Casualty & Surety Co., 48 Conn. App. 671, 675, 712 A.2d 433 (1998). “The only practical test to apply to a verdict is whether the award of damages falls somewhere within the necessarily uncertain limits of fair and reasonable compensation in the particular case, or whether the verdict so shocks the sense of justice as to compel the conclusion that the jury [was] influenced by partiality, mistake or corruption.” (Internal quotation marks omitted.) Id., 675-76; Childs v. Bainer, supra, 235 Conn. 114. “A fact finder is not required to award noneconomic damages simply because economic damages are awarded.” Parasco v. Aetna Casualty & Surety Co., supra, 676.
+“On issues where the evidence allows room for reasonable differences of opinion among fair-minded people, if the conclusion of the jury is one that reasonably could have been reached, it must stand even though the trial court might have reached a different result.
+... A verdict should not be set aside . . . where it is apparent that there was some evidence on which the jury might reasonably have reached its conclusion.” (Citation omitted; internal quotation marks omitted.) Id.
+In the present case, the jury was free to believe reasonably, based on the evidence presented, that $2500 in noneconomic damages was sufficient to compensate the plaintiff for pain or suffering up to the point of trial, as well as any future pain and suffering. There was no evidence presented at trial that would lead the court to find the jury award so shocking to our sense of justice as to compel the court to award an additur. Because the “[t]he difference between the amounts of the economic and the noneconomic damages awarded creates no inherent ambiguity” in a jury award; id.; we cannot agree with the court’s finding that the jury’s award of noneconomic damages was inadequate in comparison to its award of economic damages. When determining whether to order an additur, the court should not assume that the jury made a mistake, but should suppose that the jury did exactly what it intended to do. See Wickers v. Hatch, supra, 252 Conn. 188-89. We are, therefore, persuaded that the damages awarded by the jury are supported by the evidence presented at trial and fall within the necessarily uncertain limits of fair and reasonable compensation. Accordingly, we conclude that the trial court failed to properly exercise its discretion by finding the jury award to be inadequate and ordering an additur.
+The judgment is reversed and the case is remanded with direction to reinstate the jury’s verdict and to render judgment thereon.
+In this opinion the other judges concurred.
+The defendant subsequently filed a posttrial motion for a reduction of the verdict to account for collateral source payments to the plaintiff. The court granted the motion and reduced the verdict by $495.75, resulting in a net award of $7804.25.
