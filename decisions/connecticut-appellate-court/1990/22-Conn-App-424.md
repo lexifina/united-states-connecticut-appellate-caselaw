@@ -1,0 +1,31 @@
+---
+court: "Connecticut Appellate Court"
+docket: "7215"
+decided: "1990-07-24"
+citations: ["22 Conn. App. 424"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elisabeth Solomon v. Basil Keiser"]
+source_url: "https://static.case.law/conn-app/22/cases/0424-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 749340
+cites_cases: ["180 Conn. 129", "184 Conn. 461", "212 Conn. 741", "214 Conn. 336", "429 A.2d 837", "440 A.2d 159", "562 A.2d 524", "572 A.2d 323"]
+---
+
+# Solomon v. Keiser
+
+## Majority (O’Connell, J.)
+
+O’Connell, J.
+This is the defendant’s appeal from the trial court’s order opening a stipulated judgment and releasing funds escrowed pursuant thereto. The defendant claims that the trial court lacked jurisdiction to open the judgment because more than four months had elapsed since entry of that judgment. We reverse the judgment of the trial court.
+This appeal arises out of an action for specific performance of a contract by which the plaintiff was to purchase certain real estate from the defendant. At an earlier stage, we dismissed the defendant’s appeal for lack of a final judgment. The Supreme Court reversed our decision and remanded the case to us for further proceedings. Solomon v. Keiser, 212 Conn. 741, 562 A.2d 524 (1989). The underlying facts are detailed in the Supreme Court’s opinion and will not be repeated here.
+The only facts relevant to this appeal are that, prior to trial, the parties settled their dispute and recited their stipulation into the record. On May 27,1987, the trial court rendered judgment on the oral stipulation, pursuant to which the plaintiff deposited $100,000 in an escrow account, pending the parties’ agreeing on a purchase price. The parties subsequently reached such agreement, but a dispute arose concerning the interpretation of the stipulated judgment provision involving the application of the $100,000 escrowed funds. On December 13,1987, the plaintiff filed a motion asking the trial court to clarify the judgment. The trial court held a hearing, but did not rule on the motion. Instead, it opened the judgment sua sponte, ordered release of the escrowed funds to the plaintiff, and returned the case to the trial list. The defendant appeals from the trial court’s action.
+The defendant claims that the trial court lacked jurisdiction to open the judgment because more than four months had elapsed since the rendering thereof. This claim is dispositive of the appeal. General Statutes § 52-212a and Practice Book § 326 establish the procedures for setting aside or opening judgments. “[Ujnless otherwise provided by law . . . any civil judgment or decree rendered in the superior court may not be opened or set aside unless a motion to open or set aside is filed within four months succeeding the date on which it was rendered or passed. . . .” (Emphasis added.) Practice Book § 326; see General Statutes § 52-212a. This rule applies to stipulated judgments as well as to judgments rendered upon controverted facts. Kenworthy v. Kenworthy, 180 Conn. 129, 131, 429 A.2d 837 (1980). In the present case, the court rendered judgment in May, 1987, and then opened that judgment, sua sponte, in December, 1987, more than four months later.
+The plaintiff focuses on the opening phrase “Unless otherwise provided by law,” and she contends that Connecticut law does otherwise provide for stipulated judgments. She is correct that a stipulated judgment bears important distinctions from a judgment rendered following a trial of controverted facts. Instead of constituting a judicial determination of a litigated right, a stipulated judgment “ ‘may be defined as a contract of the parties acknowledged in open court and ordered to be recorded by a court of competent jurisdiction.’ ” Gillis v. Gillis, 214 Conn. 336, 339, 572 A.2d 323 (1990). In addition, due to the contractual aspect of a stipulated judgment, it may be opened upon motion of one of the parties even after the four month period has elapsed, but only if the movant can show that the judgment was obtained by fraud, duress, accident or mistake. Celanese Fiber v. Pic Yarns, Inc., 184 Conn. 461, 466, 440 A.2d 159 (1981); Kenworthy v. Kenworthy, supra.
+The plaintiff’s sole claim here is that there was a mistake as to the meaning of the judgment. The flaw in her argument is that the mistake must be mutual; a unilateral mistake will not suffice. Celanese Fiber v. Pic Yarns, Inc., supra. The defendant responds by vigorously protesting that there was no mistake on his part, and, therefore, there was no possibility of a mutual mistake. In opening the judgment, the trial court made no finding that there had been a mutual mistake. Moreover, under General Statutes § 52-212 and Practice Book § 326, the court may open a judgment only upon motion of one of the parties. In the present case, neither party moved to have the judgment opened. We conclude, therefore, that the trial court lacked jurisdiction to open the stipulated judgment.
+The judgment is reversed and the case is remanded with direction to reinstate the stipulated judgment of May, 1987, and to disburse the funds to the plaintiff and the defendant according to the terms of said judgment, as more specifically articulated on August 12, 1988.
+In this opinion the other judges concurred.
+In her Supreme Court argument, the plaintiff conceded that the trial court’s June, 1988 order releasing the escrowed funds was comparable to an order opening the judgment. Solomon v. Keiser, 212 Conn. 741, 747, 562 A.2d 524 (1989). We have likewise treated the issue as one involving the opening of a judgment.
+In view of our disposition on the jurisdictional issue, we do not reach the second claim of abuse of discretion in releasing the escrow funds.
+As part of an articulation dated August 12,1988, the trial court stated: “The court’s reading of the transcript of the agreement, as well as its recollection of the agreement that was announced to become an order, did not recognize an additional $100,000 credit.” This articulation clearly answers the question presented in the plaintiffs motion for clarification.
