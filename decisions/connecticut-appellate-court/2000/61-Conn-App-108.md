@@ -1,0 +1,37 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 20263"
+decided: "2000-12-12"
+citations: ["61 Conn. App. 108"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MELINDA BARBER v. MICHAEL MULROONEY"]
+source_url: "https://static.case.law/conn-app/61/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1158572
+cites_cases: ["247 Conn. 148", "251 Conn. 59", "57 Conn. App. 463", "57 Conn. App. 688", "59 Conn. App. 704", "717 A.2d 1254", "749 A.2d 83", "751 A.2d 394", "752 A.2d 1037", "757 A.2d 1207"]
+---
+
+# Barber v. Mulrooney
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The plaintiff, Melinda Barber, appeals from the judgment awarding her damages from the defendant, Michael Mulrooney, after a trial to the court in this sexual harassment action. The sole issue on appeal is whether the court abused its discretion in refusing to award punitive damages for intentional infliction of emotional distress after finding a pattern of sexual harassment by the defendant.
+The following facts are relevant to our resolution of this appeal. The defendant employed the plaintiff and at one time had a sexual relationship with her. Although the plaintiff ended the relationship, the defendant continued to approach her with sexual overtures and unsolicited contact. That behavior eventually caused the plaintiff to leave her employment without having secured other employment. The plaintiff filed a complaint against the defendant, alleging violations of General Statutes § 46a-60 and intentional infliction of emotional distress. The court rendered judgment for the plaintiff and awarded compensatory damages for the time during which she was unemployed. The court did not provide any award for emotional distress.
+At the outset, we note that the court rendered its decision orally and that there is neither a written memorandum of decision nor a signed transcript of that decision. Although the court’s actions in this regard fail to comply fully with Practice Book § 64-1, the court issued a detailed statement of its findings and conclusions in connection with its decision. Because the unsigned transcript sufficiently states the court’s decision, we review the plaintiffs claims. See State v. Lavigne, 57 Conn. App. 463, 468 n.4, 749 A.2d 83 (2000); see also Bank of America, FSB v. Franco, 57 Conn. App. 688, 691 n.l, 751 A.2d 394 (2000).
+“[T]he trial court has broad discretion in determining whether damages are appropriate. ... Its decision will not be disturbed on appeal absent a clear abuse of discretion.” (Citation omitted; internal quotation marks omitted.) Elm City Cheese Co. v. Federico, 251 Conn. 59, 90, 752 A.2d 1037 (1999). The plaintiff provides no authority or per se rule that equates a violation of § 46a-60 with intentional infliction of emotional distress. We are not inclined to create such a rule. It is evident that the court weighed the facts of the employment and personal relationship in arriving at its conclusions of law and its award of damages. We conclude that there was no clear abuse of discretion in refusing to award damages with regard to the plaintiff’s claim of intentional infliction of emotional distress.
+The judgment is affirmed.
+General Statutes § 46a-60 (a) provides in relevant part: “It shall be a discriminatory practice in violation of this section:
+“(1) For an employer, by himself or his agent, except in the case of a bona fide occupational qualification or need, to refuse to hire or employ or to bar or to discharge from employment any individual or to discriminate against him in compensation or in terms, conditions or privileges of employment because of the individual’s . . . sex . . .
+“(8) For an employer, by himself or his agent, for an employment agency, by itself or its agent, or for any labor organization, by itself or its agent, to harass any employee, person seeking employment or member on the basis of sex. ‘Sexual harassment’ shall, for the purposes of this section, be defined as any unwelcome sexual advances or requests for sexual favors or any conduct of a sexual nature when . . . (C) such conduct has the purpose or effect of substantially interfering with an individual’s work performance or creating an intimidating, hostile or offensive working environment. . . .”
+The court recited its decision as follows:
+“The Court: In the complaint, you asked for compensatory damages— there’s no punitive damages in this case—and I will not allow attorney’s fees in this case. . . . As far as the sexual relations—she knew she was engaging in that activity—and that certainly couldn’t be considered harassment when you say, ‘I’m having sex with someone of my own volition.’ But the other actions would constitute sexual harassment .... I’m finding it for $2118.52—for the plaintiff. There are no attorney’s fees, no punitive damages and there are no costs involved.
+“[Plaintiffs Counsel]: Your Honor, you’re making no finding for the emotional distress she suffered?
+“The Court: Pardon?
+“[Plaintiffs Counsel]: You’re making no finding of any monetary amount for the emotional distress she suffered?
+“The Court: No. The conduct she engaged in was much more strenuous and much more strenuous, mentally, in trauma, than she could have conducted . . . .”
+Practice Book § 64-1 (a) provides in relevant part: “The court shall state its decision either orally or in writing, in all of the following: (1) in rendering judgments in trials to the court in civil and criminal matters .... The court’s decision shall encompass its conclusion as to each claim of law raised by the parties and the factual basis therefor. If oral, the decision shall be recorded by a court reporter and, if there is an appeal, the trial court shall create a memorandum of decision for use in the appeal by ordering a transcript of the portion of the proceedings in which it stated its oral decision. The transcript of the decision shall be signed by the trial judge and filed in the trial court clerk’s office . . . .”
+We note the distinction between the elements of the two claims in arriving at this conclusion. “ [A]n employer will be held liable for harassment perpetrated by its employees if the employer provided no reasonable avenue for complaint,, or . . . the employer knew (or should have known) of the harassment but unreasonably failed to stop it.” (Internal quotation marks omitted.) Brittell v. Dept. of Correction, 247 Conn. 148, 167, 717 A.2d 1254 (1998). “For the plaintiff to prevail on a claim of intentional infliction of emotional distress, four elements must be established. It must be shown: (1) that the actor intended to inflict emotional distress or that he knew or should have known 1hat emotional distress was the likely result of his conduct; (2) that the conduct was extreme and outrageous; (3) that the defendant’s conduct was the cause of the plaintiffs distress; and (4) that the emotional distress sustained by the plaintiff was severe. . . . Liability for intentional infliction of emotional distress requires conduct exceeding all bounds usually tolerated by decent society, of a nature which is especially calculated to cause, and does cause, mental distress of a very serious kind. ... All four elements must be established to prevail on a claim for intentional infliction of emotional distress.” (Citations omitted; internal quotation marks omitted.) Muniz v. Kravis, 59 Conn. App. 704, 708-709, 757 A.2d 1207 (2000).
