@@ -1,0 +1,30 @@
+---
+court: "Connecticut Appellate Court"
+docket: "3638"
+decided: "1986-04-15"
+citations: ["7 Conn. App. 92"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gloria Duhl v. Paulo Duhl"]
+source_url: "https://static.case.law/conn-app/7/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1958894
+cites_cases: ["181 Conn. 217", "185 Conn. 42", "186 Conn. 387", "191 Conn. 468", "435 A.2d 24", "440 A.2d 252", "441 A.2d 629", "464 A.2d 837"]
+---
+
+# Duhl v. Duhl
+
+## Majority (Daly, J.)
+
+Daly, J.
+The plaintiff appeals from the judgment of the trial court terminating her right to periodic alimony payments as provided by General Statutes § 46b-86 (b). The plaintiff concedes that the trial court’s finding that the plaintiff was “living with another person” was not clearly erroneous, but alleges that there was insufficient evidence to demonstrate a change in her financial circumstances warranting the termination of alimony.
+The parties were married for eleven years before their marriage was dissolved on December 4,1974. As part of the dissolution, the defendant was ordered to pay the plaintiff $125 per week as periodic alimony. This amount was modified twice and reduced to $50 per week on November 27, 1979.
+The defendant filed a motion for the termination of alimony dated August 20, 1984, “due to the fact that the plaintiff is now cohabitating [sic] and due to a substantial change of circumstances.” It is clear from the record and from oral argument in this court that this claim invoked the provisions of General Statutes § 46b-86 (b). A hearing was held on the issues pursuant to § 46b-86 (b) and, on October 1,1984, the trial court ordered that the periodic alimony payments be terminated.
+General Statutes § 46b-86 (b) grants to the Superior Court discretion to “terminate the payment of periodic alimony upon a showing that the party receiving the periodic alimony is living with another person under circumstances which the court finds should result in the . . . termination of alimony because the living arrangements cause such a change of circumstances as to alter the financial needs of that party.” The trial court supported its finding of a change in financial circumstances by noting that the plaintiff was living with a male who had been paying the plaintiff $400 in rent per month for an unspecified amount of time, although at the time of trial he was no longer making such payments. The plaintiff also admitted taking trips with this person to Israel, Florida, California, Las Vegas, Montreal and the Carribean. Clearly, these findings provided sufficient evidence of a change in the plaintiff’s financial circumstances.
+The plaintiff argues, however, that § 46b-86 (b) requires a substantial change in circumstances and some finding by the court that the relationship will endure before a court may terminate alimony. The plaintiff summarized this claim during oral argument before this court by stating that the trial court must find a substantial change in financial circumstances, namely the financial interdependence such as is found in a common law marriage, before it may order the termination of alimony payments. No such requirement is to be found in the statute nor do we feel that such a requirement is necessary to fulfill its purpose. Section 46b-86 (b) was enacted “to ‘correct the injustice of making a party pay alimony when his or her ex-spouse is living with a person of the opposite sex, without marrying, to prevent the loss of support.’ H.B. No. 6174, 1977 Sess. (Statement of Purpose).” Connolly v. Connolly, 191 Conn. 468, 473-74, 464 A.2d 837 (1983). To further this purpose, the statute provides the Superior Court with a broad basis upon which to modify, suspend or terminate periodic alimony payments. “We note that the General Assembly chose the broader language of ‘living with another person’ rather than ‘cohabitation’ and that this provision requires only a ‘change’ of circumstances, not a ‘substantial change’ as required by § 46b-86 (a).” (Footnote omitted.) Kaplan v. Kaplan, 185 Conn. 42, 45-46, 440 A.2d 252 (1981). Once these two factors are found, the termination, suspension or modification of alimony becomes a matter for the discretion of the trial court.
+The trial court’s finding that the plaintiff had experienced a change in financial circumstances can only be rejected by this court if it is clearly erroneous. See Practice Book § 3060D. The record in this case indicates that this finding was supported by evidence demonstrating that the plaintiff received rent from her male companion as well as evidence of the extensive trips they took together. “It cannot be said, therefore, that the finding was as a matter of law unsupported by the record, incorrect, or otherwise mistaken. See Pandolphe’s Auto Parts, Inc. v. Manchester, [181 Conn. 217, 222, 435 A.2d 24 (1980)]. This court may not substitute its own opinion as to the living arrangements of the defendant for the factual finding of the trial court.” Kaplan v. Kaplan, 186 Conn. 387, 392, 441 A.2d 629 (1982). While the termination of alimony may be a harsh result, the trial court’s findings were not clearly erroneous.
+There is no error.
+In this opinion the other judges concurred.
+The issue presented in this appeal arose from this hearing on the questions presented under General Statutes § 46b-86 (b). A hearing on the issue of a change of circumstances under General Statutes § 46b-86 (a) was subsequently held but is not part of this appeal by agreement of the parties at oral argument.
+The plaintiff expressly stated at oral argument before this court that her only challenge on appeal concerned the factual findings of the trial court, which she claimed were inadequate to justify the order of termination. She expressly waived any claim that the trial court abused its discretion in ordering termination as opposed to suspension or modification.
