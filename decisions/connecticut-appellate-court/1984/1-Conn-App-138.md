@@ -1,0 +1,38 @@
+---
+court: "Connecticut Appellate Court"
+docket: "2347"
+decided: "1984-01-03"
+citations: ["1 Conn. App. 138"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Margaret Brock v. Andrew Cavanaugh"]
+source_url: "https://static.case.law/conn-app/1/cases/0138-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 772797
+cites_cases: ["116 A.2d 906", "122 Conn. 406", "142 Conn. 680", "177 Conn. 232", "189 A. 609", "413 A.2d 834"]
+---
+
+# Brock v. Cavanaugh
+
+## Majority (Testo, J.)
+
+Testo, J.
+The defendant appeals from a judgment of the trial court ordering him to pay the plaintiff a $10,000 arrearage for child support. The issues raised deal with the doctrines of laches and equitable estoppel in the context of support payments that were not paid for six years.
+The plaintiff, Margaret Brock, then Margaret Cavanaugh, and the defendant, Andrew Cavanaugh, were married in 1965 and are the parents of a minor daughter. Their marriage was terminated in April, 1972. In the divorce decree, custody of the minor daughter was awarded to the plaintiff subject to the right of reasonable visitation to the defendant. The defendant was ordered to pay $25 per week child support.
+Prior to the divorce, the plaintiff moved with the child to Florida. After the divorce the defendant complied with the support order until late in the summer of 1972 when the post office returned his check as undeliverable. That event coincided with the second marriage of the plaintiff and her removal from her last known address in Vero Beach, Florida to Tampa, Florida. The plaintiff and her new husband moved from time to time to various locations within and without the country. She did not inform the defendant of her new marital status, name or location until the service of process in the present action in October, 1978, approximately six years after he stopped forwarding support payments. In July, 1973, however, the plaintiff filed a motion for contempt which went off the calendar without further action. Her whereabouts and status were known to her cousin in Connecticut, an attorney, who represented her in the divorce proceedings.
+The defendant claims error in the trial court’s ruling that the defendant did not meet his burden of proof as to the defenses of laches and equitable estoppel.
+We first consider the defendant’s claim that the court erred in failing to conclude that the plaintiff was guilty of laches for her failure to seek payment of the court ordered support of the minor child. The defendant argues that the lapse of six years in bringing suit for the support payments was an unreasonable and inexcusable delay since the plaintiff did not' disclose her whereabouts to him.
+Laches consists of two elements. First, there must have been an inexcusable delay, and, second, that delay must have prejudiced the defendant. Bozzi v. Bozzi, 177 Conn. 232, 239, 413 A.2d 834 (1979); Kurzatkowski v. Kurzatkowski, 142 Conn. 680, 685, 116 A.2d 906 (1955); Kievman v. Grevers, 122 Conn. 406, 411, 189 A. 609 (1937). Moreover, the mere lapse of time does not constitute laches unless it results in prejudice to the defendant such that the defendant is led to change his position with respect to the matter in question. Bozzi v. Bozzi, supra.
+The defendant contends that he has been prejudiced in two ways: (1) he claims that he now has an arrearage of $10,000 in support orders that he did not plan for; and (2) he has a second family who will have to suffer because of this order.
+Both parties agree, as we do, that this case turns upon the interpretation of Bozzi. In Bozzi, the plaintiff mother sought, after eight years, to have the defendant father found in contempt for failure to comply with the support order for their two children entered at the time of their divorce. The defendant claimed that the plaintiff had deprived him of his right of visitation with the children when she, without informing him or the trial court, moved to the Netherlands with them. The Supreme Court held, inter alia, that absent a finding of prejudice to the defendant, the trial court did not err in concluding that the plaintiff was not guilty of laches by virtue of her eight year delay in seeking payments.
+In the present case, the trial court concluded that, as to laches, Bozzi was determinative and that, because the defendant had not been prejudiced by the delay, latches would not lie. “A conclusion that a party [is] not . . . guilty of laches is one of fact for the trier and not one that can be made by this court unless the subordinate facts found make such a conclusion inevitable as a matter of law.” Bozzi v. Bozzi, supra, 240; Kurzatkowski v. Kurzatkowski, 142 Conn. 680, 684, 116 A.2d 906 (1955). The obligation to comply with a divorce decree requiring support payments is not conditioned upon the ability of the noncustodial parent to exercise rights of visitation. Bozzi v. Bozzi, supra, 237-38. Furthermore, a support order can only be modified by the court. General Statutes § 46b-86(a). The defendant failed to take any such action during the plaintiffs absence. In view of the trial court’s findings and the fact that the defendant made only a limited attempt to locate the plaintiff or his daughter in Florida while he knew that a relative of hers resided in Connecticut, we cannot say that the court erred in concluding that the plaintiff was not guilty of laches.
+The defendant next contends that the court erred in failing to conclude that the plaintiff should be equitably estopped from asserting her claim.
+“Equitable estoppel is the effect of the voluntary conduct of a party whereby he is absolutely precluded, both at law and in equity, from asserting rights which might perhaps have otherwise existed . . . as against another person, who has in good faith relied upon such conduct, and has been led thereby to change his position for the worse.” Bozzi v. Bozzi, supra, 241.
+The trial court noted that under Bozzi the plaintiffs failure affirmatively to keep the defendant informed as to the whereabouts of the child did not terminate the defendant’s duty to support. Moreover, the court found that the defendant had not changed his position in reliance upon the temporary nonenforcement of the order of support, but that the defendant “was hopeful that if he did not stir up the waters, [the] problem in his life would evaporate.” Since the essential elements of equitable estoppel were not satisfied by the defendant, the trial court did not err in concluding that the plaintiff was not estopped from asserting her claim for support.
+There is no error.
+In this opinion the other judges concurred.
+This appeal, originally filed in the Supreme Court, was transferred to this court. Public Acts, Spec. Sess., June, 1983, No. 83-29, § 2 (c).
+The parties stipulated that if the defendant is liable for support payments, the amount involved is $10,000.
+The trial court had found that the lack of any communication between the parties for about eight years might be significant in supporting a claim of laches if there were evidence that the defendant had changed his position in reliance upon an abandonment by the plaintiff of her claim against him.
+The trial court concluded that although the plaintiff’s failure to inform the defendant of the whereabouts of their child was not commendable, the defendant did not demonstrate any real interest in having contact with the child and he could have learned of her whereabouts at the time the plaintiff filed her motion for contempt in July, 1973.
