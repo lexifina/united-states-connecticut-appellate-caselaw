@@ -1,0 +1,39 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 15926"
+decided: "1997-09-09"
+citations: ["46 Conn. App. 573"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RICHARD B. POLIVY v. AIR ONE, INC., ET AL."]
+source_url: "https://static.case.law/conn-app/46/cases/0573-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 286236
+cites_cases: ["30 Conn. App. 643", "35 Conn. App. 391", "621 A.2d 1359", "646 A.2d 251"]
+---
+
+# Polivy v. Air One, Inc.
+
+## Majority (O’CONNELL, C. J.)
+
+Opinion
+O’CONNELL, C. J.
+In this replevin action for an aircraft, the defendant Arstol, Inc. (Arstol), appeals from the judgment for the plaintiff on its counterclaim. Arstol claims that the trial court improperly (1) interpreted the effect of a prior trial court decision, (2) found that Arstol had not proved its conversion claim, (3) ruled on the respective repossession rights of senior and junior secured parties, (4) found that Arstol had not proved its negligence claim and (5) found that Arstol had not proved its tortious interference with a business expectancy claim. We reverse the judgment of the trial court.
+The scenario leading to this appeal commenced on December 1, 1992, when the defendant Air One, Inc. (Air One), sold a Rockwell Commander aircraft to the defendant Brainard Flight Services, Inc. (Brainard), and took back an aircraft security agreement representing a portion of the purchase price. This security agreement was properly recorded pursuant to Federal Aviation Administration (FAA) regulations in Oklahoma City, Oklahoma.
+On August 11, 1993, Brainard executed a promissory note in favor of the plaintiff, who took a security interest in the aircraft’s engine, propeller and various other component parts. On October 8, 1993, the plaintiff filed his security interest with the Connecticut secretary of the state. On October 28, 1993, the plaintiff also filed his security interest with the FAA. Brainard thereafter defaulted on its obligations to the plaintiff and to Air One. On February 14, 1994, the plaintiff instituted this writ of replevin against Brainard and Air One. Shortly after the plaintiff instituted this action, Air One assigned its security interest to Capital Assistance Corporation, which assigned the note and security interest to Arstol, a Connecticut corporation formed on February 22,1994. On or about March 11, 1994, Arstol, relying on the right of self-help, flew the aircraft from its location at Brain-ard Airport in Hartford to Keene, New Hampshire. Ars-tol also sent written notification of the repossession of the aircraft to Brainard.
+On or about March 24,1994, the plaintiff learned that Arstol was the assignee of Air One’s interest in the note and the aircraft. The plaintiff eventually learned the location of the aircraft in New Hampshire, seized it, and flew it from Keene to Ware, Massachusetts. The plaintiff did not notify Arstol of the aircraft’s location.
+Almost simultaneously, the plaintiff filed a motion to cite Arstol into this action, and Arstol filed a motion to intervene. In addition, Arstol filed a motion for a temporary injunction and restraining order against the plaintiff, claiming that the plaintiff had wrongfully repossessed the aircraft. The trial court, O’Neill, J., ordered that the aircraft be restored to a safe place in Hartford where all concerned would know its location and that it not be moved again subject to the issues being litigated.
+The action was bifurcated after the plaintiff and Ars-tol filed motions for summary judgment to determine the priorities of their respective security interests. The trial court, Sheldon, J., granted the motion in favor of Arstol and unequivocally concluded that Arstol’s security interest was superior to that of the plaintiff. The plaintiff did not appeal from the partial summary judgment, thereby making it the law of the case. Pursuant to Judge Sheldon’s determination of priorities, the aircraft was released to Arstol on July 31, 1995.
+The case proceeded on Arstol’s three counterclaims—(1) conversion, (2) interference with contractual rights, and (3) negligence for damage allegedly caused to the aircraft by the plaintiff. Additional facts are included in the course of our analysis.
+Conversion occurs when one, without authorization, assumes and exercises ownership over property belonging to another, to the exclusion of the owner’s rights. Maroun v. Tarro, 35 Conn. App. 391, 396, 646 A.2d 251 (1994).
+Because Brainard, the owner of the aircraft, is not a party to the counterclaim, we limit our determination to whether it was the plaintiff or Arstol that had the superior right to immediate possession of the aircraft. Judge Sheldon had undisputedly determined that Ars-tol’s security interest was superior to that of the plaintiff, and that finding remained the law of the case as to Arstol’s counterclaims. The plaintiff nevertheless contends that Arstol did not have a right to immediate possession. The plaintiff bases that argument on the fact that, when Arstol took the aircraft, it was chained by Connecticut Air Motive, Inc. (Air Motive), as security for mechanical services it had performed. The plaintiff also relied on his knowledge that, in a suit between Brainard and Air One, an injunction was issued that prohibited Air One from interfering with Brainard’s use of the aircraft.
+The plaintiff argues that Arstol’s right to self-help repossession was limited to the extent that it could not exercise this right if it resulted in a breach of the peace. General Statutes § 42a-9-503 is controlling. It provides that “in taking possession a secured party may proceed without judicial process if this can be done without breach of the peace.” (Emphasis added.) The plaintiff claims that breaking the chains that Air Motive used to immobilize the aircraft constituted a breach of the peace. The trial court made no finding that this constituted breach of the peace and this court is powerless to find facts. Griffin v. Planning & Zoning Commission, 30 Conn. App. 643, 652, 621 A.2d 1359 (1993). We note, however, that, on the facts of this case, only Air Motive would arguably have a superior right to possession because the broken chains belonged to Air Motive. The trial court, however, found that Air Motive had disclaimed any right to possession, and that finding has not been challenged. Therefore, in the absence of a finding of breach of the peace and in view of Air Motive’s disclaimer, Arstol had a right to immediate possession of the aircraft as against the plaintiffs inferior interest.
+The trial court found that the plaintiffs actions were induced by the improper action of Arstol. In view of our conclusion that Arstol properly exercised its self-help right to obtain immediate possession, we reverse the judgment of the trial court. Because the trial court’s judgment on the conversion claim was inextricably related to the remaining claims, we also reverse the trial court on those claims.
+The judgment on Arstol’s counterclaims is reversed and the case is remanded for a new trial.
+In this opinion the other judges concurred.
+Air One participated in the trial, but is not a party to this appeal.
+Brainard was defaulted in the trial court for failure to appear.
+In the memorandum of decision on the motions for summary judgment, Judge Sheldon expressly found that Arstol’s security interest was first filed. In addition, the court found that the security interest extended to the airframe, as well as to the engine, propellers, equipment and accessories.
+Because the plaintiff was not a party to the suit between Brainard and Air One, the plaintiff relied on the injunction in that case to his peril.
+The record is devoid of any other evidence that would even arguably support a finding of breach of the peace.
