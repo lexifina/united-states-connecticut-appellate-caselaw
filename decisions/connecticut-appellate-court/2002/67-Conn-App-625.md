@@ -1,0 +1,30 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 20750"
+decided: "2002-01-15"
+citations: ["67 Conn. App. 625"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALLEN ALTERISI v. COMMISSIONER OF CORRECTION"]
+source_url: "https://static.case.law/conn-app/67/cases/0625-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 260558
+cites_cases: ["108 S. Ct. 1017", "204 Conn. 683", "466 U.S. 668", "466 U.S. 687", "47 Conn. App. 199", "484 U.S. 1061", "529 A.2d 1245", "63 Conn. App. 726", "702 A.2d 651", "779 A.2d 156", "98 L. Ed. 2d 982"]
+---
+
+# Alterisi v. Commissioner of Correction
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The petitioner, Allen Alterisi, appeals from the judgment of the habeas court denying his petition for a writ of habeas corpus. The petitioner claims that the habeas court improperly (1) found facts and (2) concluded that he had failed to establish that he was denied the effective assistance of counsel.
+The petitioner was convicted of five counts of sexual assault in the first degree and six counts of risk of injury to a child. We affirmed his conviction in State v. Alterisi, 47 Conn. App. 199, 702 A.2d 651 (1997).
+The petitioner alleged, before the habeas court, that he was denied the effective assistance of counsel for several reasons. The petitioner claimed that his counsel had failed to advise him of a hearing conducted pursuant to State v. Jarzbek, 204 Conn. 683, 529 A.2d 1245 (1987), cert. denied, 484 U.S. 1061, 108 S. Ct. 1017, 98 L. Ed. 2d 982 (1988). The petitioner claimed that at the hearing, the court rendered orders concerning his rights to interview the witnesses against him prior to the videotaping of their testimony, to watch the videotaping of that testimony over closed-circuit television and, simultaneously, to communicate by telephone with his counsel who was participating in the hearing. He claimed that counsel failed to protest or in any manner to record an objection to this procedure. He claimed that because he was not able to communicate with counsel during the videotaping via telephone or any other electronic or simultaneous means that he was denied meaningful attorney-client communication during a critical stage of the proceedings against him.
+He further claimed that his counsel failed to interview or attempt to interview the witnesses against him prior to the videotaping of their testimony. Additionally, the petitioner claimed that his counsel failed to elicit on cross-examination of a witness evidence of the witness’ conviction for assault against the petitioner to show bias. Furthermore, the petitioner claimed that his counsel failed to inform him in a timely manner of proposed plea bargains, which would have resulted in a significantly shorter sentence than he was serving. The petitioner also claimed that his counsel failed to present witnesses to testily that the petitioner never had behaved with them as he allegedly had behaved with the victims. The petitioner claimed that his counsel failed to present evidence of the petitioner’s physical inability to engage in sexual activity during times alleged in the charges against him. He further claimed that he suffered from a sexually transmitted disease at the time of the alleged sexual assault and that counsel failed to seek physical examinations of the complaining witnesses to demonstrate that they had no such disease. Further, the petitioner claimed that his counsel faded to object to the introduction of inadmissible, uncharged misconduct evidence and inadmissible hearsay evidence that was highly prejudicial.
+The habeas court denied the petition for a writ of habeas corpus, concluding that “[a]fter a thorough consideration of the trial evidence in this case, the transcript and the arguments briefed, the court concludes that the petitioner has not satisfied the burden outlined above and that defense counsel was not ineffective in his defense of a very difficult case.” Certification to appeal was granted. This appeal followed.
+“Our standard of review in a habeas corpus proceeding challenging the effective assistance of trial counsel is well settled. Although a habeas court’s findings of fact are reviewed under the clearly erroneous standard of review . . . [wjhether the representation a defendant received at trial was constitutionally inadequate is a mixed question of law and fact. Strickland v. Washington, [466 U.S. 668, 698, 104 S. Ct. 2052, 80 L. Ed. 2d 674 (1984)]. As such, that question requires plenary review by this court unfettered by the clearly erroneous standard. . . .
+“A criminal defendant is constitutionally entitled to adequate and effective assistance of counsel at all critical stages of criminal proceedings. . . . This right arises under the sixth and fourteenth amendments to the United States constitution and article first, § 8, of the Connecticut constitution. ... In order ... to prevail on a constitutional claim of ineffective assistance of counsel, [the petitioner] must establish both (1) deficient performance, and (2) actual prejudice. ... To prove that his counsel’s performance was deficient, the petitioner must demonstrate that counsel’s representation fell below an objective standard of reasonableness. . . . Furthermore, the petitioner must establish not only that his counsel’s performance was deficient, but that as a result thereof he suffered actual prejudice, namely, that there is a reasonable probability that, but for counsel's unprofessional errors, the result of the proceeding would have been different.” (Citations omitted; internal quotation marks omitted.) Milner v. Commissioner of Correction, 63 Conn. App. 726, 737-38, 779 A.2d 156 (2001).
+The petitioner failed to sustain his burden of proving that counsel’s performance was deficient and that he suffered actual prejudice. See Strickland v. Washington, supra, 466 U.S. 687. We conclude that the habeas court properly denied the petition for a writ of habeas corpus.
+The judgment is affirmed.
