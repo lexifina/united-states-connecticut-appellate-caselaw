@@ -1,0 +1,32 @@
+---
+court: "Connecticut Appellate Court"
+docket: "4031"
+decided: "1986-03-25"
+citations: ["6 Conn. App. 588"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hull, Spallone and Daly, Js.", "In this opinion the other judges concurred."]
+parties: ["Valley Surgical Group, P.C. v. Administrator, Unemployment Compensation Act, et al."]
+source_url: "https://static.case.law/conn-app/6/cases/0588-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4219001
+cites_cases: ["172 Conn. 492", "174 Conn. 529", "175 Conn. 562", "181 Conn. 1", "374 A.2d 1101", "391 A.2d 165", "402 A.2d 755", "434 A.2d 293"]
+---
+
+# Valley Surgical Group, P.C. v. Administrator
+
+## Majority (Spallone, J.)
+
+Spallone, J.
+The defendant, administrator of the unemployment compensation act, is appealing from the judgment rendered by the trial court sustaining the plaintiffs appeal from the decision of the employment security board of review.
+Elizabeth A. Piccioli (claimant) was employed by the plaintiff, Valley Surgical Group, P.C., as a receptionist earning $5.20 per hour. She left her job to accept a position at the Southford Medical Center as office manager at a pay of $6.50 per hour. Her leaving was voluntary and was made in an effort to avail herself of a higher job classification and the attendant higher wages. Within two months after beginning her new position, the claimant was laid off. Thereafter, she applied and was found eligible for unemployment compensation benefits by the defendant. The benefits awarded were chargeable to the plaintiff’s account. The plaintiff appealed the defendant’s decision to an appeals referee; General Statutes § 31-237j; who affirmed the decision after a hearing de novo. Thereafter, the plaintiff appealed to the board of review which also affirmed the defendant’s decision. See General Statutes § 31-249. The plaintiff then appealed to the Superior Court; General Statutes § 31-249b; which reversed the decision. The defendant now appeals to this court.
+The sole issue before this court is whether the claimant was entitled to unemployment benefits under General Statutes § 31-236 (2) (A) after she had left her job voluntarily to accept a better position at higher pay and was subsequently laid off by her new employer. Section 31-236 provides that “[a]n individual shall be ineligible for benefits ... (2) (A) if, in the opinion of the administrator, he has left suitable work voluntarily and without sufficient cause connected with his work, provided no individual shall be ineligible for benefits if he leaves suitable work for cause . . . .”
+While our statutes permit an appeal from the decision of the employment security board of review, the trial court does not try the matter de novo. DaSilva v. Administrator, 175 Conn. 562, 564, 402 A.2d 755 (1978). The court is bound by the finding of subordinate facts and reasonable factual conclusions made by the appeals referee where, as here, the board of review adopted the findings and affirmed the decision of the referee. Howell v. Administrator, 174 Conn. 529, 533, 391 A.2d 165 (1978). The trial court’s function is to determine, on the record, whether the referee acted unreasonably, arbitrarily or illegally. Conclusions of law reached by the referee must stand if they resulted from a correct application of the law to the facts found and could reasonably and logically follow from such facts. DaSilva v. Administrator, supra; Guevara v. Administrator, 172 Conn. 492, 495, 374 A.2d 1101 (1977). Such conclusions of law, however, cannot stand if the court determines that they resulted from an incorrect application of the law. Id.
+We agree with the trial court’s ruling that, in this case, there was a misapplication of the law by the referee and the board of review. The Supreme Court has given us guidance in this area when, in Robinson v. Unemployment Security Board of Review, 181 Conn. 1, 434 A.2d 293 (1980), it thoroughly analyzed the meaning of the phrase “leaving suitable work for cause” which is contained in the statute. In jRobinson, the court upheld the decision to grant benefits to a married woman who voluntarily terminated her employment of twelve years to join her husband who earlier had been transferred to Georgia. In defining the parameters of good cause, the court held that claimants must show that they left employment for reasons which would impel the ordinary reasonable person to leave and which provide the individual with no reasonable alternative but to terminate his employment. Id., 23.
+In this case, the trial court in applying Robinson ruled that although voluntarily leaving work for better pay “might impel the ordinary prudent person to leave employment,” that fact standing alone is not sufficient to establish the requisite good cause. In its memorandum of decision, the court followed the holding in Robinson and concluded that in addition to the existence of factors that might impel the ordinary prudent person to leave employment, there must be a showing by the claimant that she had “no reasonable alternative but to terminate [her] employment.” The court expressly refused to expand the holding in Robinson to encompass merely leaving a job for greater pay. The trial court concluded that without the additional showing that the claimant had no reasonable alternative but to terminate her employment, the board of review could not have found that the claimant left suitable work for good cause.
+The trial court’s reasoning is persuasive. There is nothing in the record to indicate that termination of the claimant’s employment for better pay was her only reasonable option. We cannot speculate that there were other options or alternatives available to the claimant. It was her burden, under Robinson, to prove that no such reasonable alternative existed. In the absence of such proof, the appeals referee and the board of review misapplied the statutory rule as enunciated in Robinson.
+We cannot say that the decision of the trial court was clearly erroneous under the circumstances in this case. We hold that its decision was logically correct and was in accordance with the law.
+There is no error.
+In this opinion the other judges concurred.
+Elizabeth A. Piccioli, although a named defendant in the trial court, is not a party to this appeal. Where we refer to the defendant, it is in reference to the administrator only.
