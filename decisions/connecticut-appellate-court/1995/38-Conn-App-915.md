@@ -1,0 +1,20 @@
+---
+court: "Connecticut Appellate Court"
+docket: "13487"
+decided: "1995-07-04"
+citations: ["38 Conn. App. 915"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Scott Desmond"]
+source_url: "https://static.case.law/conn-app/38/cases/0915-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 736451
+---
+
+# State v. Desmond
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The judgment is affirmed.
