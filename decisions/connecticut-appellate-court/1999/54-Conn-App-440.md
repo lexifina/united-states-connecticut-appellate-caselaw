@@ -1,0 +1,33 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 18348"
+decided: "1999-08-10"
+citations: ["54 Conn. App. 440"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARSHA O. OLSEN v. PLANNING AND ZONING COMMISSION OF THE CITY OF TORRINGTON ET AL."]
+source_url: "https://static.case.law/conn-app/54/cases/0440-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 252340
+cites_cases: ["209 Conn. 1", "212 Conn. 710", "50 Conn. App. 517", "546 A.2d 839", "563 A.2d 1339", "717 A.2d 853"]
+---
+
+# Olsen v. Planning & Zoning Commission
+
+## Majority (O’CONNELL, C. J.)
+
+Opinion
+O’CONNELL, C. J.
+The defendants Maria Domack and Konover Development Corporation (Konover) appeal from the judgment of the trial court sustaining the plaintiffs appeal from the decision of the defendant Torrington planning and zoning commission on the ground that it lacked jurisdiction to grant a change of zone. The defendants claim that the trial court improperly (1) failed to consider all the evidence in the record and (2) determined that the defendants had not satisfied the change of zone procedural requirements. We reverse the judgment of the trial court.
+The following facts are necessary for the resolution of this appeal. On July 1, 1997, Konover filed a petition with the commission for a change of zone for three parcels owned by Domack from a single family residence to a local business zone. The town clerk published the requisite legal notice of the pending application. Konover prepared a boundary survey map, which was certified and date stamped by the town clerk. Konover also filed a location map showing the parcels affected by the zone change. The commission approved the petition, and the plaintiff, Marsha O. Olsen, appealed to the trial court.
+The trial court, in its memorandum of decision, referred only to the certified boundary survey and concluded that, because this map did not identify the lots to be changed, Konover had failed to meet the requirements of General Statutes § 8-3 (a), and, therefore, the commission lacked jurisdiction to approve the petition. This appeal followed.
+The only issue briefed to the trial court and ruled on by that court was Konover’s alleged failure to submit a proper survey with the proposed application. The trial court limited its consideration to that issue and we will do the same. This court is asked to determine whether the trial court committed clear error when it failed to consider all the subordinate facts presented on the administrative record and determined that the requirements of § 8-3 (a) were not satisfied.
+Whether a map had been filed in compliance with § 8-3 (a) is a factual determination that cannot be disturbed unless it is clearly erroneous. “[W]here the legal conclusions of the court are challenged, we must determine whether they are legally and logically correct and whether they find support in the facts set out in the memorandum of decision . . . (Internal quotation marks omitted.) Red Hill Coalition, Inc. v. Conservation Commission, 212 Conn. 710, 723, 563 A.2d 1339 (1989). “To the extent that the trial court has made findings of fact, our review is limited to deciding whether such findings were clearly erroneous. . . . This court cannot retry the facts or pass upon the credibility of the witnesses.” (Internal quotation marks omitted.) Nazarko v. Zoning Commission, 50 Conn. App. 517, 518-19, 717 A.2d 853 (1998).
+The record reveals that two maps were filed with the town clerk, a certified boundary map and a location map. Although the certified boundary map was stamped and filed by the town clerk’s office, it did not clearly delineate the proposed zone changes. The location map clearly delineated the property that was designated for the zone change. It was not individually stamped or filed, but the change of zone application to which it was attached was properly date stamped and filed. Despite the fact that the location map was before the court as indicated in the return of record filed October 29, 1997, and the transcript of the trial, the trial court for some reason chose to ignore it and improperly limited its consideration to the certified boundary survey.
+“Ordinarily it is not the function of . . . the Appellate Court to make factual findings, but rather to decide whether the decision of the trial court was clearly erroneous in light of the evidence and pleadings in the whole record.” State v. Reagan, 209 Conn. 1, 8, 546 A.2d 839 (1988). The record supports the defendants’ claim that the certified boundary survey to which the trial court referred was not the only map filed with the commission. Had the trial court reviewed the location map, it would have been able easily to discern which parcels were designated for zoning changes. Because that evidence clearly would have altered the trial court’s decision, the trial court improperly concluded that the commission lacked subject matter jurisdiction.
+The judgment is reversed and the case is remanded with direction to render judgment denying the plaintiffs appeal.
+In this opinion the other judges concurred.
+Domack is the owner of the parcels of land involved in this action, and Konover holds an option to purchase them. We refer in this opinion to Domack and Konover as the defendants and to the named defendant as the commission.
+GeneralStatul.es § 8-3 (a) provides in relevant part: “Such zoning commission shall provide for the manner in which regulations under section 8-2 and the boundaries of zoning districts shall be respectively established or changed. No such regulation or boundary shall become effective or be established or changed until after a public hearing in relation thereto, held by a majority of the members of the zoning commission or a committee thereof appointed for that purpose consisting of at least five members, at which parties in interest and citizens shall have an opportunity to be heard. Notice of the time and place of such hearing shall be published in the form of a legal advertisement appearing in a newspaper having a substantial circulation in such municipality at least, twice at intervals of not less than two days, the first not more than fifteen days nor less than ten days, and the last not less than two days, before such hearing, and a copy of such proposed regulation or boundary shall be filed in the office of the town, city or borough clerk . . . for public inspection at least ten days before such hearing . . . .”
+Olsen owns land within 100 feet of the proposed change and is therefore statutorily aggrieved. See General Statute § 8-8 (a).
