@@ -1,0 +1,35 @@
+---
+court: "Connecticut Appellate Court"
+docket: "7095"
+decided: "1989-06-13"
+citations: ["18 Conn. App. 602"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Edward P. Ryan"]
+source_url: "https://static.case.law/conn-app/18/cases/0602-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 742967
+cites_cases: ["10 Conn. App. 330", "16 Conn. App. 390", "165 Conn. 61", "203 Conn. 809", "327 A.2d 576", "520 A.2d 237", "523 A.2d 906", "525 A.2d 523", "547 A.2d 916", "9 Conn. App. 524"]
+---
+
+# State v. Ryan
+
+## Majority (Stoughton, J.)
+
+Stoughton, J.
+The defendant has appealed from the judgment of conviction rendered after a jury found him guilty of operating a motor vehicle while under the influence of intoxicating liquor in violation of General Statutes § 14-227a.
+The defendant claims that the trial court erred (1) in permitting the jury to see a videotape of an interview with the defendant made at police headquarters, (2) in its charge to the jury, and (3) in denying his motion to set aside the verdict as against the evidence. We find no error.
+The jury could reasonably have found the following facts. In the early morning of September 13,1987, two police officers observed the defendant driving very slowly on Route 123. After the defendant made an improper right turn, the police followed in their cruiser and flashed their strobe lights in an attempt to stop him. The police saw the defendant drive through a stop sign without coming to a complete stop and make an improper left turn. The police turned on the cruiser’s siren, but the defendant failed to stop. The police saw the defendant’s car weaving in its lane of travel and they followed it until the defendant drove into his driveway. One of the policemen approached as the defendant got out of his car. The defendant was swaying and appeared unsteady, his voice was slurred and the policeman could smell alcohol on the defendant’s breath. The defendant had difficulty reciting the alphabet, counting backwards from 100 in increments of ten, and was unable to understand the policeman’s instructions concerning a field sobriety test.
+The defendant was arrested and taken to police headquarters where the police videotaped his participation in performance tests and his answers to questions given while his arrest was being processed. He was able to complete the performance tests, but the police officer administering the tests characterized the performance as unsure or hesitant. According to the officer who filled out the department alcohol influence report, the defendant said that between 6:30 p.m. and about 1 a.m., he thought he had had about one drink of Scotch per hour.
+The defendant’s first claim of error is stated as follows: “Whether the trial court erred in permitting the jury to view a videotape of the defendant’s interview which included an officer’s statement T predict you will blow a .20,’ therefore denying the defendant his due process and constitutional right to a fair trial?”
+During the trial, the jury was permitted to see the videotape of the defendant’s test performance up to the point when a breath test was administered.
+The defendant’s brief does not include his objection to the offer of the videotape, the ruling made or his exception. See Practice Book § 4065 (d) (3). Ordinarily, this defect would preclude review. Because the defendant has sought review under State v. Evans, 165 Conn. 61, 327 A.2d 576 (1973), we have undertaken a limited review of the record to determine whether the defendant’s claim is truly of constitutional proportion or is simply characterized as such by him. See State v. Huff, 10 Conn. App. 330, 334, 523 A.2d 906, cert. denied, 203 Conn. 809, 525 A.2d 523 (1987). An examination of the transcript reveals that the trial court decided that it would permit the jury to hear the portion of the videotape where the defendant asked to take a breath test “off the record.” The defendant objected to the entire videotape on the ground that he had agreed that only that portion up to the point when the defendant had asked to take the test could be admitted. When the videotape was offered at the end of the state’s case, defense counsel said: “Well, I still object.”
+The ruling now being urged as error did not occur until after the charge to the jury. At that time, defense counsel said that he had been told that the videotape contained the officer’s statement previously quoted, but he had not heard it. He suggested to the court that if the jury asked to see the tape again, that statement should be excluded. The court remarked that it could not change the evidence that had gone to the jury and noted an exception to that ruling. The transcript shows that the jury did view the videotape again.
+The results of the breath test that the defendant took “off the record” were not disclosed during the trial. The trial court took care-to ensure that the jury never was informed that the defendant had taken the test. There was no reference to blood alcohol content during the trial, nor was the officer’s remark ever explained or discussed.
+Our limited review of the record clearly discloses that the defendant’s claim is not truly of constitutional proportions and is simply characterized as such by the defendant. We decline to give it further review.
+The defendant’s second claim is that the trial court erred in failing to explain adequately operating while under the influence, in emphasizing the word “impaired,” and in failing to clarify what he characterizes as “the obvious confusion expressed by the jury” in several questions.
+The defendant filed no request to charge, nor did he take any exceptions to the charge or to a supplemental charge in which the court explained the requirements of proving the crime of operation of a motor vehicle while under the influence of intoxicating liquor. The defendant has not printed the charge in his brief or appendix as required by Practice Book § 4065 (d) (2). This claim, therefore, is not reviewable.
+The defendant’s final claim is that the court erred in denying his motion to set aside the verdict. Our review of this claim is limited to whether the trial court abused its discretion in denying the motion to set aside the verdict. The constitutional right to a trial by jury includes the right to have those issues of fact as to which there is room for reasonable difference of opinion among fair minded persons passed upon by the jury and not by the court. Sepe v. Deemy, 9 Conn. App. 524, 527, 520 A.2d 237 (1987). When the defendant challenges the sufficiency of the evidence to support the verdict, the relevant inquiry is whether any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt. State v. Green, 16 Conn. App. 390, 401, 547 A.2d 916 (1988). The evidence set out earlier in this opinion was sufficient to sustain the verdiet.
+There is no error.
+In this opinion the other judges concurred.
