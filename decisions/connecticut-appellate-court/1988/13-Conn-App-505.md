@@ -1,0 +1,29 @@
+---
+court: "Connecticut Appellate Court"
+docket: "4995"
+decided: "1988-02-23"
+citations: ["13 Conn. App. 505"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Burlington Construction Company, Inc. v. R.C. Equipment and Construction, Inc."]
+source_url: "https://static.case.law/conn-app/13/cases/0505-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1969139
+cites_cases: ["151 Conn. 125", "169 Conn. 407", "173 Conn. 426", "193 A.2d 711", "198 Conn. 322", "198 Conn. 77", "201 Conn. 809", "201 Conn. 811", "3 Conn. App. 359", "363 A.2d 86", "378 A.2d 538", "488 A.2d 837", "502 A.2d 388", "502 A.2d 918", "504 A.2d 352", "514 A.2d 766", "515 A.2d 378", "516 A.2d 886", "8 Conn. App. 642", "9 Conn. App. 30"]
+---
+
+# Burlington Construction Co. v. R.C. Equipment & Construction, Inc.
+
+## Majority (Stoughton, J.)
+
+Stoughton, J.
+This is an appeal by the defendant from a judgment rendered upon a jury verdict in favor of the plaintiff. We find no error.
+The plaintiffs amended complaint alleged that the defendant breached a contract to complete certain site work for the construction of a building. The defendant denied that it had breached a contract and counterclaimed, alleging the existence of an oral agreement to do some clearing and site work which it had performed but for which it had not been paid. On the complaint, the jury returned a verdict for the plaintiff in the amount of $26,542.78. The jury returned a verdict for the defendant on the counterclaim in the amount of $3807.09.
+At the conclusion of the court’s charge, the defendant moved for judgment on the ground that the plaintiff had failed to make out a prima facie case. We treat this as a motion for directed verdict, even though such a motion should be made before arguments start. Haag v. Beard Sand & Gravel Co., 151 Conn. 125, 127, 193 A.2d 711 (1963). The court denied this motion. The defendant never moved to have the verdict set aside on this ground or any other ground he presents on appeal. Judgment was rendered on the verdicts on March 6, 1986.
+It is an established rule of appellate practice in this state that in order to obtain full review of claims of error in a civil jury case, parties must file a motion to set aside the verdict. Kolich v. Shugrue, 198 Conn. 322, 325, 502 A.2d 918 (1986); Ames v. Sears, Roebuck & Co., 8 Conn. App. 642, 654 n.10, 504 A.2d 352, cert, denied, 201 Conn. 809, 515 A.2d 378 (1986). Since the defendant never filed such a motion, our review is limited to determining whether the record reflects an error which is so obvious that it affects the fairness and integrity of, and public confidence in, judicial proceedings. Kolich v. Shugrue, supra, 326; State v. Hinckley, 198 Conn. 77, 87-88, 502 A.2d 388 (1985).
+On appeal, the defendant claimed (1) that the plaintiff failed to make out a prima facie case and, thus, the court erred in submitting the case to the jury, and (2) that the court erred in its charge to the jury both as to the circumstances under which a bid by a subcontractor to a general contractor may be enforced and as to what terms may be implied in a contract. Giving these claims the appropriate scope of review, we find no error.
+As to the first claim of error, it is apparent from the record that there was evidence from which a jury could reasonably have found that there was a contract. Upon the facts established and the reasonable inferences drawn therefrom, the cumulative effect was sufficient to justify the verdict; State v. Davis, 3 Conn. App. 359, 368, 488 A.2d 837 (1985); and thus there was no “plain error” in submitting the case to the jury. With respect to the claims of error addressed to the charge, we find that the court adequately charged the jury on the elements necessary for a binding contract. Whether a contract is too indefinite to be enforced is a question of fact. Augeri v. C.F. Wooding Co., 173 Conn. 426, 430-31, 378 A.2d 538 (1977). Evidence of custom and usage in a trade is admissible and the weight to be assigned it is for the jury. Harry A. Finman & Son, Inc. v. Connecticut Truck & Trailer Service Co., 169 Conn. 407, 409, 363 A.2d 86 (1975). The instructions properly allowed the jury to define the context of the parties’ agreement by reference to trade custom and usage. L. F. Pace & Sons, Inc. v. Travelers Indemnity Co., 9 Conn. App. 30, 38, 514 A.2d 766, cert, denied, 201 Conn. 811, 516 A.2d 886 (1986). There was no “plain error” in the charge.
+There is no error.
+In this opinion the other judges concurred.
+The disputed portions of the charge as to bid enforcement and as to what terms may be implied in a contract are as follows: “You have heard testimony that the plaintiff relied on a bid submitted by the defendant in March of 1984 in putting together the proposal from Burlington Construction Company to the owner of the property. If you find that an unequivocal bid was submitted that both parties should reasonably have expected the plaintiff to rely on that bid, and that the plaintiff did indeed rely on that bid, and in so doing put himself in a detrimental position and incurred damages, then you may find that the bid should be enforced. . . . Now, in determining whether or not the terms of the contract were reasonably certain at the time of the offer and acceptance, you should be aware that there may be a difference between a situation where the parties disagree on a term at the time of the offer and acceptance and one where the parties do not discuss a material term before the offer and acceptance. If a material or important term is left out, then you may determine if that term can be implied into the contract. If you find that there are such customs and that both parties have reason to know them and intended to be bound by them, then you may find that those customs are implied terms of the contract.”
