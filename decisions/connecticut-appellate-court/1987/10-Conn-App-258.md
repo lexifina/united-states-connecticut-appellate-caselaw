@@ -1,0 +1,26 @@
+---
+court: "Connecticut Appellate Court"
+docket: "4442"
+decided: "1987-03-24"
+citations: ["10 Conn. App. 258"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Richard Rogers"]
+source_url: "https://static.case.law/conn-app/10/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1309412
+cites_cases: ["105 S. Ct. 963", "106 Ariz. 481", "174 Conn. 405", "180 Conn. 382", "186 Conn. 599", "194 Conn. 361", "199 Conn. 207", "24 L. Ed. 2d 525", "389 A.2d 730", "396 U.S. 1030", "418 F.2d 1184", "429 A.2d 919", "439 U.S. 859", "442 A.2d 1345", "469 U.S. 1191", "481 A.2d 1068", "485 So. 2d 1292", "506 A.2d 1063", "506 A.2d 125", "509 A.2d 36", "58 L. Ed. 2d 168", "6 Conn. App. 546", "7 Conn. App. 377", "83 L. Ed. 2d 968", "90 S. Ct. 590", "99 S. Ct. 177"]
+---
+
+# State v. Rogers
+
+## Majority (Spallone, J.)
+
+Spallone, J.
+The defendant is appealing from a judgment of conviction, after a jury trial, of the crimes of burglary in the third degree, General Statutes § 53a-103, and larceny in the third degree, General Statutes § 53a-124.
+For purposes of this appeal, only the following facts are relevant. The state’s main witness, Daryll Pervis, testified that he, the defendant, the defendant’s brother, and another individual participated in a burglary and larceny. The defendant attempted to impeach Pervis through the testimony of a probation officer whose contacts with the witness went back six or seven years. When the defendant questioned the probation officer whether he had an opinion as to Pervis’ character with respect to truth and veracity, the state objected, and the trial court sustained the objection and excluded the testimony. During the trial, the state also introduced fingerprints of the defendant’s brother that were found at the scene of the crime. The defendant objected, and the court overruled the objection and allowed the fingerprints into evidence. The defendant claims that the trial court erred (1) in allowing the fingerprints into evidence and (2) excluding the impeachment testimony. We find no merit to these claims.
+The first issue raised by the defendant, in essence, questions the relevancy of the fingerprint evidence. While there is no precise or universal test of relevancy; State v. Periere, 186 Conn. 599, 607, 442 A.2d 1345 (1982); our courts have noted that “ ‘[ejvidence is admissible when it tends to establish a fact in issue or to corroborate other direct evidence in the case.’ ” State v. Boucino, 199 Conn. 207, 228, 506 A.2d 125 (1986). Here, the fingerprint evidence served to corroborate the testimony of Pervis that the defendant’s brother had participated in the burglary and had entered the store at the location stated by Pervis. Thus, the fingerprints, by corroborating Pervis’ testimony, tended also to establish that the defendant was at the scene of the crime. The trial court is vested with broad direction in rulings on relevancy. State v. Runkles, 174 Conn. 405, 413, 389 A.2d 730, cert. denied, 439 U.S. 859, 99 S. Ct. 177, 58 L. Ed. 2d 168 (1978); State v. Aspinall, 6 Conn. App. 546, 554, 506 A.2d 1063 (1986). We find no abuse of discretion in the trial court’s admission of the fingerprints into evidence.
+Likewise, the trial court’s ruling excluding the defendant from introducing testimony as to the alleged untruthfulness of the state’s chief witness is fully sustainable under the facts and circumstances in this case. It is true that our law permits impeachment by opinion testimony relating to specific character traits of a witness if the impeaching witness had an opportunity to form and did form an opinion regarding the trait in question. State v. George, 194 Conn. 361, 368-69, 481 A.2d 1068 (1984), cert. denied, 469 U.S. 1191, 105 S. Ct. 963, 83 L. Ed. 2d 968 (1985); State v. Rodriguez, 180 Conn. 382, 393, 429 A.2d 919 (1980); State v. Cox, 7 Conn. App. 377, 385, 509 A.2d 36 (1986). However, “[wjhether a witness has had sufficient contact with a person to be qualified to testify as to a particular character trait is a matter peculiarly within the discretion of the trial court and ‘its ruling will be disturbed only in a clear case of abuse or of some error in law.’ ” State v. George, supra, 368-69, quoting State v. Rodriguez, supra, 389. In this case, the record reveals that the impeaching witness, Pervis’ former probation officer, had not seen Pervis for three years. He had based his opinion on events that occurred six and seven years before the trial, when Pervis, who was then fourteen and fifteen years old, was involved in juvenile court proceedings. The trial court, in excluding the impeachment testimony, based its ruling on the temporal remoteness of the events forming the basis of the impeaching witness’ opinion. We find no abuse of discretion in this ruling. See also United States v. Carr, 418 F.2d 1184 (D.C. Cir. 1969), cert. denied, 396 U.S. 1030, 90 S. Ct. 590, 24 L. Ed. 2d 525 (1970); State v. Van Winkle, 106 Ariz. 481, 478 P.2d 105, 108 (1970); Carter v. State, 485 So. 2d 1292 (Fla. App. 1986).
+There is no error.
+In this opinion the other judges concurred.
