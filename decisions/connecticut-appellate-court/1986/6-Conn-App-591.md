@@ -1,0 +1,33 @@
+---
+court: "Connecticut Appellate Court"
+docket: "3918"
+decided: "1986-03-25"
+citations: ["6 Conn. App. 591"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hull, Spallone and Daly, Js.", "In this opinion the other judges concurred."]
+parties: ["Helen Samrov v. Stephen Samrov"]
+source_url: "https://static.case.law/conn-app/6/cases/0591-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4218815
+cites_cases: ["147 Conn. 238", "159 A.2d 173", "164 Conn. 140", "178 Conn. 308", "318 A.2d 106", "422 A.2d 280"]
+---
+
+# Samrov v. Samrov
+
+## Majority (Daly, J.)
+
+Daly, J.
+The plaintiff, who was formerly married to the defendant, moved to foreclose a judgment lien against the defendant’s interest in real estate located in West Haven. The defendant claimed that the default judgment for support arrearage upon which the judgment lien is based was void since the court lacked jurisdiction over the defendant. From the judgment of strict foreclosure, the defendant has appealed.
+The facts are not in dispute. Subsequent to the dissolution of their marriage, each of the parties owned a one-half interest in premises known as 117 Prospect Avenue, West Haven. On February 14,1972, the plaintiff commenced an action for support against the defendant and attached the defendant’s interest in these premises. On February 22,1972, the defendant, then a resident of Florida, was given due notice of the attachment action in an order of notice issued by the court pursuant to General Statutes § 52-284. The defendant actually received the notice and appeared specially on November 13, 1973, to contest jurisdiction. On July 16,1974, the plaintiff obtained a support judgment by default against the defendant in the amount of $11,150. Thereafter, on August 20, 1974, the plaintiff filed a judgment lien on the West Haven land records against the real estate.
+The present action to foreclose the judgment lien ensued and a judgment of strict foreclosure was rendered on January 8,1985. The defendant has appealed claiming that the support judgment was void for lack of in personam and quasi in rem jurisdiction over the defendant. We disagree.
+The defendant contends that the original support judgment of July 16,1974, which resulted in the judgment lien now being foreclosed, was invalid and rendered without jurisdiction because the defendant was not personally served. The plaintiff concedes that there was no personal service on the defendant. “While a court is powerless to enter a personal decree against a nonresident defendant based solely on constructive service, it has power to deal with the defendant’s property within the jurisdiction of the court. Constructive service of process upon a defendant in a proceeding against specific property of that defendant within the jurisdiction will enable the court to render a decree binding on the property. The judgment, when rendered, constitutes a charge to be satisfied out of the property which has been seized. The judgment is quasi in rem.” Carter v. Carter, 147 Conn. 238, 241, 159 A.2d 173 (1960); Robertson v. Robertson, 164 Conn. 140, 144, 318 A.2d 106 (1972). An action in rem is an action brought to apply the property to satisfy a personal claim. Hodge v. Hodge, 178 Conn. 308, 313, 422 A.2d 280 (1979).
+“In order that a valid judgment may be rendered against a nonresident upon whom it is claimed that constructive service has been made, § 52-284 must be strictly observed and the facts showing compliance with it must appear of record.” Carter v. Carter, supra, 243. The defendant has not claimed that the plaintiff did not strictly comply with § 52-284. The plaintiff had a valid quasi in rem judgment against the defendant’s interest in real estate, which is subject to being foreclosed.
+Finally, the defendant claims the plaintiff did not perfect her attachment in compliance with General Statutes § 52-278g which provides in relevant part: “Any such prejudgment remedy which is not perfected on or before October 1, 1977, shall be void and of no effect.” The defendant claims that since the attachment in the support action was not perfected on or before October 1,1977, it is void and hence renders the judgment nugatory for lack of jurisdiction. Section 52-278g mentions “prejudgment remedy.” “ ‘Prejudgment remedy’ means any remedy or combination of remedies that enables a person by way of attachment . . . to deprive the defendant in a civil action of, or affect the use, posession or enjoyment by such defendant of, his property prior to final judgment but shall not include a temporary restraining order.” (Emphasis added. General Statutes § 52-278a (d).
+The attachment of February 14, 1972, would have melded into the final judgment of July 16, 1974, and thus, does not fall within the purview of § 52-278g.
+There is no error.
+In this opinion the other judges concurred.
+General Statutes § 52-284 provides: “attachment against nonresident. When the defendant is not a resident or inhabitant of this state and has estate within the same which has been attached, a copy of the process and complaint, with a return describing the estate attached, shall be left by the officer with the agent or attorney of the defendant in this state if known; and when land is attached, a like copy shall be left in the office of the town clerk of the town where the land lies. In addition, the court to which such action is returnable, or any judge, clerk or assistant clerk thereof shall make such order of notice to the defendant as is deemed reasonable to apprise him of the institution or pendency of such complaint and attachment. Such notice, having been given and proved, shall be deemed sufficient service of process in such action, and such attachment shall thereupon become effective against such estate and the defendant in such action.”
+The record is silent as to any ruling made thereon.
+General Statutes § 52-278g provides: “motion to preserve existing PRE judgment remedies. A plaintiff who has secured a prejudgment remedy prior to May 30,1973, may make a motion to the court in which such action is pending for a hearing as set forth in section 52-278d with notice thereof to the defendant or his attorney. If the court, upon consideration of the facts before it, finds that the plaintiff has shown probable cause to sustain the validity of his claim, such prejudgment remedy secured shall be effective from the date of such hearing and an order to that effect shall be issued by the court. Any such prejudgment remedy which is not perfected on or before October 1, 1977, shall be void and of no effect.”
