@@ -1,0 +1,33 @@
+---
+court: "Connecticut Appellate Court"
+docket: "3207"
+decided: "1985-12-03"
+citations: ["5 Conn. App. 552"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Richard Fantasia"]
+source_url: "https://static.case.law/conn-app/5/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12254826
+cites_cases: ["101 S. Ct. 1715", "15 L. Ed. 2d 846", "182 Conn. 388", "182 Conn. 403", "183 Conn. 225", "186 Conn. 414", "189 Conn. 383", "192 Conn. 405", "195 Conn. 166", "196 Conn. 36", "196 Conn. 685", "354 F.2d 56", "383 U.S. 927", "438 A.2d 120", "438 A.2d 696", "439 A.2d 305", "441 A.2d 846", "450 U.S. 1003", "456 A.2d 316", "473 A.2d 300", "487 A.2d 177", "490 A.2d 1000", "495 A.2d 273", "597 F.2d 903", "68 L. Ed. 2d 207", "86 S. Ct. 932"]
+---
+
+# State v. Fantasia
+
+## Majority (Spallone, J.)
+
+Spallone, J.
+The defendant is appealing from the judgment rendered following his conviction of perjury under General Statutes § SSa-lSG.
+The defendant briefed two claims of error. The first is without merit, leaving as the sole issue before us whether the court erred in finding the defendant guilty of perjury beyond a reasonable doubt.
+The defendant’s perjury conviction stemmed from statements he made under oath while being tried on drug related charges. In those statements, the defendant denied having a prior drug record and having had any previous involvement with drugs. The state charged that the defendant made these statements despite knowing that he previously had been convicted of possession of a controlled substance, in violation of General Statutes (Rev. to 1979) § 19-481 (c), and had previously been involved with drugs.
+In proving its case, the state introduced documentary evidence which included a transcript of the defendant’s jury trial dated October 18, 1983, during which the alleged perjury was committed, a record of the defendant’s conviction for possession of a controlled substance after a plea of guilty on March 28, 1980, a transcript of that plea and records of the defendant’s conviction which resulted from the October, 1983 trial.
+In defense of the perjury charge, the lawyer who represented the defendant in the October, 1983 trial testified that the defendant’s testimony was unintentionally false because counsel thought the defendant’s previous conviction was for breach of peace, and not for a drug charge. He testified that he had advised the defendant that he could legally testify that he had no drug record or involvement.
+When reviewing the judgment of a trial court, our standard of review is the same whether the trier of fact is a judge, a panel of judges or a jury. State v. D’Antuono, 186 Conn. 414, 421, 441 A.2d 846 (1982). “ When a verdict is challenged because of insufficient evidence, the issue is whether the [trier] could have reasonably concluded, upon the facts established and the inferences reasonably drawn therefrom, that the cumulative effect of the evidence established guilt beyond a reasonable doubt.’ ” State v. Carter, 196 Conn. 36, 44, 490 A.2d 1000 (1985), quoting State v. Nemeth, 182 Conn. 403, 410, 438 A.2d 120 (1980). In our appraisal of the evidence, we do not distinguish between direct and circumstantial evidence so far as probative force is concerned. State v. Braxton, 196 Conn. 685, 691, 495 A.2d 273 (1985). The evidence presented at trial is construed in the light most favorable to sustaining the verdict. State v. Braxton, supra; State v. Carter, supra. It is within the province of the trier to draw reasonable and logical inferences from facts proven, and the trier “ ‘may base an inference on facts it finds as a result of other inferences.’ ” State v. Carter, supra, 44-45, quoting State v. Gabriel, 192 Conn. 405, 425, 473 A.2d 300 (1984). We cannot substitute our judgment for that of the factfinder on conclusions of fact even though we might disagree with the conclusions reached.
+The defendant has confined his claim of insufficient evidence to the element of intent. The intent of the actor is a question of fact for the trier, and the conclusion of the trier in this regard should stand unless it is an unreasonable one. State v. Martin, 195 Conn. 166, 170, 487 A.2d 177 (1985); State v. Haddad, 189 Conn. 383, 398, 456 A.2d 316 (1983). Intent is a mental process which ordinarily can be proven only by circumstantial evidence and through inferences drawn from such evidence. State v. Haddad, supra, 398-99; State v. Zdanis, 182 Conn. 388, 396, 438 A.2d 696 (1980), cert. denied, 450 U.S. 1003, 101 S. Ct. 1715, 68 L. Ed. 2d 207 (1981). “ ‘It is not one fact, but the cumulative impact of a multitude of facts which establishes guilt in a case involving substantial circumstantial evidence.’ ” State v. Braxton, supra, quoting State v. Perez, 183 Conn. 225, 227, 439 A.2d 305 (1981). Whether an individual intended to commit perjury must be decided in the same manner. United States v. Cuesta, 597 F.2d 903, 921 (5th Cir. 1979).
+In the present case, the state offered documentary-evidence which on its face indicated that the defendant testified falsely. In appropriate circumstances, belief of falsity may be inferred by proof of the falsity itself. La Placa v. United States, 354 F.2d 56, 59 (1st Cir. 1965), cert. denied, 383 U.S. 927, 86 S. Ct. 932, 15 L. Ed. 2d 846 (1966). We conclude that the evidence presented at trial was sufficient to support the trial court’s finding that the defendant acted with the intent to commit perjury.
+In reaching this conclusion, we adhere to the principle that the advice of counsel as to matters presenting questions of fact may not constitute a defense to a perjury charge. 60 Am. Jur. 2d, Perjury § 48 (1972). The evidence shows that the defendant at a time prior to his alleged perjured testimony, stood before a court, pleaded guilty to a drug charge and was convicted of that charge. This is a fact situation, not a question of law. It is of no comfort to the defendant that he relied on his attorney’s memory. Such an assertion does not transform a fact into a question of law.
+Under the totality of the circumstances and in view of the evidence presented in this case, we cannot say that the finding of guilty was not supported by sufficient evidence.
+There is no error.
+In this opinion the other judges concurred.
+General Statutes § 53a-156 (a) provides: “A person is guilty of perjury if, in any official proceeding, he intentionally, under oath, makes a false statement, swears, affirms or testifies falsely, to a material statement which he does not believe to be true.”
