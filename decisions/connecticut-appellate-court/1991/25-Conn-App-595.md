@@ -1,0 +1,32 @@
+---
+court: "Connecticut Appellate Court"
+docket: "9560"
+decided: "1991-08-27"
+citations: ["25 Conn. App. 595"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Virginia A. Nahas v. James J. Nahas"]
+source_url: "https://static.case.law/conn-app/25/cases/0595-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 753403
+cites_cases: ["219 Conn. 703", "22 Conn. App. 367", "577 A.2d 1087", "595 A.2d 297"]
+---
+
+# Nahas v. Nahas
+
+## Majority (Cretella, J.)
+
+Cretella, J.
+In this appeal from the judgment dissolving the marriage of the parties, the defendant claims that the trial court abused its discretion: (1) in awarding the jointly owned marital residence to the plaintiff; (2) in ordering the defendant to assume the encumbrances on the marital property except for the first mortgage and unpaid real estate taxes; (3) in awarding the plaintiff alimony in the amount of $125 per week for five years to terminate in the event of either party’s death or upon the plaintiff’s remarriage; (4) in ordering the defendant to maintain $25,000 of life insurance with the plaintiff as beneficiary for as long as he is obligated to pay alimony; (5) in awarding the plaintiff attorney’s fees of $2400 payable at a rate of $100 per month; and (6) in ordering the defendant to pay child support in the amount of $110 per week for the support of one minor child without reference to the applicability of the child support guidelines.
+The underlying dissolution action was commenced on May 27, 1986, and was tried on October 20 and 21, 1988, and January 6, 1989. On October 21, 1988, the trial court, Noren, J., ordered a dissolution of the parties’ marriage and bifurcated the matter for a hearing on the support and division of property issues, which proceeded on January 6, 1989. Prior to rendering a judgment Judge Noren died. By stipulation of the parties, the matter was submitted for decision on the record to the court, Koletsky, J., who rendered judgment on September 5, 1990. The child support guidelines were not brought to the attention of the trial court, nor were they sought to be applied.
+The parties had been married for nineteen years and had two children. The plaintiff had remained at home while the children were young and subsequently became employed, first in the defendant’s family market and later in a clothing store. Her employment was interrupted due to both physical and emotional difficulties related to the separation. The defendant owned and operated his own corporation, which was suffering financial difficulties at the time of the first hearing. At the time of the hearings, the plaintiff was earning $150 per week and the defendant was earning $500 per week. The parties’ assets consisted primarily of the marital home and the defendant’s family business.
+Our standard of review is well settled. We will not substitute our judgment for that of the trial court unless there has been an abuse of discretion or the findings lack a reasonable basis in fact. Paddock v. Paddock, 22 Conn. App. 367, 372, 577 A.2d 1087 (1990).
+As to the first five issues, the trial court stated that it had considered all of the factors enumerated in General Statutes §§ 46b-81, 46b-82 and 46b-84 in making its decision. The memorandum of decision clearly indicates that the trial court considered all of the statutory factors. We conclude, therefore, that there was no abuse of discretion in the judgment as to either the distribution of assets, assignment of debts or the payment of the plaintiff’s counsel fees.
+General Statutes § 46b-215b, effective October 1, 1989, created a rebuttable presumption that when the amount for child support is determined in accordance with the child support guidelines, an order reflecting that amount is appropriate. A specific finding on the record that the application of the guidelines would be inequitable or inappropriate is sufficient to rebut that presumption. In this case, the evidentiary hearing concluded on January 6, 1989, prior to the promulgation of the guidelines, although the decision was not rendered until September 5, 1990.
+We conclude that the guidelines were not applicable here because all of the evidence in this case was admitted prior to the effective date of the guidelines and because Judge Koletsky ruled on the basis of that evidence and, presumably, on the basis of the law as it existed as of the date of the hearings before Judge Noren. Given the evidentiary requirements of the guidelines and the unique circumstances of this case, we hold that it was proper for the defendant’s support obligation to be determined as of the last day of the hearings and without reference to the child support guidelines.
+In Turner v. Turner, 219 Conn. 703, 595 A.2d 297 (1991), our Supreme Court held that General Statutes § 46b-86 (a), as amended by Public Acts 1990, No. 90-188, applies retroactively in some instances. Turner, however, is inapposite here. The case here does not involve an existing child support order that the defendant has moved to modify based on a substantial deviation from the child support guidelines. There is, thus, no time period during which a motion for modification was pending that could be retroactively modified. Retroactive modification of a child support order, as discussed by the Turner court, is, therefore, not an issue here.
+The judgment is affirmed.
+In this opinion the other judges concurred.
+In light of the parties’ stipulation, Judge Koletsky did not hear additional evidence but rather rendered judgment, based on the record as of January 6,1989, as if it had been rendered by Judge Noren before his death.
+As amended by Public Acts 1990, No. 90-188 § 1, General Statutes § 46b-86 (a) provides in pertinent part: “[A]ny final order for . . . support . . . may at any time thereafter be ... . modified .... upon a showing that the final order for child support substantially deviates from the child support guidelines . . . unless there was a specific finding on the record that the application of the guidelines would be inequitable or inappropriate. ... No order for periodic payment of ... . support may be subject to retroactive modification, except that the court may order modification with respect to any period during which there is a pending motion for modification of . . . [a] support order from the date of service of notice of such pending motion upon the opposing party . . . .”
