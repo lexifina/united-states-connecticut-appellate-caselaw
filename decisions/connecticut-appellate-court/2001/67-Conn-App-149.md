@@ -1,0 +1,42 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 21317"
+decided: "2001-11-27"
+citations: ["67 Conn. App. 149"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AMBA REALTY CORPORATION v. KYLE J. KOCHISS ET AL."]
+source_url: "https://static.case.law/conn-app/67/cases/0149-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 260660
+cites_cases: ["16 Conn. App. 548", "208 Conn. 74", "210 Conn. 802", "230 Conn. 148", "256 Conn. 913", "543 A.2d 279", "547 A.2d 1387", "553 A.2d 615", "61 Conn. App. 481", "61 Conn. App. 489", "645 A.2d 505", "764 A.2d 1273", "772 A.2d 1126"]
+---
+
+# Amba Realty Corp. v. Kochiss
+
+## Majority (O’CONNELL, J.)
+
+Opinion
+O’CONNELL, J.
+The named defendant, Kyle J. Kochiss, appeals from the judgment of foreclosure rendered by the trial court. On appeal, the defendant claims that the court improperly (1) granted a motion for default against her, (2) rendered judgment of nonsuit in favor of the plaintiff on her counterclaim and (3) rendered a judgment of foreclosure by sale. We affirm the judgment of the trial court.
+The plaintiff commenced this foreclosure action in 1997. The defendant appeared pro se and filed an answer, special defenses and a counterclaim for actual damages, pain, suffering and emotional distress. Counsel subsequently appeared for the defendant, but did not amend the defendant’s pleadings on file. The matter was scheduled to commence trial on July 19, 2000, before an attorney trial referee. The plaintiff noticed the defendant’s deposition and requested that she produce certain documents. The defendant did not appear for her deposition. On July 19, 2000, the defendant also did not appear for trial. Because the plaintiff wanted to file a number of motions, the attorney trial referee referred the matter back to the court.
+In court, the plaintiff filed, inter alia, a motion to default the defendant for failure to appear for her deposition and a motion for a nonsuit on the defendant’s counterclaim. The court, Hon. Edward F. Stodolink, judge trial referee, granted both motions. Thereafter the court, Rush, J., rendered a judgment of foreclosure by sale against the defendant. This appeal followed.
+I
+The defendant claims that the court abused its discretion by granting the plaintiffs motion for default for the defendant’s failure to appear for her deposition. We are not persuaded.
+“Discretion means a legal discretion, to be exercised in conformity with the spirit of the law and in a manner to subserve and not to impede or defeat the ends of substantial justice. ... It goes without saying that the term abuse of discretion . . . means that the ruling appears to have been made on untenable grounds. . . . In determining whether the trial court has abused its discretion, we must make every reasonable presumption in favor of the correctness of its action. . . . Therefore, the question is not whether any one of us, had we been sitting as the trial judge, would have exercised our discretion differently. Our role as an appellate court is not to substitute our judgment for that of a trial court that has chosen one of many reasonable alternatives.” (Citation omitted; internal quotation marks omitted.) Hartford v. Pan Pacific Development (Connecticut), Inc., 61 Conn. App. 481, 487, 764 A.2d 1273, cert. denied, 256 Conn. 913, 772 A.2d 1126 (2001).
+“Practice Book § [13-14] authorizes the trial court to grant a wide range of relief, including the relief sought . . . for a party’s failure to appear and testify at a duly noticed deposition. The determination of whether to enter sanctions pursuant to [Practice Book § 13-14] and, if so, what sanction or sanctions to impose, is a matter within the sound discretion of the trial court. Rullo v. General Motors Corp., 208 Conn. 74, 78, 543 A.2d 279 (1988). In reviewing a claim that this discretion has been abused the unquestioned rule is that great weight is due to the action of the trial court and every reasonable presumption should be given in favor of its correctness. . . . [T]he ultimate issue is whether the court could reasonably conclude as it did.” (Internal quotation marks omitted.) Associated Investment Co. Ltd. Partnership v. Williams Associates IV, 230 Conn. 148, 163-64, 645 A.2d 505 (1994).
+The entire record before us on this claim is a copy of the plaintiffs motion for default against the defendant. The motion for default requested “that a default enter against the defendant ... for her failure to appear at a deposition, which was scheduled for July 7, 2000, at 3 p.m. at the office of [plaintiffs counsel]. The defendant did not file a [motion for] a protective order, a petition in bankruptcy, a motion for continuance or any pleading regarding her nonappearance at the deposition. Counsel for the plaintiff received a telephone call [from the defendant’s counsel, who stated] that his client . . . would not attend the deposition and would not attend the trial.” The motion also claimed that the defendant was asked to produce documents at her deposition but had not produced them.
+The defendant does not dispute the plaintiffs claim that she did not appear for her deposition and that she was not present when Judge Stodolink heard oral argument on the motion for default. The plaintiffs motion is the extent of the record we have of the proceedings before Judge Stodolink. The appellant is responsible for providing this court with an adequate record. Practice Book § 61-10. The defendant failed to provide a transcript of the proceeding, and we are unaware of what evidence, if any, and arguments of law Judge Stodolink may have heard. See Hartford v. Pan Pacific Development (Connecticut), Inc., supra, 61 Conn. App. 489-90. We therefore cannot conclude that Judge Stodolink abused his discretion by granting the plaintiffs motion for default.
+II
+The defendant also claims that the court improperly rendered a judgment of nonsuit in favor of the plaintiff on the counterclaim. In her brief, the defendant failed to cite any law in support of her claim or to provide any legal analysis beyond the mere assertion of her claim. We therefore deem the claim abandoned. See Fitzgerald v. Fitzgerald, 16 Conn. App. 548, 554, 547 A.2d 1387, cert. denied, 210 Conn. 802, 553 A.2d 615 (1988).
+III
+The defendant’s last claim is that the court, Rush, J., improperly rendered the judgment of foreclosure by sale. The basis of the defendant’s claim is that because the default and judgment of nonsuit were improper, the court therefore should not have rendered a judgment of foreclosure. Because we have concluded that the default and nonsuit were proper, there is no basis for the defendant’s third claim.
+The judgment is affirmed and the case is remanded for the purpose of setting a new sale date.
+In this opinion the other judges concurred.
+Nicholas E. Owen II was also a defendant in this action, but the plaintiff withdrew the action against him prior to trial. Owen was in possession of the premises, but did not own the premises and had no obligation under the note or mortgage. We therefore refer in this opinion to Koehiss as the defendant.
+At various times, the subject note and mortgage were owned by Amba Realty Corporation, Lafayette American Bank and Trust Company, and EMC Mortgage Corporation. On appeal, the plaintiff in interest is EMC Mortgage Corporation.
+Practice Book § 13-14 provides in relevant part: “(a) If any party has failed to answer interrogatories ... or has failed to respond to requests for production ... or has failed to appear and testily at a deposition duly noticed pursuant to this chapter . . . the judicial authority may, on motion, malee such order as the ends of justice require.
+“(b) Such orders may include the following:
+“(1) The entry of a nonsuit or default against the party failing to comply .. • .”
+In her brief to this court, the defendant relies heavily on Associated Investment Co. Ltd. Partnership v. Williams Associates IV, supra, 230 Conn. 148, to support her argument that Judge Stodolink abused his discretion. In that case, our Supreme Court made reference to the record of the proceedings before the trial court. Id., 164. The defendant asks us to distinguish Associated Investment Co. Ltd. Partnership from the facts here. We are unable to do so because the defendant did not provide an adequate record for our review.
