@@ -1,0 +1,32 @@
+---
+court: "Connecticut Appellate Court"
+docket: "8420"
+decided: "1990-07-24"
+citations: ["22 Conn. App. 392"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Salvatore Caristia v. Florence Marceline Caristia"]
+source_url: "https://static.case.law/conn-app/22/cases/0392-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 749349
+cites_cases: ["195 Conn. 202", "21 Conn. App. 200", "214 Conn. 713", "487 A.2d 191", "572 A.2d 1032", "573 A.2d 710"]
+---
+
+# Caristia v. Caristia
+
+## Majority (Lavery, J.)
+
+Lavery, J.
+The plaintiff appeals challenging the financial orders issued by the state trial referee acting as the trial court in a dissolution action. The plaintiff claims that the trial court abused its discretion in its financial orders. We affirm the judgment of the trial court.
+The following facts are relevant to this appeal. The parties were married on December 20,1952. The four children born to the marriage had reached majority by the time of the dissolution. The plaintiff and the defendant adopted a grandchild, Christopher Michael Caristia, born December 4, 1978. Christopher has juvenile diabetes, is insulin dependent and lives with the defendant, who was awarded custody. The defendant, who has a tenth grade education, worked during the marriage almost exclusively as a homemaker and mother. At the time of the trial, the defendant was fifty-seven years old and the plaintiff fifty-six. Both were in good health. The plaintiff is a long time employee of Pratt and Whitney, has an annual income of between $44,000 and $48,000, depending on overtime pay, and has vested pension rights. He also has $75,000 in a retirement savings account separate from the pension.
+The plaintiff and the defendant jointly owned a home valued at approximately $249,000, with a mortgage obligation of approximately $33,000. The plaintiff owned two cars, an airplane, and about $3000 in cash. The defendant owned a car, $18,500 in cash, and furniture. The trial court found that the plaintiff had withdrawn $22,942.20 from a joint brokerage account.
+The trial court ordered the plaintiff to quitclaim to the defendant his interest in the marital home, including all furniture and furnishings therein. The defendant was ordered to pay the plaintiff $60,000 at 5 percent interest per annum, payable in installments of $500 plus interest every six months until fully paid. If the defendant remarried, died, or sold the house, the full amount was to become due immediately. The plaintiff was also ordered to assume and pay all debts and encumbrances affecting the marital property.
+The plaintiff was ordered to pay the defendant $150 per week alimony until his retirement, at which time he is to pay the defendant 50 percent of his retirement benefits, but in no event less than $150 per week. .The plaintiff was ordered to maintain the defendant’s coverage under his existing health and medical insurance for three years. The plaintiff was also ordered to pay the defendant $150 per week child support and to maintain the child’s coverage under his existing health, medical and dental insurance plan. In addition, the plaintiff is to pay for all unreimbursed medical expenses. The plaintiff is to pay the defendant $11,471.10, which represents one half of the withdrawals made by the plaintiff from the jointly held brokerage account. Both parties retained ownership of their respective automobiles. The plaintiff also retained ownership of the airplane.
+The court’s orders prohibit the plaintiff from withdrawing from his pension fund or terminating contributions to it except to receive retirement benefits or because of a layoff in employment. Last, the court ordered both parties to pay their own attorney’s fees.
+In a response to a motion for articulation, the trial court stated that the plaintiff must pay the monthly mortgage payment, that the plaintiffs retirement savings were not included in the award to the defendant of 50 percent of the plaintiffs pension benefits and that the mortgage from the defendant to the plaintiff on the family home contain the standard clauses used in mortgage transactions.
+The standard of review in dissolution appeals is well settled. Febbroriello v. Febbroriello, 21 Conn. App. 200, 202, 572 A.2d 1032 (1990). This court “ ‘will not reverse a trial court’s rulings regarding financial orders unless the court incorrectly applied the law or could not reasonably have concluded as it did.’ ” (Emphasis in original.) Id. The trial court has the best opportunity to observe the parties, pass on the credibility of witnesses and weigh and interpret the evidence. Rostain v. Rostain, 214 Conn. 713, 716, 573 A.2d 710 (1990). In determining whether the trial court’s broad legal discretion is abused, “ ‘ “ ‘great weight is due to the action of the trial court and every reasonable presumption should be given in favor of its correctness.’ . . ’ ” (Citations omitted.) Timm v. Timm, 195 Conn. 202, 206, 487 A.2d 191 (1985).
+At argument, it was clear that both the plaintiff and the defendant misinterpreted the trial court’s decision as it refers to the retirement savings account and the plaintiff’s contribution to it. The trial court in its articulation said that it did not include the plaintiff’s retirement savings account in the 50 percent pension award made to the defendant. The parties were under the mistaken impression that the plaintiff had to continue to contribute $102.07 weekly to his retirement savings account. Since the trial court awarded the plaintiff the retirement savings account, and the defendant has no interest in it, the plaintiff is free to contribute to it or not as he chooses.
+When we add the savings account back onto the plaintiff s side of the ledger and when we review the transcripts, the record and the exhibits and the court’s finding of facts, we cannot say that the trial court abused its discretion. The trial court stated that it had considered the provisions of General Statutes § 46b-81 as to division of marital assets, § 46b-82 as to awarding alimony, § 46b-62 as to awarding attorney’s fees and § 46b-84 as to child support. Our review discloses that the trial court’s factual findings are supported by the evidence and its conclusions are in accordance with the law.
+The judgment is affirmed.
+In this opinion the other judges concurred.
