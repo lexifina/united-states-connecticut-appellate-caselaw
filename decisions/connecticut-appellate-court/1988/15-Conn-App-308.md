@@ -1,0 +1,36 @@
+---
+court: "Connecticut Appellate Court"
+docket: "5829"
+decided: "1988-07-26"
+citations: ["15 Conn. App. 308"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roberto Serrano et al. v. Roberto Behar"]
+source_url: "https://static.case.law/conn-app/15/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1965982
+cites_cases: ["12 Conn. App. 348", "196 Conn. 517", "494 A.2d 549", "530 A.2d 1081"]
+---
+
+# Serrano v. Behar
+
+## Majority (O’Connell, J.)
+
+O’Connell, J.
+The plaintiffs appeal from the judgment rendered following the opening of a default judgment, in their action for rescission of a real estate contract, money damages and return of a deposit.
+The record discloses that the defendant was defaulted for failure to appear for trial on March 15, 1985, and that on April 12, 1985, judgment was rendered for the plaintiffs in the amount of $14,994.56 plus costs.
+On July 12,1985, the defendant filed a motion to open the judgment. The trial court did not act upon the motion because the defendant failed to file an accompanying affidavit required by General Statutes § 52-212 and Practice Book § 377. No further action was taken in the case until August 15,1985, when the defendant filed a second motion to open the judgment. This second motion, which met the statutory requirements and rules of practice, was heard as a contested matter and granted on August 26, 1985, despite the observation of the judge presiding over the short calendar docket that the motion was filed more than four months after entry of judgment. The case was then referred to a fact-finder, upon whose finding a judgment was rendered for the plaintiffs, in the reduced amount of $2500. The plaintiffs claim that the trial court did not have jurisdiction to open the default judgment of April 12,1985. We agree.
+With certain exceptions not applicable here, General Statutes § 52-212a and Practice Book § 326 each provide for the opening of any civil judgment, conditioned on the filing of a motion within four months of the rendering of a judgment. General Statutes § 52-212, and Practice Book § 377, see footnotes 1 and 2, supra, reiterate the four month rule that is mandated for the opening of all civil judgments, and add the further requirement that motions to open default judgments have an affidavit annexed thereto articulating the reason for the movant’s default.
+A trial court has no jurisdiction to open a judgment beyond the four month period. See Van Mecklenburg v. Pan American World Airways, Inc., 196 Conn. 517, 518, 494 A.2d 549 (1985). The defendant’s motion was filed on August 15, 1985, a time beyond the four month limit. The defendant argues that the defective motion of July 12, 1985, tolled the running of the time limit, but fails to furnish authority to support this theory. To the contrary, in Van Mecklenburg, supra, for example, our Supreme Court held that when a plaintiff filed a timely motion to open judgment after dismissal for failure to diligently prosecute, but failed to include a filing fee, an untimely motion subsequently filed with a proper fee would not relate back to the timely but incomplete motion.
+In addition, the defendant does not claim that the second motion to open, filed August 15,1985, is a correction or amendment to his timely but incomplete, July 12, 1985 motion, which should therefore be considered, nunc pro tunc, to have been filed on July 12, 1985.
+We conclude that the motion to open was not timely filed and that, therefore, the trial court lacked jurisdiction to open the default judgment.
+There is error, the judgment is set aside and the case is remanded with direction to reinstate the April 12, 1985 default judgment.
+In this opinion the other judges concurred.
+General Statutes § 52-212 provides in pertinent part: “(a) Any judgment rendered or decree passed upon a default or nonsuit in the superior court may be set aside, within four months following the date on which it was rendered or passed, and the case reinstated on the docket, on such terms as respect to costs as the court deems reasonable, upon the complaint or written motion of any party or person prejudiced thereby, showing reasonable cause, or that a good cause of action or defense in whole or in part existed at the time of the rendition of the judgment or the passage of the decree, and that the plaintiff or defendant was prevented by mistake, accident or other reasonable cause from prosecuting the action or making the defense.”
+Practice Book § 377 provides in pertinent part: “Any judgment rendered or decree passed upon a default or nonsuit may be set aside within four months succeeding the date on which it was rendered or passed, and the case reinstated on the docket on such terms in respect to costs as the court deems reasonable, upon the written motion of any party or person prejudiced thereby, showing reasonable cause, or that a good cause of action or defense in whole or in part existed at the time of the rendition of such judgment or the passage of such decree, and that the plaintiff or the defendant was prevented by mistake, accident or other reasonable cause from prosecuting or appearing to make the same. Such written motion shall be verified by the oath of the complainant or his attorney, shall state in general terms the nature of the claim or defense and shall particularly set forth the reason why the plaintiff or the defendant failed to appear.”
+We note that as the plaintiffs complaint contained a request for rescission of the contract, the case was beyond the jurisdiction of the factfinder. Factfinders are limited in their jurisdiction to addressing only contract matters in which the request for relief is limited to a claim for money damages. General Statutes § 52-549n; E. I. Constructors, Inc. v. Scinto, 12 Conn. App. 348, 352-53, 530 A.2d 1081 (1987).
+In view of the disposition of this appeal, a second claim of error pertaining to an award of liquidated damages is not reached.
+General Statutes § 52-212a provides: “Unless otherwise provided by law and except in such cases in which the court has continuing jurisdiction, a civil judgment or decree rendered in the superior court may not be opened or set aside unless a motion to open or set aside is filed within four months following the date on which it was rendered or passed. The parties may waive the provisions of this section or otherwise submit to the jurisdiction of the court.”
+Practice Book § 326 provides: “Unless otherwise provided by law and except in such cases in which the court has continuing jurisdiction, any civil judgment or decree rendered in the superior court may not be opened or set aside unless a motion to open or set aside is filed within four months succeeding the date on which it was rendered or passed. The parties may waive the provisions of this paragraph or otherwise submit to the jurisdiction of the court.
+“Upon the filing of a motion to open or set aside a civil judgment, except a judgment in a small claims or juvenile matter, the moving party shall pay to the clerk the filing fee prescribed by statute unless such fee has been waived by the court.”
