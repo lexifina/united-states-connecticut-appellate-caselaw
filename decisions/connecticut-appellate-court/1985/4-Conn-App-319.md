@@ -1,0 +1,34 @@
+---
+court: "Connecticut Appellate Court"
+docket: "3216"
+decided: "1985-06-25"
+citations: ["4 Conn. App. 319"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Helen Huybrechts v. Francois Huybrechts"]
+source_url: "https://static.case.law/conn-app/4/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 779055
+cites_cases: ["122 Conn. 166", "131 Conn. 407", "187 A. 907", "40 A.2d 280"]
+---
+
+# Huybrechts v. Huybrechts
+
+## Majority (Hull, J.)
+
+Hull, J.
+The plaintiff appeals from a judgment of the trial court pursuant to the Post-Judgment Remedies Act, Public Acts 1983, No. 83-581, § 11 (now General Statutes § 52-356c). The court held that Travelers Insurance Company, as garnishee, was not liable to the plaintiff in the amount of a debt which it owed to the defendant and upon which it had issued and paid a check. We find error.
+On November 25,1980, the trial court dissolved the marriage of the parties and made several financial orders pursuant to which the defendant was obligated to pay certain sums to the plaintiff. These sums were never paid and thus, on March 24,1981, the plaintiff’s application to garnish Travelers’ debt, in the amount of $30,000, to the defendant was granted by the court. On March 17, 1981, seven days prior to the granting of the plaintiff’s application, Travelers had issued a check, drawn upon the Connecticut Bank and Trust Company (CBT), for the full amount due to the defendant. That check was delivered to the defendant’s attorney on March 19,1981. Subsequently, it was delivered to the defendant who endorsed, and deposited it for collection in a Texas bank on March 23,1981, the day prior to the garnishment of the debt. On March 25, 1981, CBT received and paid the check.
+The plaintiff instituted the present action against the defendant on the underlying financial obligation, and against Travelers, as garnishee, claiming that the debt was still owed to the defendant when it received the notice of garnishment and that it, therefore, improperly released the $30,000 to the defendant.
+The trial court rendered judgment for the plaintiff against the named defendant in the amount of $61,982.47. The court concluded, however, that because the defendant was no longer a “holder” of the check within the terms of Article 3 of the Uniform Commercial Code; General Statutes §§ 42a-3-101 through 42a-3-805; the debt was beyond garnishment. The court, therefore, rendered judgment for Travelers on the plaintiff’s postjudgment claim against it. The plaintiff, thereafter, filed the present appeal, raising the sole issue of whether the court erred in its conclusion that Travelers was not liable to the plaintiff under the terms of the notice of garnishment.
+The trial court’s judgment would elevate the form of payment over the substance of the underlying debt. Connecticut has long recognized that “a debt, for which a check or draft is outstanding, is subject to garnishment . . . .” Kossover v. Willimantic Trust Co., 122 Conn. 166, 170, 187 A. 907 (1936). Thus, it is not the check, but the debt itself which is garnished.
+The fact that a check has been issued, does not extinguish the debt: “[T]he giving of a draft by a debtor to his creditor does not discharge the debt itself until the draft is paid, it being a means adopted to enable the creditor to obtain payment of the debt and remaining, until honored or paid, but evidence of the indebtedness . . . . ” (Emphasis added.) Id., 168; see also Sperandeo v. Aetna Casualty & Surety Co., 131 Conn. 407, 410, 40 A.2d 280 (1944). Thus, in the present case, since the notice of garnishment was received prior to payment of the check by Travelers, the proceeds of the debt were still in its hands, and were subject to garnishment pursuant to General Statutes § 52-329.
+As the court in Kossover conceded, this rule makes it necessary for the garnishee to take precautions if it wishes to avoid duplicate liability on the check and the garnished debt itself. Kossover v. Willimantic Trust Co., supra, 171. Professor Stephenson, in his treatise, states: “If the garnishment became effective subsequent to issuance of a check in payment but prior to presentment of the check, it is incumbent upon the garnishee to stop payment.” Stephenson, Conn. Civ. Proc. § 69. We add to that statement the caveat that the garnishee need not stop payment, but if it does not do so, its obligation under the garnishment will remain enforceable.
+Although there may be occasions in which there is insufficient time to stop payment on a check; see General Statutes § 42a-4-403 (1) (bank not obligated to stop payment unless order to do so affords “reasonable opportunity to act”); that claim was not made in the present case. We decline, therefore, to decide the consequences of such a claim.
+Stopping payment, however, is not the garnishee’s only option. The general rule that a check or draft does not discharge the debt until it is honored or paid, may be displaced where an agreement to the contrary is shown. Sperandeo v. Aetna Casualty & Surety Co., 131 Conn. 407, 410, 40 A.2d 280 (1944); Kossover v. Willimantic Trust Co., supra, 171.
+The trial court based its judgment on the fact that the above-cited rule was formulated prior to Connecticut’s adoption of the Uniform Commercial Code. We conclude that the Uniform Commercial Code is not applicable to the question of the validity of the garnishment in this case. Reliance on Article 3 of the Uniform Commercial Code is misplaced, for that part of the Code would deal, in general, with the bank’s obligations regarding the check. The present case, on the other hand, deals with the underlying debt which Travelers became obligated to pay.
+There is error, the judgment is set aside and the case is remanded with direction to render judgment as on file except that judgment should be rendered for the plaintiff as against the garnishee, Travelers Insurance Company, in the amount of $30,000.
+In this opinion the other judges concurred.
+That debt, otherwise irrelevant to this case, arose out of the defendant’s release of all claims which he had against Travelers’ insured, the Symphony Society of San Antonio, regarding breach of contract.
+Travelers argued, at the trial level and before this court, that it owed no debt to the defendant. Rather, it claimed that its obligation was to its insured and that the defendant had no cause of action against Travelers itself. Since the trial court held that “the requisite debtor creditor relationship can be said to have existed,” the Travelers cannot dispute that conclusion in the absence of a preliminary statement of issues as required by Practice Book § 3012 (a). Thus, we decline to disturb that conclusion of the trial court.
