@@ -1,0 +1,39 @@
+---
+court: "Connecticut Appellate Court"
+docket: "3796"
+decided: "1986-05-27"
+citations: ["7 Conn. App. 528"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Christopher Lussier"]
+source_url: "https://static.case.law/conn-app/7/cases/0528-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1958810
+cites_cases: ["198 Conn. 592", "504 A.2d 494", "573 P.2d 796", "89 Wash. 2d 535"]
+---
+
+# State v. Lussier
+
+## Majority (Hull, J.)
+
+Hull, J.
+The defendant appeals from his judgment of conviction, after a trial to a jury, of robbery in the first degree, a violation of General Statutes § 53a-134 (a) (4). The sole issue the defendant raises in this appeal is whether the trial court erred by admitting into evidence statements he had made pertaining to the robbery. The defendant has not presented a record adequate to show that the trial court’s decision was erroneous and, accordingly, we find no error.
+On the evening of December 7, 1983, Charles Haas was working at a Cumberland Farms store in Shelton. At around 10 p.m., Haas noticed a van backing into a parking space in front of the store. He watched as two males left the van and entered the store. Shortly thereafter, the defendant approached the counter, pulled out a gun and ordered Haas to turn over all the money. Haas gave the defendant between $20 and $30. The men then left the store and drove off in the van. Haas wrote down the license plate number and minutes later gave the police a statement fully describing the two men and the van. The next day the police traced the van to the defendant through its registration license plate. The police arranged to have Haas view a photographic array which included the defendant’s photograph. Haas identified the defendant as one of the robbers.
+Later in the evening of December 8, the police department was called to a domestic dispute which involved the defendant. The defendant was not arrested at the scene but voluntarily went with the police to the station. He was later arrested for disorderly conduct after a written statement was obtained from the complainant in this incident. After the arrest, while being interrogated on the disorderly conduct charge, the defendant volunteered that he had not intended to rob the Cumberland Farms store and that it was a pellet gun, not a real gun, that he had used. One of the police officers cautioned the defendant not to discuss the robbery without his attorney present, but the defendant continued his statement. Later, a police officer drove the defendant back to the address where he had been picked up on the disorderly conduct charge. During the ride, the defendant again initiated a conversation concerning the robbery. He told the officer that he was going to the police station the next day to make a statement about the robbery. He repeated that it was only a pellet gun. At trial, the defendant’s statements were admitted, and he was convicted of robbery in the first degree.
+The defendant’s sole claim is that the trial court erred in refusing to suppress the statements he made concerning the robbery. He argues that his arrest for disorderly conduct was illegal and that the statements he made were causally connected to the illegal arrest. His statements, therefore, had to be suppressed as the fruits of an illegal seizure. The trial court’s failure to do so, he contends, constituted harmful error. The defendant has not, however, provided a sufficient record to enable this court to determine whether his arrest for disorderly conduct was illegal. Accordingly, he has not met his burden of showing that the trial court’s decision was erroneous. See State v. Conrod, 198 Conn. 592, 597, 504 A.2d 494 (1986).
+The defendant filed a motion to suppress his statements, and the court held an extended evidentiary hearing on this motion outside the presence of the jury. During the hearing, the defendant asked one of the police officers who had investigated the disorderly conduct complaint to describe the substance of the statement the complainant had given to the police. The trial court interrupted to question the relevancy of the information and to indicate that it was an area the court did not feel was appropriate for counsel to explore. Defense counsel stated that he was trying to establish that the disorderly conduct arrest was illegal and that, as a result, the statements the defendant made were the fruits of an illegal arrest. The trial court told defense counsel that the illegality of the disorderly conduct arrest was irrelevant to the pending charge and that it would deny the defendant’s motion to suppress if made on that basis. Defense counsel excepted, but took no other steps to preserve the claim.
+“Under the circumstances outlined above, if [the defendant] wished to preserve this claim of error for appellate review, he should have presented an offer of proof. ‘An offer of proof, properly presented, serves three purposes. First, it should inform the court of the legal theory under which the offered evidence is admissible. Second, it should inform the trial judge of the specific nature of the offered evidence so the court can judge its admissibility. Third, it thereby creates a record adequate for appellate review.’ Mad River Orchard, Inc. v. Krack Corporation, 89 Wash. 2d 535, 537, 573 P.2d 796 (1978).” State v. Conrod, supra, 597. Here, no such offer was made.
+While the defendant acknowledges that he did not make a record adequate to show that his disorderly conduct arrest was illegal, he argues that the trial court prevented him from doing so. This claim is not supported by the record. The trial court did indicate that it did not believe defense counsel’s interpretation of the relevant precedents and that it would not grant the defendant’s motion to suppress based on a claim that the disorderly conduct arrest was invalid. The court did not, however, attempt to prevent the defendant from making an offer of proof as to the illegality of the arrest, nor could it. In fact, there is no indication in the record that the defendant even attempted to make such an offer.
+Because no offer of proof was made, this court does not have any basis for determining whether the disorderly conduct arrest was illegal and, accordingly, whether the trial court erred in admitting the statements. “Without an adequate record to review the ruling of the trial court, this court must assume that the trial court acted properly.” State v. Conrod, supra, 598.
+There is no error.
+In this opinion the other judges concurred.
+The relevant portion of the discussion between defense counsel and the trial court follows:
+“The Court: Now what is the basis of this? I don’t want to get involved in this.
+“Defense Counsel: Well, your Honor, if, in fact, this arrest, this arrest for disorderly conduct was not a valid arrest, then anything that he had said [to the police] violated his constitutional rights because he was wrongfully in custody.
+“The Court: However, the statements that you’re trying to excise have nothing to do with this arrest.
+“Defense Counsel: Exactly. However, if anything that he said does not necessarily have to do with that particular arrest for disorderly conduct, if he was unlawfully in custody, regardless of what he said, I don’t believe that that statement can be used against my client and I don’t believe that it’s constitutional.
+“The Court: Well I’ve always understood it to be towards that particular charge.
+“Defense Counsel: I don’t have that same understanding, your Honor.
+“The Court: Well, but if that’s going to be [the basis for your motion to suppress], I’m going to tell you that I’m going to deny it not—
+“Defense Counsel: All right. I would take an exception.”
