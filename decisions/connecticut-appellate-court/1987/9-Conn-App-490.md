@@ -1,0 +1,33 @@
+---
+court: "Connecticut Appellate Court"
+docket: "5114"
+decided: "1987-01-20"
+citations: ["9 Conn. App. 490"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Teshea D."]
+source_url: "https://static.case.law/conn-app/9/cases/0490-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1311270
+cites_cases: ["183 Conn. 11", "196 Conn. 18", "199 Conn. 809", "438 A.2d 801", "491 A.2d 355", "504 A.2d 532", "508 A.2d 770", "510 A.2d 1017", "6 Conn. App. 194", "8 Conn. App. 92"]
+---
+
+# In re Teshea D.
+
+## Majority (Borden, J.)
+
+Borden, J.
+This is a termination of parental rights case. The respondent, the mother of the minor child, appeals from the judgment of the trial court terminating her parental rights on the ground of abandonment. She claims that the trial court erred (1) in finding that the petitioner, the commissioner of the department of children and youth services (DCYS), sustained his burden of proof in establishing abandonment, (2) in finding that the best interest of the child warranted termination, and (3) in failing to bifurcate the issues of whether cause for termination existed and the suitability of proposed adoptive parents. We find no error.
+The respondent first claims that the court’s finding of abandonment; General Statutes § 17-43a (b) (1); is not supported by clear and convincing evidence. We disagree.
+The trial court found the following facts: The respondent lives in New York City. The child, who was born on December 24,1978, has been in foster care in Connecticut since July, 1983. This placement followed a period of time in which the child was with her father in Connecticut. At the beginning of this period, the respondent gave the child to the father without knowing his address* his telephone number or how she could contact him. In the nearly three years from that placement to the time of trial, in April, 1986, the respondent has had very little contact with her daughter. DCYS was in contact with her by telephone and made unsuccessful efforts to involve her in a program leading to visitation and reunification with the child. DCYS requested the New York authorities to conduct a home study of the respondent in New York. That failed because of the absolute lack of cooperation by the respondent. DCYS has also presented five treatment plans to her and scheduled hearings on them. She failed to attend any of the hearings. Her only contacts with the child were by telephone in July, 1985. Those calls were very disturbing to the child. The contacts between the respondent and the child have been so brief and transitory that no real feelings or emotional ties exist between them.
+We have reviewed the entire trial record. The findings of the trial court are supported by clear and convincing evidence, and justify the trial court’s factual conclusion of abandonment. See In re Juvenile Appeal (Docket No. 9489), 183 Conn. 11, 13-14, 438 A.2d 801 (1981). Inre Migdalia M., 6 Conn. App. 194, 504 A.2d 532, cert. denied, 199 Conn. 809, 508 A.2d 770 (1986), on which the respondent relies, is factually distinguishable. In that case, the mother visited with the child often, and her failures to telephone and to visit more frequently were explainable because she had no telephone or means of transportation. That is not the case here.
+The respondent’s second claim attacks the trial court’s finding that termination is in the child’s best interest. The basis of this claim is that there was no expert testimony regarding the child’s best interest, and that the evidence does not support the court’s finding. This claim is without merit.
+Although both our Supreme Court and this court have often, in this regard, looked to the testimony of mental health experts; see, e.g., In re Theresa S., 196 Conn. 18, 491 A.2d 355 (1985); In re Rebecca W., 8 Conn. App. 92, 510 A.2d 1017 (1986); such expert testimony is not a precondition of the court’s own factual judgment as to the child’s best interest. See, e.g., General Statutes § 45-61f (d), which provides in pertinent part that the court “may order [a minor] child [who is the subject of a termination proceeding] to be examined at a suitable place by a physician, psychiatrist or licensed clinical psychologist appointed by the court. The court may also order examination of a parent or custodian whose competency or ability to care for a child before the court is at issue. . . . The court may consider the results of the examinations in ruling on the merits of the petition.” (Emphasis added.)
+In this case, the DCYS social worker testified that there was no relationship between the respondent and the child, that the relationship could not be restored, and that what little contact there had been, consisting of three telephone calls in July, 1985, was very upsetting and confusing to the child. The social worker also testified that the child had asked about adoptive homes, and had requested to live with the social worker and her husband. The court further found that the child’s emotional ties are closer to her foster parents than to the respondent. It is also significant that for nearly one-half of her life the child has not been visited by the respondent. The child’s need for permanency in her life lends added support to the court’s finding that her best interest warranted termination of the respondent’s parental rights.
+The respondent also claims that the court erred by failing to bifurcate, in its findings, the separate issues of (1) whether cause for termination existed, and (2) the suitability of proposed adoptive parents. We disagree.
+“The parents’ rights can be terminated without an ensuing adoption. When both parents’ rights are terminated, it becomes the obligation of the state to look for permanent placement for the child .... Adoption is the most appropriate solution unless family members [are available to take the child].” In re Theresa S., supra, 30-31.
+The petitioner did not present this case on the basis that there were specific proposed adoptive parents. He did, however, clearly indicate that adoption was planned. The DCYS social worker testified that the immediate plan for the child was to place her in a foster home specially trained to prepare her for adoption, to assign an adoption worker to her immediately, and to find a proposed adoptive family for her. There was no occasion, therefore, for the trial court separately to address the issue of the suitability of adoptive parents.
+There is no error.
+In this opinion the other judges concurred.
+The respondent father did not appear at the hearing, and did not appeal from the judgment terminating his parental rights.
