@@ -1,0 +1,34 @@
+---
+court: "Connecticut Appellate Court"
+docket: "3748"
+decided: "1986-02-18"
+citations: ["6 Conn. App. 253"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hull, Daly and Bieluch, Js.", "In this opinion the other judges concurred."]
+parties: ["Rutherford P. Lilley v. Genevieve G. Lilley"]
+source_url: "https://static.case.law/conn-app/6/cases/0253-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4218418
+cites_cases: ["171 Conn. 213", "179 Conn. 277", "185 Conn. 7", "368 A.2d 202", "426 A.2d 271", "440 A.2d 804"]
+---
+
+# Lilley v. Lilley
+
+## Majority (Bieluch, J.)
+
+Bieluch, J.
+This appeal raises the sole issue of whether the original decree dissolving the marriage of the parties is modifiable with respect to the terms of the alimony award granted to the defendant wife. We conclude that the trial court erred in finding the decree to be nonmodifiable.
+The facts are not in dispute. The marriage of the parties was dissolved by order of the court on January 21, 1983. At the dissolution hearing, the parties stipulated that the defendant would receive $1600 per month as periodic alimony, payable until her death or remarriage. In the event of the plaintiffs death, the payments of periodic alimony were to continue from his estate until December 31,1997, unless the defendant died or remarried before that date.
+The parties further stipulated that the plaintiff would execute an irrevocable amendment to a trust which he had created for his own benefit. Pursuant to the amendment, assets were segregated in a portion of the trust designated as the “Genevieve G. Lilley Reserve” in an amount which guaranteed the payment of the defendant’s monthly alimony. The trustee was specifically directed to pay $1600 per month to the defendant in accordance with the terms and limitations of the stipulation. The trustee was further directed that the amendment was not modifiable in any manner “which could adversely affect the security of the Genevieve G. Lilley Reserve unless Genevieve G. Lilley shall otherwise consent in writing.” The court specifically approved the stipulation of the parties and rendered judgment containing the provisions which are at issue in this case.
+In May, 1984, the plaintiff moved for a modification of the alimony award on the ground that the defendant’s financial assets and income had increased to a remarkable degree because of a substantial and unforeseen change in circumstances. The trial court, while agreeing that such an improvement had taken place, concluded that the original decree was nonmodifiable regardless of the parties’ changes in circumstances. The court denied the motion for modification and, from that denial, the plaintiff appeals.
+General Statutes § 46b-86 (a) provides that “[u]nless and to the extent that the decree precludes modification, any final order for the periodic payment of permanent alimony . . . may at any time thereafter be . . . modified by said court upon a showing of a substantial change in the circumstances of either party.” This statutory provision “suggests a legislative preference favoring the modifiability of orders for periodic alimony . . . [and requires that] the decree itself must preclude modification for this relief to be unavailable.” (Emphasis added.) Scoville v. Scoville, 179 Conn. 277, 279, 426 A.2d 271 (1979). Such preclusion of modification must be unambiguous. McGuinness v. McGuinness, 185 Conn. 7, 9, 440 A.2d 804 (1981); Scoville v. Scoville, supra, 280.
+In the present case, the judgment of dissolution is silent about the modifiability of its order for periodic alimony. Faced with the statutory open door to modification in § 46b-86 (a), the court erred in searching for the parties’ intent and in holding “that the alimony order in question is not ambiguous and is also non-modifiable.” We may look only to the dissolution decree itself when determining whether its provision for periodic alimony is modifiable. In the absence of an express, unambiguous statement in the decree precluding modification, § 46b-86 (a) permits the modification of an order for periodic alimony “upon a showing of a substantial change in the circumstances of either party” as claimed here.
+Our ruling by no means requires parties to a dissolution to use any given set of words to preclude modification. We shall not endorse or endow any single phrase for this purpose. Many words and phrases may express the same meaning. The decree must express distinctly and unambiguously that its order for periodic alimony is not modifiable for the statutory direction allowing change to be overcome.
+There is error, the judgment is set aside and the case is remanded for further proceedings in accordance with this opinion.
+In this opinion the other judges concurred.
+The defendant claims belatedly in her brief that “although characterized as periodic payments to provide the appellant with federal income tax benefits, the alimony award was actually a nonmodifiable lump sum payment payable over a period of years,” referring to Viglione v. Viglione, 171 Conn. 213, 368 A.2d 202 (1976). In the face of three specific designations of the alimony in the stipulation and the judgment as “periodic alimony,” to accept this claim would require us to ignore totally the parties’ clear language intended to obtain a desired important tax result. A review of the memorandum of decision and the record reveals that this claim was not considered by the trial court; nor has the defendant raised the issue in a statement of issues pursuant to Practice Book § 3012 (a). We, therefore, decline to consider the claim.
+It was also stipulated that the plaintiff would pay the wife the sum of $2500 as additional periodic alimony for the months of January, February, March and April, 1983.
+The trial court found that “[o]n the facts which are essentially not in dispute, as related to the court, it would appear that such a [substantial and unforeseen change in circumstances affecting the defendant whereby her financial position has vastly improved] has occurred, and that, while the change (selling of the property, appreciation in value of other assets) could very well have been within the contemplation of the parties, the extent of such change may very well not have been contemplated or foreseen.”
+In reviewing the record and briefs, it appears that the crux of the dispute is the wife’s sale of a portion of the former marital property for $950,000 ($350,000 cash and a note secured by a mortgage for $600,000) after having listed its total value on her financial affidavit at the time of dissolution as $750,000. The wife still resides on the remaining portion of the former marital property which she valued, at the time of the motion for modification, at $500,000.
