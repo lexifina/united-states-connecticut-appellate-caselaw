@@ -1,0 +1,35 @@
+---
+court: "Connecticut Appellate Court"
+docket: "8010"
+decided: "1990-06-05"
+citations: ["21 Conn. App. 629"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Julie Lewin et al. v. United States Surgical Corporation et al."]
+source_url: "https://static.case.law/conn-app/21/cases/0629-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 747665
+cites_cases: ["15 Conn. App. 569", "175 Conn. 415", "175 Conn. 483", "177 Conn. 616", "19 Conn. App. 428", "190 Conn. 48", "209 Conn. 813", "212 Conn. 816", "399 A.2d 1274", "400 A.2d 726", "419 A.2d 346", "459 A.2d 503", "546 A.2d 870", "550 A.2d 1082", "562 A.2d 586", "565 A.2d 534"]
+---
+
+# Lewin v. United States Surgical Corp.
+
+## Majority (Foti, J.)
+
+Foti, J.
+The plaintiffs appealed to the Superior Court pursuant to General Statutes § 4-183 (b) from a decision of the defendant commissioner of the department of health services finding that the defendant United States Surgical Corporation’s (Surgical) use of dogs complied with state statutes and regulations. The Superior Court dismissed the plaintiffs’ appeal for lack of aggrievement and they now appeal to this court.
+Pursuant to General Statutes § 4-176, the plaintiffs, Julie Lewin and the Fund for Animals, requested that the commissioner of the department of health services render a declaratory judgment to determine whether Surgical’s use of live dogs to demonstrate the use of surgical staples after surgery violates the permissible uses of dogs for scientific and educational purposes as set forth in General Statutes § 22-332b. After a full hearing before the department of health services, the deputy commissioner issued a declaratory judgment finding that Surgical’s use of live dogs was “essential,” and therefore within the uses allowed under § 22-332b.
+Both the department of health services and Surgical filed motions to dismiss the plaintiffs’ appeal claiming lack of aggrievement. The plaintiffs thereafter amended their complaint and filed a motion to undertake discovery. The Superior Court held a hearing on the issue of aggrievement, denied the plaintiffs’ discovery motion, and granted the defendants’ motions to dismiss for lack of aggrievement.
+The plaintiffs assign a variety of errors to the court’s granting the defendants’ motions to dismiss, but, for the purposes of our discussion, the issue of aggrievement is dispositive.
+“Pleading and proof of aggrievement is a prerequisite to a trial court’s jurisdiction over the subject matter of an appeal. Beckish v. Manafort, 175 Conn. 415, 419, 399 A.2d 1274 (1978). Unless a party can establish aggrievement, that party has no standing to appeal. General Statutes § 4-183 (a).” Blau v. State Board of Education, 19 Conn. App. 428, 430, 562 A.2d 586, cert. denied, 212 Conn. 816, 565 A.2d 534 (1989). The burden of proving aggrievement rests with the plaintiffs who have claimed it. Hartford Distributors, Inc. v. Liquor Control Commission, 177 Conn. 616, 622, 419 A.2d 346 (1979). Mere status as a participant or a party at a hearing before an administrative agency does not, in and of itself, constitute proof of aggrievement for the purpose of appellate review. Id., 620.
+Aggrievement, when not based upon a specific statute, is determined by way of a well settled twofold test. First, the plaintiffs must successfully demonstrate a specific, personal and legal interest in the subject matter of a decision. Second, they must successfully establish that this interest has been specially and injuriously affected by the decision. Mystic Marinelife Aquarium, Inc. v. Gill, 175 Conn. 483, 493, 400 A.2d 726 (1978). Further, an aggrieved party must have a claim that is distinguishable from the concerns of the community at large. Id.
+In the^ present case, the plaintiffs have alleged that they are aggrieved parties, but they have failed to present any proof of a specific, personal and legal interest in Surgical’s experimental use of dogs. Although the plaintiffs filed numerous affidavits with the Superior Court to support their claim of aggrievement, the affiants’ assertions amount to no more than speculative fears. Their assertions can be summarized as follows: I am a member of Friends of Animals; I own a dog; my dog may one day be lost or stolen and may then fall into the hands of a dog broker who supplies animals to laboratories; and Surgical may eventually gain possession of my dog. The plaintiffs also presented evidence at the aggrievement hearing. A thorough review of the record, however, indicates that none of the evidence presented connects the plaintiffs’ pets to Surgical or gives rise to any other legitimate specific, personal and legal interest of the plaintiffs.
+The concerns the plaintiffs express here cannot be distinguished from those held by the community as a whole. These concerns have already been addressed in numerous laws and regulations, placed in effect by our legislators and government officials, directing the state and its agencies to regulate the use of dogs for educational or scientific purposes. See, e.g., General Statutes §§ 22-332a, 22-332b, 22-332c; Regs., Conn. State Agencies §§ 22-332b-l through 22-332b-ll. For this court to allow the plaintiffs to pursue their claim would be to ignore this legislative scheme.
+The plaintiffs have not sustained their burden of proof on the issue of aggrievement. We conclude that the trial court did not err in dismissing their appeal.
+There is no error.
+In this opinion the other judges concurred.
+The following parties are also named as defendants in this action: the department of health services of the state of Connecticut; Frederick G. Adams, commissioner of the department of health; Dennis F. Kerrigan, deputy commissioner of the department of health; and Jesse S. Tucker, director of the laboratory division of the department of health.
+In addition to Julie Lewin and the Fund for Animals, Sarah Seymore and the Friends of Animals are also plaintiffs in this action.
+The plaintiffs further argue that they were denied the opportunity to prove facts necessary to establish aggrievement when the Superior Court denied their motion for discovery.
+“The granting or denial of a discovery request rests in the sound discretion of the court.” Standard Tallow Corporation v. Jowdy, 190 Conn. 48, 57, 459 A.2d 503 (1983). In an administrative appeal, “[t]he opportunity to present evidence in addition to that contained in the record is reserved for extraordinary cases.” Ierardi v. Commission on Human Rights & Opportunities, 15 Conn. App. 569, 584-85, 546 A.2d 870, cert. denied, 209 Conn. 813, 550 A.2d 1082 (1988). In the present case, the Superior Court conducted a full evidentiary hearing on the question of aggrievement before denying the plaintiffs’ motion to discover additional information to prove aggrievement. In view of the record before us, we cannot conclude that the Superior Court abused its discretion in denying the plaintiffs’ motion for discovery.
