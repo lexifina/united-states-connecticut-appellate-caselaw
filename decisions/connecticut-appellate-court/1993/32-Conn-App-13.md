@@ -1,0 +1,30 @@
+---
+court: "Connecticut Appellate Court"
+docket: "10590"
+decided: "1993-07-13"
+citations: ["32 Conn. App. 13"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Connecticut Bank and Trust Company, N.A. v. David A. Linsky et al."]
+source_url: "https://static.case.law/conn-app/32/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1327981
+cites_cases: ["1 Conn. App. 226", "160 Conn. 269", "177 Conn. 259", "181 Conn. 217", "183 Conn. 366", "188 Conn. 736", "189 Conn. 671", "218 Conn. 904", "24 Conn. App. 172", "26 Conn App. 81", "27 Conn. App. 628", "278 A.2d 776", "413 A.2d 854", "435 A.2d 24", "439 A.2d 375", "453 A.2d 1151", "458 A.2d 362", "470 A.2d 1226", "586 A.2d 635", "588 A.2d 1383", "598 A.2d 663", "608 A.2d 714"]
+---
+
+# Connecticut Bank & Trust Co. v. Linsky
+
+## Majority (Landau, J.)
+
+Landau, J.
+The defendants appeal from the deficiency judgment rendered against them by the trial court. On appeal, the defendants claim that the trial court improperly used the leased fee value of the property for the purposes of the deficiency judgment rather than the fee simple value of the property. We affirm the judgment of the trial court.
+The subject property is a commercially zoned parcel located at 131 Dwight Street in New Haven. In September of 1990, the plaintiff, Connecticut Bank and Trust Company, N.A., filed a writ against the defendants seeking a strict foreclosure of its mortgage on the subject property. The mortgage secured the defendants’ $390,000 commercial mortgage note to the plaintiff dated January 15, 1988. On May 6, 1991, the plaintiff’s motion to substitute party plaintiff was granted substituting New Connecticut Bank and Trust Company, N.A., as plaintiff to reflect its appointment as receiver of Connecticut Bank and Trust Company, N.A. The defendants disclosed that they had no defenses to the plaintiff’s action and a judgment of strict foreclosure entered on May 6, 1991. The trial court found the debt as of the date of judgment to be $444,640.48 plus attorney’s fees of $3150 and costs of $3190.20. The law day was set for July 8,1991, and title to the property vested in the plaintiff on July 10, 1991.
+On July 16, 1991, the plaintiff filed a motion for a deficiency judgment. At the hearing, the plaintiff presented evidence, based on the leased fee method, that the property’s value on July 10, 1991, was $300,000. The defendants presented evidence, based on the fee simple method, that the property’s value on July 10, 1991, was $405,000. The court found the value of the property on July 10, 1991, to be $300,000. The court then rendered a deficiency judgment in the amount of $174,968.84 plus additional costs of $800.
+The defendants contend that the trial court improperly used the leased fee value of the property for the purposes of the deficiency judgment rather than the fee simple value of the property. The trial court’s memorandum of decision, however, does not contain any findings regarding the valuation technique it used in arriving at this figure. While it is true that the court’s conclusion coincides with the “leased fee” method, the court does not articulate its reason for arriving at such a figure. Thus, the factual basis for the court’s decision is unclear.
+“ ‘[W]hen a party seeks a further articulation of the factual basis of the trial court’s decision or the inclusion in the memorandum of decision of the trial court’s rulings on claims of law properly presented, he should file a motion with the trial court under Practice Book § [4051] setting forth the specific factual issues he seeks to have resolved and the claims of law he seeks to have included.’ ” Augeri v. Planning & Zoning Commission, 24 Conn. App. 172, 178, 586 A.2d 635, cert. denied, 218 Conn. 904, 588 A.2d 1383 (1991), quoting Pandolphe’s Auto Parts, Inc. v. Manchester, 181 Conn. 217, 222 n.5, 435 A.2d 24 (1980). “It is the responsibility of the appellant to provide an adequate record for review.” Practice Book § 4061; DeMilo v. West Haven, 189 Conn. 671, 681, 458 A.2d 362 (1983); Augeri v. Planning & Zoning Commission, supra. Under normal circumstances, this court will not remand a case to correct a deficiency the appellant should have remedied. Carpenter v. Carpenter, 188 Conn. 736, 739 n.9, 453 A.2d 1151 (1982); Scherr v. Scherr, 183 Conn. 366, 368, 439 A.2d 375 (1981); North Park Mortgage Services, Inc. v. Pinette, 27 Conn. App. 628, 632, 608 A.2d 714 (1992).
+In this case, the plaintiff failed to seek articulation as to the method employed by the court to determine the property’s value. The record is unclear as to which method of valuation the court utilized to ascertain that the value of the property on July 10,1991, was $300,000. Therefore, the record fails to provide an adequate basis for our review of the trial court’s findings. Under these circumstances, we have no basis on which to determine whether the trial court’s conclusions were proper. Urban v. Leggio, 1 Conn. App. 226, 228, 470 A.2d 1226 (1984). Without an adequate record on which to review the findings of the trial court, this court must assume that the trial court acted properly. Jacobsen v. Jacobsen, 177 Conn. 259, 267, 413 A.2d 854 (1979); Johnson v. Newell, 160 Conn. 269, 277, 278 A.2d 776 (1971); State v. James L., 26 Conn App. 81, 86, 598 A.2d 663 (1991).
+The judgment is affirmed.
+In this opinion the other judges concurred.
+The other defendants in this case are Robert Weintraub, Harry Cohn, 131 Dwight Street Associates, Jan E. Cohen, James Litchfield, Arnold Foster, Michael Freda, Jeffrey Berkowitz and Mario DiRenzo III.
+The trial court in its oral decision of August 12, 1991, stated: “I find the value of the property to be $300,000 allocating $125,000 to the land, $175,000 to the improvement thereon. I will find the valuation to be at the appropriate date, being the tenth day of July, 1991.” The trial court properly complied with Practice Book § 4059 by having its oral decision recorded and transcribed by a court reporter, and signing the transcript.
