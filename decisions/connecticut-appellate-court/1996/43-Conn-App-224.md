@@ -1,0 +1,31 @@
+---
+court: "Connecticut Appellate Court"
+docket: "14863"
+decided: "1996-09-24"
+citations: ["43 Conn. App. 224"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PETER DISCUILLO v. STONE AND WEBSTER ET AL."]
+source_url: "https://static.case.law/conn-app/43/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 792256
+cites_cases: ["227 Conn. 333", "235 Conn. 790", "237 Conn. 490", "31 Conn. App. 359", "33 Conn. App. 495", "624 A.2d 920", "630 A.2d 1027", "636 A.2d 392", "669 A.2d 1214", "677 A.2d 1356"]
+---
+
+# Discuillo v. Stone & Webster
+
+## Majority (LAVERY, J.)
+
+LAVERY, J.
+The plaintiff appeals from the judgment of the compensation review board (board) dismissing the plaintiffs claim for compensation benefits. On appeal, the plaintiff claims that the board improperly determined that the plaintiff failed to file a notice of claim in a timely manner as required by General Statutes (Rev. to 1981) § 31-294. We affirm the judgment of the board.
+The commissioner found the following facts. Prior to November 12,1982, the plaintiff was employed by the defendant, Stone & Webster, as a painter. The plaintiff s responsibilities required him to climb ladders and to work on scaffolding while carrying five gallon buckets of paint and heavy pneumatic grinding equipment. While working, the plaintiff was constantly watched by job supervisors who pressured the plaintiff and his coworkers to get work done within certain time constraints. The plaintiff testified that he was in constant fear of losing his job because of his inability to keep up with the speed at which younger coworkers accomplished the same work.
+On November 12, 1982, the plaintiff sustained a heart attack after working the entire day on scaffolding using a heavy grinding machine. The plaintiff has not worked since that date. The plaintiff did not relate the heart attack to job stress until September, 1984, when he read in a newspaper about a similar case. On September 27, 1984, the plaintiff filed a notice of claim that identified his injury as the November 12, 1982 heart attack while in the defendant’s employ. On October 22, 1984, the defendant filed a notice contesting the claim on the grounds that (1) the heart attack did not arise out of the employment and (2) the claim was barred by the § 31-294 time limitations.
+On December 13, 1993, the commissioner issued his findings and award. The commissioner found that the heart attack suffered by the plaintiff arose out of the course of his employment with the defendant and was caused by physical and mental stress while on the job, as well as arteriosclerotic heart disease. The commissioner also found that the plaintiff filed the notice of claim within one year of the date on which the plaintiff understood the causal relationship between the heart attack and the job stress. The commissioner concluded that the plaintiffs claim was not time barred under § 31-294.
+The board reversed the commissioner’s decision and concluded that the plaintiffs claim is barred by § 31-294. The board held that a heart attack is an accidental injury and not an injury that is the direct result of repetitive trauma and that notice of claim for a heart attack must be filed within one year of the attack to be timely. We agree with the board that the plaintiff has failed to file a notice of claim in a timely manner.
+“Our standard of review of the board’s determination is clear. ‘[T]he [board’s] hearing of an appeal from the commissioner is not a de novo hearing of the facts. Although the [board] may take additional material evidence, this is proper only if it is shown to its satisfaction that good reasons exist as to why the evidence was not presented to the commissioner. Otherwise, it is obliged to hear the appeal on the record and not retry the facts. . . . [T]he power and duty of determining the facts rests on the commissioner, the trier of facts. . . . The conclusions drawn by him from the facts found must stand unless they result from an incorrect application of the law to the subordinate facts or from an inference illegally or unreasonably drawn from them. . . .’ Six v. Thomas O’Connor & Co., [235 Conn. 790, 798-99, 669 A.2d 1214 (1996)].” Williams v. Best Cleaners, Inc., 237 Conn. 490, 500-501, 677 A.2d 1356 (1996).
+Our Supreme Court has concluded that the one year filing limitation of § 31-294 applies to both repetitive trauma and accidental injury claims. Crochiere v. Board of Education, 227 Conn. 333, 354-55, 630 A.2d 1027 (1993). It is settled law that the date of injury is either the last day of exposure to the work related incidents of repetitive trauma or the date of the accident. Id., 354. The last day of exposure is usually the last date of employment. Id., 353-54; see also Borent v. State, 33 Conn. App. 495, 499, 636 A.2d 392 (1994). In this case, the plaintiff failed to file a notice of claim within one year from the last date of employment, which was the day that he suffered the heart attack. Whether a heart attack is labeled an accidental injury or an injury resulting from repetitive stress is of no consequence in this case because the one year filing period began running on the last day of the plaintiffs employment. We do not address issues that are irrelevant to the disposition of the appeal. Housing Authority v. Olesen, 31 Conn. App. 359, 361, 624 A.2d 920 (1993). The board, therefore, properly concluded that the plaintiffs claim is barred by § 31-294.
+The decision of the compensation review board is affirmed.
+In this opinion the other judges concurred.
+General Statutes (Rev. to 1981) § 31-294 provides in pertinent part: “No proceedings for compensation under the provisions of this chapter shall be maintained unless a written notice of claim for compensation is given within one year from the date of the accident or within three years from the first manifestation of a symptom of the occupational disease, as the case may be, which caused the personal injury . . . .”
+The defendants in this case are Stone & Webster, Aetna Casualty and Surety Company and the second injury fund. For purposes of this appeal, we will refer to Stone & Webster as the defendant.
