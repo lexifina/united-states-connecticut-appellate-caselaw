@@ -1,0 +1,35 @@
+---
+court: "Connecticut Appellate Court"
+docket: "7199"
+decided: "1989-06-06"
+citations: ["18 Conn. App. 553"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Holly Holody v. First National Supermarkets, Inc."]
+source_url: "https://static.case.law/conn-app/18/cases/0553-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 742832
+cites_cases: ["185 Conn. 14", "185 Conn. 234", "190 Conn. 136", "4 Conn. App. 560", "440 A.2d 254", "440 A.2d 909", "459 A.2d 521", "495 A.2d 1106", "505 A.2d 1272", "505 A.2d 25", "6 Conn. App. 322", "6 Conn. App. 429"]
+---
+
+# Holody v. First National Supermarkets, Inc.
+
+## Majority (Dupont, C. J.)
+
+Dupont, C. J.
+The defendant appeals from a judgment rendered by the trial court upon the jury’s verdict for the plaintiff. The defendant claims that the trial court erred in denying its motions for a directed ver-diet, to set aside the verdict and for judgment notwithstanding the verdict.
+The defendant’s claim can be resolved by determining the sole issue of whether the jury could reasonably have found that the plaintiffs injuries were proximately caused by a breach of the duty of care owed to the plaintiff, a business invitee, by the defendant, its servants, agents and employees in that the defendant “caused, allowed and maintained the storage of . . . juice bottles to be placed in a dangerous position.”
+The plaintiff claims that this allegation does not require proof that the defendant had actual or constructive notice of the position of the bottles but that she need prove only that the defendant was negligent in creating the condition, namely, a particular display in which bottles were placed in a dangerous position.
+By contrast, the defendant argues that without any direct evidence to indicate how long the alleged unsafe condition had existed prior to the injuries sustained by the plaintiff, the defendant could not be found to have had constructive notice of the condition, and, therefore, the jury could not have found the defendant liable.
+The jury could reasonably have found that the plaintiff entered the Edwards Food Warehouse owned by the defendant to purchase groceries. The plaintiff intended to select a bottle of grapefruit juice from a display. The juice was displayed in cardboard boxes, stacked three boxes high, with their tops removed and a portion of the front of the boxes cut away. The plaintiff testified that she did not believe she could remove a bottle of grapefruit juice from the uppermost box because a bar ran horizontally across the front of the uppermost box near the top. She also testified that the box below the uppermost box, the middle box, was not full when she approached the juice display. Lastly, she testified that the cardboard dividers that separated the bottles of juice in the boxes had been removed. The plaintiff attempted to remove a bottle of juice from the middle box at which point five of the six bottles in the uppermost box fell, striking the plaintiff on the back of the head and causing her injury.
+A safety engineer testified that the modifications to the boxes, namely, the removal of the tops, the cutting away of a portion of the front of the boxes and the removal of the cardboard dividers, would cause the display to have no lateral rigidity at the top of the boxes and, if the bottles were removed from the middle box, while a box with bottles was stored on top, the entire three tier structure of boxes would be weakened.
+As a result of the incident, the plaintiff sustained soft tissue injuries including permanent partial disabilities of 10 percent of her lumbar spine and cervical spine. She was out of work from September 6,1984, through November 5, 1984, and thereafter worked half days through December 6,1984. She incurred medical bills of approximately $4000.
+At the close of the trial, the defendant moved for a directed verdict, a prerequisite to a motion for judgment notwithstanding the verdict. Practice Book § 321. The trial court granted the motion for a directed verdict with respect to other allegations of the complaint, leaving the plaintiffs allegation that the defendant’s negligence consisted of placing the juice bottles in a dangerous position. The jury returned a verdict of $56,000 for the plaintiff, reduced from $70,000 attributable to the plaintiff’s 20 percent contributory negligence. The defendant moved for judgment notwithstanding the verdict and moved to set aside the verdict. The court denied these motions and rendered judgment for the plaintiff.
+The defendant claims that there was no evidence that the defendant had constructive notice of the dangerous and unsafe manner in which the juice was displayed. The plaintiff does not dispute the lack of such evidence but claims that none was necessary in order to sustain the verdict in her favor.
+In determining whether the trial court erred in denying the defendant’s motions, “the evidence presented must be considered in the light most favorable to the plaintiffs. Herb v. Kerr, 190 Conn. 136, 140, 459 A.2d 521 (1983); Magnon v. Glickman, 185 Conn. 234, 237-38, 440 A.2d 909 (1981); see Zarrelli v. Barnum Festival Society, Inc., 6 Conn. App. 322, 326-27, 505 A.2d 25 (1986).” Schwarz v. Waterbury Public Market, Inc., 6 Conn. App. 429, 431-32, 505 A.2d 1272 (1986).
+This case does not depend on whether there were facts before the jury from which it could have inferred that the defendant had constructive notice of a defect. See DeLorenzo v. Great Atlantic & Pacific Tea Co., 4 Conn. App. 560, 562-63, 495 A.2d 1106 (1985). Instead, the concern is whether the plaintiff produced evidence from which the jury could infer and reasonably believe, in the exercise of common sense, that it was more probable than not that the defendant, without any intervening action by others, had placed juice bottles in a dangerous position, and that this placement was the proximate cause of the plaintiff’s injuries. See Frankovitch v. Burton, 185 Conn. 14, 23-24, 440 A.2d 254 (1981). This case does not involve the common situation of whether a foreign substance that allegedly caused injuries had existed on the floor of a defendant’s commercial premises for a length of time sufficient to charge a defendant with constructive notice of its existence. See, e.g., Schwarz v. Waterbury Public Market, Inc., supra.
+The jury could reasonably have found from the evidence submitted to it that the proximate cause of the plaintiffs injuries was the failure of the defendant to display the juice bottles in a safe manner.
+The defendant also urges that this court remand the case with an order that a remittitur be entered because the jury’s award was excessive. The verdict reflected the jury’s assessment of damages and must be sustained as long as it does not shock the sense of justice. Herb v. Kerr, supra, 139. It does not.
+There is no error.
+In this opinion the other judges concurred.
