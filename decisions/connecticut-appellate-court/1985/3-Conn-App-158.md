@@ -1,0 +1,34 @@
+---
+court: "Connecticut Appellate Court"
+docket: "2572"
+decided: "1985-01-15"
+citations: ["3 Conn. App. 158"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Juvenile Appeal (85-1)"]
+source_url: "https://static.case.law/conn-app/3/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 777112
+cites_cases: ["1 Conn. App. 226", "122 Conn. 578", "177 Conn. 648", "181 Conn. 292", "190 Conn. 412", "190 Conn. 491", "191 A. 536", "191 Conn. 266", "420 A.2d 875", "435 A.2d 345", "460 A.2d 1302", "461 A.2d 681", "464 A.2d 1", "470 A.2d 1226"]
+---
+
+# In re Juvenile Appeal (85-1)
+
+## Majority (Spallone, J.)
+
+Spallone, J.
+This appeal is from the trial court’s dismissal of a petition to revoke the commitment of a child to the department of children and youth services (hereinafter DCYS).
+The child in question, A, was born on August 9,1981. At that time, the child’s father resided with but was not married to the child’s mother. The father was an alcoholic and, although there was no evidence that he ever abused A, his drinking led to occasional episodes of domestic violence. In January, 1982, the father moved out of the house leaving the mother to raise and support A and A’s older sister.
+The mother’s subsequent inability to provide for A’s needs led to the child’s loss of weight and eventual hospitalization. The hospital reported A’s failure to thrive to the DCYS, and the DCYS petitioned, on February 19, 1982, for custody of the child pursuant to General Statutes § 46b-120. On June 1, 1982, by agreement of the parties, the court found A to be uncared for and placed him in the custody of the DCYS, which in turn placed him in foster care. On February 16,1983, the father filed a petition for revocation of commitment pursuant to General Statutes § 46b-129 (g). In the petition, he sought return of custody of the child alleging that he could provide “a good and stable home” for the child and that he no longer had any substance abuse problems.
+After the petitioner rested his case, the DCYS moved for a judgment of dismissal for failure to make out a prima facie case pursuant to Practice Book § 302. The trial court granted the motion and dismissed the petition. The central issue on appeal is whether the trial court’s dismissal of the petition was erroneous because it incorrectly placed the entire burden of proof in this proceeding on the petitioner.
+On a petition to revoke commitment, once the petitioner has submitted sufficient evidence to show that cause for commitment no longer exists, the burden shifts to the state to prove that it would not be in the best interests of the child to be returned to his or her natural parent. In re Juvenile Appeal (Anonymous), 177 Conn. 648, 659, 420 A.2d 875 (1979). The petitioner does not, as the court stated, bear a two-fold burden of proving, first, that cause for commitment no longer exists and, second, that returning the child to the custody of the natural parents would be in the child’s best interests.
+Whether the petitioner made out a prima facie case, presented a question of law for the court. Falker v. Samperi, 190 Conn. 412, 419, 461 A.2d 681 (1983). “The test is whether plaintiff’s evidence is sufficient, in point of law, to make out a prima facie case in his favor.” Ace-High Dresses, Inc. v. J.C. Trucking Co., 122 Conn. 578, 580, 191 A. 536 (1937). Although the court misstated the petitioner’s burden of proof, the record before us on appeal is insufficient for us to reverse on that ground.
+In ruling on the motion by DCYS for judgment of dismissal for failure to make out a prima facie case, the court stated “the petitioners . . . have not established all the prerequisites necessary in order to grant the petition at this point.” We cannot, by speculation, determine what the court meant by that statement. The court might have meant that the petitioner had failed to prove that cause for commitment no longer existed, and, therefore, that proof of the second element was not required. Or, it might have meant that the petitioner had made out a prima facie case as to the first prong of the test but, because of the court’s misreading of the law, had not made out a prima facie case as to the second.
+The court’s ambiguous expression of its decision on the motion for judgment of dismissal provides us with no firm basis on which to determine whether the trial court abused its discretion in granting that motion. Where the basis of the court’s decision is unclear, proper utilization of the motion for articulation serves to dispel any ambiguity by clarifying the factual and legal basis upon which the court rendered its decision. Barnes v. Barnes, 190 Conn. 491, 494, 460 A.2d 1302 (1983). The petitioner could have requested such clarification by moving for articulation pursuant to Practice Book § 3082, but he did not. Under these circumstances, we have no basis on which to find error. Urban v. Leggio, 1 Conn. App. 226, 228, 470 A.2d 1226 (1984).
+There is no error.
+In this opinion the other judges concurred.
+This appeal was originally filed in the Appellate Session of the Superior Court. General Statutes § 51-197a (c).
+The DCYS never took any action to seek custody of A’s sister.
+Although the petition was filed by the father, this appeal was filed jointly by the father and the mother, and pursued only by the mother. While the mother was never formally made a party to the proceedings, she was represented by counsel at trial and fully participated in all aspects of the hearing. The court specifically extended its decision on the motion for judgment of dismissal to the mother: “I suppose we treat [the petition] as a petition of both parents because the natural parents have intermarried now and although the petition is in the name of Mr. G., Mrs. G. joins in it . . . .” The mother is clearly a “[l]egal party at interest” in this matter who is entitled to proper legal notice as a condition precedent to the establishment of the court’s jurisdiction. Practice Book § 1023 (1). Pursuant to General Statutes § 46b-142 (b), which authorizes appeals in juvenile matters by “any party at interest aggrieved by any final judgment,” the mother has standing to bring this appeal. Cf. In re Juvenile Appeal (Anonymous), 181 Conn. 292, 435 A.2d 345 (1980).
+In ruling on a Practice Book § 302 motion, the court is bound to accept as true the evidence of the plaintiff and draw all reasonable inferences therefrom in favor of the plaintiff. Berchtold v. Maggi, 191 Conn. 266, 271, 464 A.2d 1 (1983). In view of the mother’s testimony at the trial, to wit, that she never had any difficulties caring for the child and that she would care for the child exactly as she had in the past, there is little doubt that the court’s granting of the motion finds ample support in the evidence.
