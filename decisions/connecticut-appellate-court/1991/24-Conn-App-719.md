@@ -1,0 +1,30 @@
+---
+court: "Connecticut Appellate Court"
+docket: "9146"
+decided: "1991-06-04"
+citations: ["24 Conn. App. 719"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William L. Johndrow et al. v. State of Connecticut"]
+source_url: "https://static.case.law/conn-app/24/cases/0719-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 751205
+cites_cases: ["15 Conn. App. 381", "172 Conn. 681", "175 Conn. 30", "18 Conn. App. 614", "181 Conn. 321", "204 Conn. 485", "209 Conn. 813", "3 Conn. App. 450", "33 Conn. Sup. 661", "364 A.2d 864", "366 A.2d 554", "392 A.2d 485", "435 A.2d 352", "488 A.2d 1293", "528 A.2d 826", "544 A.2d 673", "550 A.2d 1083", "559 A.2d 1163"]
+---
+
+# Johndrow v. State
+
+## Majority (Spallone, J.)
+
+Spallone, J.
+The plaintiffs, William L. Johndrow and Ila Johndrow, commenced suit against the state of Connecticut seeking to recover for injuries sustained by William Johndrow when a truck owned by the state collided with his motor vehicle. At the time of the accident, Johndrow was acting in the course of his employment with Nutmeg Piping Supply and Service, Inc. (Nutmeg). Johndrow and Nutmeg had executed workers’ compensation agreements that were approved by the workers’ compensation commissioner. Johndrow duly notified Nutmeg that he had commenced an action against the state. On August 25,1989, Hartford Accident and Indemnity Company (Hartford), which insured Nutmeg for its liability under the Workers’ Compensation Act, moved to intervene in the plaintiff’s suit as a plaintifff, which motion was granted on September 11, 1989.
+Subsequently, Hartford filed a motion to substitute the plaintiff’s employer, Nutmeg, as an intervening plaintiff in place of Hartford. The Johndrows moved to dismiss Hartford’s intervening complaint, alleging that Hartford had no standing to intervene because General Statutes § 31-293 grants the right of intervention in this case exclusively to the employer, and that the court lacked subject matter jurisdiction. The trial court agreed and struck Hartford’s intervening complaint. The court concluded that it lacked the power to grant or deny the relief requested, granted the motion to dismiss for lack of jurisdiction, and held that the motion to substitute was moot.
+Hartford and Nutmeg contend that the trial court improperly granted the plaintiffs’ motion to dismiss and improperly failed to consider the motion to substitute on its merits before granting the motion to dismiss. We disagree.
+Intervention, pursuant to the Workers’ Compensation Act, is controlled specifically and solely by § 31-293 (a). See, e.g., Skitromo v. Meriden Yellow Cab Co., 204 Conn. 485, 528 A.2d 826 (1987); Ricard v. Stanadyne, Inc., 181 Conn. 321, 435 A.2d 352 (1980); McClendon v. Soos, 18 Conn. App. 614, 559 A.2d 1163 (1989); Misiurka v. Maple Hill Farms, Inc., 15 Conn. App. 381, 544 A.2d 673, cert. denied, 209 Conn. 813, 550 A.2d 1083 (1988); Police Department v. Giordano, 3 Conn. App. 450, 488 A.2d 1293 (1985); Norwalk v. Van Dyke, 33 Conn. Sup. 661, 366 A.2d 554, cert. denied, 172 Conn. 681, 364 A.2d 864 (1976). That statute provides that “any employer having paid, or having become obligated to pay, compensation under the provisions of this chapter may bring an action against [the tortfeasor] to recover any amount that he has paid or has become obligated to pay as compensation to [an] injured employee. If . . . such employee . . . brings such an action against such third person, he shall . . . notify the [employer], in writing, by personal presentation or by registered or certified mail, of such fact and of the name of the court to which the writ is returnable, and [the employer] may join as a party plaintiff in such action within thirty days after such notification, and, if [the employer] fails to join as a party plaintiff, his right of action against such third person shall abate.” General Statutes § 31-293 (a).
+An insurance carrier does not constitute an employer for the purposes of intervention within the meaning of General Statutes § 31-293. McClendon v. Soos, supra, 618. Accordingly, Hartford does not constitute an employer under § 31-293 and never had a right to intervene in this action. It had no standing to pursue any cause of action under this section, or to file any motions pertaining thereto. Id.
+By failing to move for intervention in a timely fashion, Nutmeg also lost any right it may have had to intervene in this action. Once statutory notice has been given by the employee to the employer, the employer has thirty days to intervene or “his right of action against such third person shall abate.” (Emphasis added.) General Statutes § 31-293 (a). “Where a cause of action has been created by statute, strict compliance with the prescribed procedure has been deemed essential.” Norwalk v. Van Dyke, supra, 664. Nutmeg did not move to intervene in this action within thirty days of receiving notice of the suit. Accordingly, it lost its right to intervene.
+The trial court was also correct in not considering Hartford’s motion to substitute Nutmeg as intervenor. When the issue of subject matter jurisdiction is brought to the attention of the trial court, it must decide the question of jurisdiction before it proceeds any further with the case. Valley Cable Vision, Inc. v. Public Utilities Commission, 175 Conn. 30, 32, 392 A.2d 485 (1978). Having decided the issue of jurisdiction by holding that Hartford had no standing to intervene, the trial court correctly concluded that Hartford’s motion to substitute was moot and that it need not be considered on its merits.
+The judgment is affirmed.
+In this opinion the other judges concurred.
+We note Practice Book § 101 which contemplates a motion to substitute the plaintiffs where substitution “is necessary for the determination of the real matter in dispute.” The real issue disputed in this action is the defendant’s liability in tort and not the indemnification of another. Accordingly, this section does not apply to this case.
