@@ -1,0 +1,37 @@
+---
+court: "Connecticut Appellate Court"
+docket: "9450"
+decided: "1991-10-01"
+citations: ["26 Conn. App. 48"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Patrick Buster v. Commissioner of Correction David Pesquera v. Commissioner of Correction"]
+source_url: "https://static.case.law/conn-app/26/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 755518
+cites_cases: ["14 Conn. App. 457", "191 Conn. 27", "2 Conn. App. 355", "25 Conn. App. 543", "463 A.2d 566", "478 A.2d 623", "541 A.2d 531", "596 A.2d 463"]
+---
+
+# Buster v. Commissioner of Correction
+
+## Majority (O’Connell, J.)
+
+O’Connell, J.
+The petitioners, who are both sentenced prisoners in the defendant’s custody, appeal from the dismissal of their habeas corpus petitions. The dispositive issue is whether the habeas court properly dismissed the petitioners’ third amended petitions when they had failed to pursue an appeal from an earlier judgment in the same case. We affirm the decision of the habeas court.
+The following facts are relevant to this appeal. The petitions question the retroactive effect of Public Acts 1989, No. 89-383, §§ 1 and 13, which prohibit supervised home release for specified categories of prisoners. Original petitions filed on December 8, 1989, were amended on February 15,1990, and again on March 1, 1990. The commissioner moved to quash the second amended petitions on the ground that they did not state claims for relief that could be granted in a habeas corpus proceeding. Practice Book § 532.
+On April 5, 1990, the habeas court granted the motions to quash. The petitioners applied for certification to appeal, which was granted on April 30,1990. General Statutes § 52-470 (b). Instead of pursuing their appeals, however, the petitioners chose to obtain permission to file the third amended petitions. The April 5, 1990 judgments quashing the second petitions were never opened, vacated or set aside.
+Next, the commissioner filed motions to dismiss the third amended petitions on the ground that each was a successive petition brought on the same grounds as a previous petition that had been denied. Practice Book § 531. The court granted the motions and dismissed the petitions whereupon the petitioners again obtained certification to appeal, and this time followed through with the appeal that is now before this court. We affirm the decision of the habeas court.
+The commissioner argues that the court’s decision on the second amended petitions resulted in final judgments and that the petitioners’ remedy was to pursue their appeals from those final judgments. The habeas court’s thorough memorandum of decision concludes as follows: “[The] petitioners’ claims for relief cannot be raised by a petition in support of a writ of habeas corpus. Accordingly, the motion to quash is granted as to each petition.” It is from this decision that the petitioners obtained permission to appeal indicating that at that time they considered the decision a final judgment from which an appeal could properly be taken.
+It is well established that a court’s judgment is final and thus appealable in two circumstances: “(1) where the order or action terminates a separate and distinct proceeding, or (2) where the order or action so concludes the rights of the parties that further proceedings cannot affect them.” State v. Curcio, 191 Conn. 27, 31, 463 A.2d 566 (1983). The April 5,1990 decision in the present case clearly met both criteria.
+Accordingly, because the April 5 judgments were not opened, vacated or set aside, they remained valid judgments of the habeas court. The proper route for appellate review of that decision was via the appeal for which the petitioners had obtained certification. The petitioners’ attempt to bypass an appeal from the prior judgments by filing subsequent petitions under the same docket numbers does not affect the final judgment status of the April 5 judgments.
+It is important to note that we are not passing on the validity of the dismissal of the second amended petitions. The petitioners’ decision to abandon their appeal of the dismissal of the second amended petitions precludes our review of the merits of that decision. They cannot use the present appeal as a vehicle to restore their appellate rights as to the previously denied petitions. Nor may the habeas court’s granting of permission to file the third amended petitions provide this court with jurisdiction to review the merits of the dismissal of the second petitions.
+Unless a judgment is opened and set aside or vacated, it remains the final resolution of the parties’ dispute. Crozier v. Zaboori, 14 Conn. App. 457, 461, 541 A.2d 531 (1988). The petitioners did not move to open the April 5 judgments, but moved instead for permission to file amended petitions. The habeas court could not construe this pleading as meeting any of the requirements for a motion to open a judgment. The criteria for a court to open a judgment is analogous to the conditions needed for a petition for a new trial on grounds of newly discovered evidence. Shelton Sewer Authority v. DeFilippo, 2 Conn. App. 355, 361, 478 A.2d 623 (1984). “ ‘A party is entitled to a new trial on the ground of newly discovered evidence if such evidence is, in fact, newly discovered, will be material to the issue on a new trial, could not have been discovered and produced, on the trial which was had, by the exercise of due diligence, is not merely cumulative and is likely to produce a different result. . . . This rule is necessary, for without it there might never be an end to litigation. . . .’ ” Id. In the present case, the petitioners’ third amended petitions did not satisfy any of these conditions, and thus their motions to amend those petitions had no legal impact on the finality of the judgments dismissing the second amended petitions.
+Although we concur with the trial court’s dismissal of these petitions, they should have been dismissed for the reason that the petitioners’ remedy was an appeal of the April 5 judgments. This court may, however, affirm a trial court’s decision even though it is based on improper grounds if the same result is required by law. Brunswick v. Inland Wetlands Commission, 25 Conn. App. 543, 554, 596 A.2d 463 (1991).
+The judgment is affirmed.
+In this opinion the other judges concurred.
+The petitioners filed separate petitions in the habeas court, but because these cases involve an identical issue they have been consolidated on appeal.
+“[Practice Book] Sec. 532.—motion to quash
+“The sufficiency of the petition on which the writ was granted and the propriety of the issuance of the writ may be tested, before a return is filed, by a motion to quash. On such a motion the allegations of the petition are deemed admitted. The motion to quash is not a means by which to test the legal sufficiency of the facts alleged in a return or the answer to the return.”
+“[Practice Book] Sec. 531.—previous application; dismissal
+“If the petitioner has filed a previous application, it and the action taken thereon shall be summarily described in the pending application. If a previous application brought on the same grounds was denied, the pending application may be dismissed without hearing, unless it states new facts or proffers new evidence not reasonably available at the previous hearing.”
