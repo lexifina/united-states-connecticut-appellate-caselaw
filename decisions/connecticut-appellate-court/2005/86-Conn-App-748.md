@@ -1,0 +1,29 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 25080"
+decided: "2005-01-04"
+citations: ["86 Conn. App. 748"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GREG S. SCHUB v. DEPARTMENT OF SOCIAL SERVICES"]
+source_url: "https://static.case.law/conn-app/86/cases/0748-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4002628
+cites_cases: ["107 L. Ed. 2d 774", "110 S. Ct. 757", "191 Conn. 27", "212 Conn. 415", "253 Conn. 134", "261 Conn. 434", "265 Conn. 301", "265 Conn. 338", "268 Conn. 723", "42 U.S.C. § 1983", "463 A.2d 566", "493 U.S. 1036", "562 A.2d 1080", "749 A.2d 1147", "804 A.2d 152", "828 A.2d 542", "828 A.2d 549", "846 A.2d 831"]
+---
+
+# Schub v. Department of Social Services
+
+## Majority (LAVERY, C. J.)
+
+Opinion
+LAVERY, C. J.
+The defendant, the department of social services, appeals from trial court’s denial of its motion to dismiss the action of the plaintiff, Greg S. Schub, on sovereign immunity grounds. On appeal, the defendant argues that the court improperly held that the plaintiffs claims for money damages against the state were not barred by sovereign immunity. We agree with the defendant and, accordingly, reverse the ruling of the trial court.
+The following facts are relevant to the defendant’s appeal. The pro se plaintiff filed a complaint against the defendant, alleging that the defendant had violated a 1999 court order by seizing his bank account. The plaintiff alleged that the defendant’s actions violated his fourth, fifth and fourteenth amendment rights under the United States constitution and also caused him extreme emotional distress, mental anguish and pain and suffering. The plaintiff did not allege that he sought or received permission to bring this action from the claims commissioner. By way of relief, the plaintiff sought money damages in the amount of $2000. In response to the complaint, the defendant filed a motion to dismiss, contending that the plaintiffs claims were barred by sovereign immunity and, therefore, that the court lacked subject matter jurisdiction over the claims. The court denied the motion, stating in a handwritten decision: “Motion to dismiss denied at this time. Plaintiff appears to make claims under the United States constitution. What is the authority that sovereign immunity bars constitutional claims?” The defendant then filed the present appeal, arguing that sovereign immunity bars an action against the state seeking money damages.
+“A motion to dismiss . . . properly attacks the jurisdiction of the court, essentially asserting that the plaintiff cannot as a matter of law and fact state a cause of action that should be heard by the court.” (Internal quotation marks omitted.) Blumenthal v. Barnes, 261 Conn. 434, 442, 804 A.2d 152 (2002). “[T]he doctrine of sovereign immunity implicates subject matter jurisdiction and is therefore a basis for granting a motion to dismiss. ... A determination regarding a trial court’s subject matter jurisdiction is a question of law. When . . . the trial court draws conclusions of law, our review is plenary and we must decide whether its conclusions are legally and logically correct and find support in the facts that appear in the record.” (Citations omitted; internal quotation marks omitted.) Lagassey v. State, 268 Conn. 723, 736-37, 846 A.2d 831 (2004).
+“WOren a plaintiff brings an action for money damages against the state, he must proceed through the office of the claims commissioner pursuant to chapter 53 of the General Statutes, §§ 4-141 through 4-165. Otherwise, the action must be dismissed for lack of subject matter jurisdiction under the doctrine of sovereign immunity.” Prigge v. Ragaglia, 265 Conn. 338, 349, 828 A.2d 542 (2003). As the defendant correctly points out, this is the case even if the claims are brought pursuant to the United States constitution. See id., 338 (dismissing causes of action seeking money damages based on, inter alia, first, fourteenth amendments to United States constitution when permission not received from claims commissioner); Krozser v. New Haven, 212 Conn. 415, 422, 562 A.2d 1080 (1989) (42 U.S.C. § 1983 “does not abrogate the common law doctrine of sovereign immunity”), cert. denied, 493 U.S. 1036, 110 S. Ct. 757, 107 L. Ed. 2d 774 (1990).
+The plaintiff in this case sought money damages from the state. The plaintiff has not received permission from the claims commissioner to bring the action, nor has he pleaded a valid exception to the doctrine of sovereign immunity. We conclude, on the basis of our plenary review of the complaint, that the court improperly denied the defendant’s motion to dismiss, as this action is barred by sovereign immunity.
+The denial of the motion to dismiss is reversed and the case is remanded with direction to grant the motion to dismiss and to render judgment dismissing the complaint.
+In this opinion the other judges concurred.
+In addressing that claim, we note that the subject matter jurisdiction of this court is limited to final judgments. See General Statutes § 52-263. “An aggrieved party may appeal from a final judgment, except as otherwise provided by law.” Practice Book § 61-1. “The general rule is that the denial of a motion to dismiss is an interlocutory ruling and, therefore, is not a final judgment for purposes of appeal.” Shay v. Rossi, 253 Conn. 134, 164, 749 A.2d 1147 (2000), overruled in part on other grounds, Miller v. Egan, 265 Conn. 301, 325, 828 A.2d 549 (2003). The denial of a motion to dismiss, based on a colorable claim of sovereign immunity, however, constitutes an exception to the general rule of finality and is an immediately appealable final judgment pursuant to State v. Curcio, 191 Conn. 27, 31, 463 A.2d 566 (1983). See Shay v. Rossi, supra, 167.
