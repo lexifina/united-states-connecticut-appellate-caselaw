@@ -1,0 +1,36 @@
+---
+court: "Connecticut Appellate Court"
+docket: "9800"
+decided: "1991-12-31"
+citations: ["26 Conn. App. 317"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Connecticut Bank and Trust Company, Inc. v. Geoffrey J. Winters et al."]
+source_url: "https://static.case.law/conn-app/26/cases/0317-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 755376
+cites_cases: ["153 Conn. 457", "180 Conn. 491", "184 Conn. 386", "189 Conn. 685", "196 Conn. 451", "196 Conn. 579", "216 Conn. 820", "217 A.2d 694", "22 Conn. App. 640", "26 Conn. App. 322", "429 A.2d 946", "439 A.2d 1016", "457 A.2d 1076", "493 A.2d 229", "494 A.2d 573", "579 A.2d 545", "581 A.2d 1055", "600 A.2d 1048", "62 A. 345", "78 Conn. 442"]
+---
+
+# Connecticut Bank & Trust Co. v. Winters
+
+## Majority (Daly, J.)
+
+Daly, J.
+The defendant PaineWebber, Inc. (PaineWebber), appeals challenging the trial court’s decision denying a stay of proceedings and ordering the distribution of proceeds from a foreclosure sale. We affirm the judgment of the trial court.
+The plaintiff, Connecticut Bank and Trust Company (CBT), instituted a foreclosure action against the named defendant, Geoffrey J. Winters. A foreclosure sale was ordered. After satisfying the plaintiff’s debt, $506,565.85 remained for PaineWebber, Weatherly Securities and Union Trust Co., each a subsequent encumbrancer. PaineWebber’s claim had priority over those of the other encumbrancers.
+Initially, Union Trust argued that distribution of this fund should be delayed until the appeal in the related case of Paine Webber Jackson & Curtis, Inc. v. Winters was decided. If distribution was delayed, PaineWebber’s judgment lien could be reduced through a setoff of the underlying judgments in that action to establish equitable treatment of all creditors. PaineWebber opposed this setoff and sought an immediate distribution of the fund.
+Subsequently, this court issued a decision in the related case of Paine Webber Jackson & Curtis, Inc. v. Winters, 22 Conn. App. 640, 579 A.2d 545, cert. denied, 216 Conn. 820, 581 A.2d 1055 (1990). In that case, the trial court had rendered a judgment for $440,000 on PaineWebber’s complaint and a separate judgment for $440,000.18 on Winter’s counterclaim. This court upheld those awards and further directed the trial court to award PaineWebber prejudgment interest. Id. The amount of that interest was calculated to be approximately $260,000.
+Union Trust and Weatherly Securities again moved for a distribution of proceeds and for a setoff of the PaineWebber and Winters judgments. PaineWebber initially agreed to the distribution of proceeds and a setoff of the PaineWebber and Winters judgments’ for purposes of these foreclosure proceedings. Paine Webber’s agreement was conditioned on those judgments’ being set off against each other in Paine Webber Jackson & Curtis v. Winters, supra. PaineWebber’s motion for set off in that case was later denied by the trial court. In this case, the trial court ordered distribution of the $506,565.85 fund remaining from the foreclosure sale in the amounts of $260,000 to PaineWebber toward its $425,000 lien, $143,485.67 to Weatherly, and $103,080.18 to Union Trust toward its claim of $228,813.90. PaineWebber argues that the trial court should not have allowed the setoff reducing its claim to $260,000 in this case because there was no setoff allowed in Paine Webber Jackson & Curtis, Inc., v. Winters, supra. Had the trial court refused to allow the setoff in this case, the defendant would have been entitled to the full $425,000 of its lien toward its claim of $440,000 plus interest against Winters.
+I
+The first issue raised by the defendant is whether the trial court abused its discretion in refusing to grant a stay of proceedings pending the outcome of Paine Webber Jackson & Curtis, Inc. v. Winters, 26 Conn. App. 322, 600 A.2d 1048 (1991).
+The trial court has been “vested a large measure of discretion . . . in terminating or granting stays and, upon review, the issue usually is whether that discretion has been abused.” Griffin Hospital v. Commission on Hospitals & Health Care, 196 Conn. 451, 459, 493 A.2d 229 (1985). This court “must make every reasonable presumption in favor of the trial court’s decision” when reviewing a claim of abuse of discretion. Yanow v. Teal Industries, Inc., 196 Conn. 579, 583, 494 A.2d 573 (1985).
+The defendant’s motion to consolidate this case with Paine Webber Jackson & Curtis, Inc. v. Winters was denied by the trial court. Granting a stay would act to the detriment of junior encumbrancers because interest would run in favor of the senior encumbrancers. We find that the denial of the motion for stay did not constitute an abuse of discretion by the trial court.
+II
+The defendant next claims that the trial court abused its discretion by ordering a setoff in this case when it was not allowed in Paine Webber Jackson & Curtis, Inc. v. Winters, supra.
+Foreclosure, being an equitable action, permits the trial court to examine all matters to ensure that “complete justice may be done.” Hartford Federal Savings & Loan Assn. v. Lenczyk, 153 Conn. 457, 463, 217 A.2d 694 (1966). The trial court in a foreclosure action has broad discretion in determining whether to permit a foreclosure or to lessen the stated indebtedness. Hamm v. Taylor, 180 Conn. 491, 497, 429 A.2d 946 (1980). Thus, “[t]he determination of what equity requires in a particular case, the balancing of the equities, is a matter for the discretion of the trial court.” Kakalik v. Bernardo, 184 Conn. 386, 395, 439 A.2d 1016 (1981).
+The trial court in this case was not bound by the trial court’s denial of a motion for setoff in the Paine Webber Jackson & Curtis, Inc. v. Winters case. The motion for setoff in that case was dismissed because the complaint was not filed within the statutory period. Because the trial court did not reach the merits of the motion for setoff in that case, the court in this case was not bound by that decision. The defendant initially requested the trial court to order a setoff but now claims the court improperly allowed the setoff. A party “may not claim as error that which it has requested . . . nor may he challenge the court’s unequal distribution of the sale proceeds unless it was an abuse of discretion.” (Citations omitted.) LaCroix v. LaCroix, 189 Conn. 685, 688, 457 A.2d 1076 (1983). We find that the trial court’s order for distribution of proceeds in this case was not an abuse of discretion.
+In Betts v. Connecticut Life Ins. Co., 78 Conn. 442, 62 A. 345 (1905), an equitable proceeding involving the winding up of a corporation by receivership, our Supreme Court permitted a setoff even though the party had failed to file a complaint in accordance with the governing statutory procedures for the granting of a setoff. Id., 450-51. Betts further demonstrates the broad powers of the court in granting a setoff in an equitable action. Thus, even if the defendant incorrectly asked for a setoff, the trial court, exercising its equitable powers, could have ordered it without abusing its discretion.
+The judgment is affirmed.
+In this opinion the other judges concurred.
