@@ -1,0 +1,29 @@
+---
+court: "Connecticut Appellate Court"
+docket: "11570"
+decided: "1993-11-30"
+citations: ["33 Conn. App. 122"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tracy Fisher v. State of Connecticut"]
+source_url: "https://static.case.law/conn-app/33/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1329682
+cites_cases: ["19 Conn. App. 179", "190 Conn. 351", "190 Conn. 667", "190 Conn. 707", "202 Conn. 429", "210 Conn. 619", "212 Conn. 441", "213 Conn. 812", "214 Conn. 122", "224 Conn. 347", "227 Conn. 907", "31 Conn. App. 497", "460 A.2d 1290", "461 A.2d 1380", "462 A.2d 1037", "521 A.2d 578", "556 A.2d 596", "562 A.2d 1086", "562 A.2d 27", "568 A.2d 796", "571 A.2d 686", "618 A.2d 513", "626 A.2d 769", "632 A.2d 696"]
+---
+
+# Fisher v. State
+
+## Majority (Cretella, J.)
+
+Cretella, J.
+The petitioner was convicted, after a jury trial, of murder in violation of General Statutes § 53a-54a (a), conspiracy to commit murder in violation of General Statutes §§ 53a-48 (a) and 53a-54a (a), and assault in the first degree in violation of General Statutes § 53a-59 (a) (1). The judgment of conviction was sustained on appeal to the Supreme Court. State v. Fisher, 210 Conn. 619, 556 A.2d 596 (1989).
+Subsequent to the petitioner’s conviction, at the trial of his coconspirator, Michael Walker, the state called Dion Smith to testify as a rebuttal witness. At the time of the petitioner’s trial four months earlier, Smith could not be located to testify. Smith’s testimony conflicted with that of Lehman Brown, the state’s only eyewitness at the petitioner’s trial, who had testified that he observed the petitioner and his coconspirator commit the crimes of which they were convicted. Smith’s testimony prompted the petitioner to file a petition for a new trial, pursuant to General Statutes § 52-270 and Practice Book § 904, based on newly discovered evidence. Following an evidentiary hearing, the trial court denied the petition, ruling that the petitioner failed to meet his burden of proving the probability that the newly discovered evidence would change the result in a second trial. We agree.
+“The standard that governs the granting of a petition for a new trial based on newly discovered evidence is well established. The petitioner must demonstrate, by a preponderance of the evidence, that: (1) the proffered evidence is newly discovered, such that it could not have been discovered earlier by the exercise of due diligence; (2) it would be material on a new trial; (3) it is not merely cumulative; and (4) it is likely to produce a different result in a new trial.” Asherman v. State, 202 Conn. 429, 434, 521 A.2d 578 (1987); see also Kubeck v. Foremost Foods Co., 190 Conn. 667, 670, 461 A.2d 1380 (1983); Burr v. Lichtenheim, 190 Conn. 351, 355, 460 A.2d 1290 (1983). “This strict standard is meant to effectuate the underlying ‘equitable principle that once a judgment is rendered it is to be considered final,’ and should not be disturbed by posttrial motions except for a compelling reason.” Asherman v. State, supra, quoting Steve Viglione Sheet Metal Co. v. Sakonchick, 190 Conn. 707, 713, 462 A.2d 1037 (1983); see also Besade v. Interstate Security Services, 212 Conn. 441, 452, 562 A.2d 1086 (1989). “In determining the potential impact of new evidence, the trial court must weigh that evidence in conjunction with the evidence presented at the original trial.” Asherman v. State, supra; see also Kubeck v. Foremost Foods Co., supra, 669. “It is within the discretion of the trial court to determine, upon examination of all the evidence, whether the petitioner has established substantial grounds for a new trial, and the judgment of the trial court will be set aside on appeal only if it reflects a clear abuse of discretion.” Asherman v. State, supra; see also Kubeck v. Foremost Foods Co., supra, 670. The petitioner has not established such abuse.
+The petitioner seeks, by his petition for a new trial, to attack the credibility of a witness who identified him as a participant in the crime. He seeks a new trial to discredit Brown. It is within the province of the jury, as the trier of fact, to determine credibility and assess the weight to be accorded the evidence submitted. State v. Baldwin, 224 Conn. 347, 364, 618 A.2d 513 (1993); State v. Battista, 31 Conn. App. 497, 505, 626 A.2d 769, cert. denied, 227 Conn. 907, 632 A.2d 696 (1993); State v. Reyes, 19 Conn. App. 179, 191, 562 A.2d 27 (1989), cert. denied, 213 Conn. 812, 568 A.2d 796 (1990). The jury in this case had ample opportunity to observe the conduct, demeanor and attitude of the witnesses and to assess their credibility at trial. By convicting the petitioner, the jury accepted the testimony of three witnesses who identified the petitioner as a participant in the crime. It is not the function of the trial court, on a petition for a new trial, to consider whether the jury was correct in its evaluation of the credibility of witnesses.
+New trials are not granted upon newly discovered evidence that discredits a witness unless the evidence is so vital to the issues and so strong and convincing that a new trial would probably produce a different result. Burr v. Lichtenheim, supra. The trial court reviewed and considered all of the evidence including the impact of Smith’s testimony in the Walker trial. Such review was well within the discretion of the trial court, which properly concluded that the evidence was not so compelling as to warrant a new trial.
+The judgment is affirmed.
+In this opinion the other judges concurred.
+A jury convicted Walker of murder in connection with the same incident. The Supreme Court sustained Walker’s conviction. State v. Walker, 214 Conn. 122, 571 A.2d 686 (1990).
+Lehman Brown is also known as Landon Brown.
