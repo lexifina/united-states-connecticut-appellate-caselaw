@@ -1,0 +1,35 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 21165"
+decided: "2001-11-27"
+citations: ["67 Conn. App. 134"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN MAHONEY v. BILL MANN TREE SERVICE, INC., ET AL."]
+source_url: "https://static.case.law/conn-app/67/cases/0134-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 260633
+cites_cases: ["258 Conn. 930", "65 Conn. App. 46", "782 A.2d 141", "783 A.2d 1029"]
+---
+
+# Mahoney v. Bill Mann Tree Service, Inc.
+
+## Majority (O’CONNELL, J.)
+
+Opinion
+O’CONNELL, J.
+The plaintiff appeals from the decision of the workers’ compensation review board (board) affirming the finding and the dismissal of the plaintiffs claim by the workers’ compensation commissioner (commissioner). The plaintiff claims that the commissioner improperly (1) failed to find admitted facts regarding compensability, (2) limited the scope of the formal hearing decision and (3) failed to allow the introduction of a medical report into evidence. We affirm the board’s decision.
+The following facts and procedural history are relevant to our resolution of this appeal. On April 19, 1993, the plaintiff, an employee of the named defendant Bill Mann Tree Service, Inc., sustained injuries that gave rise to a workers’ compensation claim. Following his injury, the plaintiff was treated by Frank J. Forte, a chiropractor. At the defendant’s request, the plaintiff was examined on May 16, 1994, by L. Ronald Homza, a physician specializing in physical medicine and rehabilitation. On March 23, 1995, after formal hearings, Commissioner John A. Arcudi rendered a finding and award in which he found a 5 percent permanent partial disability of the plaintiffs cervical spine on the basis of Homza’s medical report. The commissioner also found that the plaintiff had not proven that Forte’s treatment was for conditions causally related to his injury.
+The plaintiff appealed to the board, claiming that Homza’s report had not been admitted into evidence and, therefore, there was no basis for a finding of any permanent partial disability. On October 4, 1996, the board agreed that Homza’s report had not been introduced into evidence and remanded the case for further proceedings. Commissioner Leonard S. Paoletta heard the matter on remand, and issued a finding and dismissal on July 29, 1999. The plaintiff appealed from that decision to the board. On August 10, 2000, the board affirmed Commissioner Paoletta’s finding and dismissal, and the plaintiff brought this appeal.
+Before addressing the merits of the plaintiffs claims, we first set forth our standard of review for workers’ compensation appeals. “The commissioner is the sole trier of fact and [t]he conclusions drawn by [the commissioner] from the facts found must stand unless they result from an incorrect application of the law to the subordinate facts or from an inference illegally or unreasonably drawn from them. . . . The review [board’s] hearing of an appeal from the commissioner is not a de novo hearing of the facts. . . . [I]t is [obligated] to hear the appeal on the record and not retry the facts. ... On appeal, the board must determine whether there is any evidence in the record to support the commissioner’s findings and award. . . . Our scope of review of [the] actions of the [board] is [similarly] . . . limited. . . . [However,] [t]he decision of the [board] must be correct in law, and it must not include facts found without evidence or fail to include material facts which are admitted or undisputed.” (Internal quotation marks omitted.) Pantanella v. Enfield Ford, Inc., 65 Conn. App. 46, 52-53, 782 A.2d 141, cert. denied, 258 Conn. 930, 783 A.2d 1029 (2001).
+First, the plaintiff claims that Commissioner Paoletta improperly failed to find uncontested or admitted facts regarding compensability. Specifically, the plaintiff argues that Commissioner Arcudi found that there was a compensable injury and, on remand, Commissioner Paoletta had only Forte’s report from which to make his determination of a percentage of disability. We do not agree.
+Commissioner Arcudi based his finding of a 5 percent permanent partial disability on Homza’s report. The board and Commissioner Paoletta determined that the report had not been admitted into evidence and, therefore, Commissioner Arcudi’s reliance on it was improper. Furthermore, Commissioner Arcudi had properly refused to rely on Forte’s report because Forte’s treatment was not causally related to the injury. Accordingly, there was no finding remaining from Arcudi’s report that Paoletta was required to follow.
+The plaintiff next claims that Commissioner Paoletta improperly limited the scope of his formal hearing decision. This claim has no merit.
+Commissioner Paoletta, in his finding and dismissal, stated the issue on remand as follows: “Whether Dr. Homza, who served as an independent medical examiner, establishes in his deposition sufficient corroboration of his medical report with respect to permanent partial disability of the [plaintiffs] cervical spine.” In its memorandum of decision, the board stated: “[The plaintiff] suggests that the trier improperly limited the scope of the issues before him in dismissing the instant claim. When this board issued its remand order, it was our expectation that the trial commissioner would review the record as it existed at the time of the original finding and award. We presumed that he would consider (a) whether the circumstances warranted the admission of Dr. Homza’s report into evidence and then (b) whether he found any of the evidence persuasive enough to establish the existence of a permanent partial impairment to the cervical spine.”
+On the basis of our review of the record, we conclude that the commissioner properly limited the scope of the issues in conformity with the board’s remand.
+Finally, the plaintiff claims that the commissioner improperly failed to allow the introduction into evidence of Homza’s report. We are not persuaded. The record is replete with references to the fact that Homza’s report was never admitted into evidence despite ample opportunity to do so. The report was not offered into evidence in the first hearing or on remand. In the hearing on remand, the plaintiff had Homza’s deposition admitted as an exhibit, but, as the board noted in its memorandum of decision, the deposition contained no specific assignment of a permanent partial impairment percentage.
+We agree with the board that because Homza’s report remained outside of the record and his deposition contained no permanency rating, the commissioner properly decided that the plaintiff had not satisfied his burden of proof.
+The decision of the workers’ compensation review board is affirmed.
+In this opinion the other judges concurred.
+The second injury fund also was named as a defendant. Only Bill Mann Tree Service, Inc., filed a brief in this court. We therefore refer to Bill Mann Tree Service, Inc., as the defendant.
