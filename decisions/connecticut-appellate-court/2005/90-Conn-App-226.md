@@ -1,0 +1,144 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 22239"
+decided: "2005-07-19"
+citations: ["90 Conn. App. 226"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF CONNECTICUT v. MARC SINVIL"]
+source_url: "https://static.case.law/conn-app/90/cases/0226-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3751386
+cites_cases: ["111 S. Ct. 523", "111 S. Ct. 535", "112 L. Ed. 2d 534", "112 L. Ed. 2d 545", "116 S. Ct. 1837", "134 L. Ed. 2d 940", "213 Conn. 233", "235 Conn. 908", "252 Conn. 920", "253 Conn. 280", "253 Conn. 296", "254 Conn. 935", "260 Conn. 935", "264 Conn. 916", "266 Conn. 903", "267 Conn. 907", "267 Conn. 918", "268 Conn. 921", "270 Conn. 516", "270 Conn. 529", "28 U.S.C. § 1827", "38 Conn. App. 661", "498 U.S. 986", "498 U.S. 991", "517 U.S. 1214", "55 Conn. App. 544", "567 A.2d 823", "59 Conn. App. 282", "664 A.2d 773", "665 A.2d 903", "69 Conn. App. 267", "740 A.2d 868", "744 A.2d 439", "75 Conn. App. 181", "75 Conn. App. 191", "750 A.2d 1059", "755 A.2d 984", "76 Conn. App. 761", "761 A.2d 757", "78 Conn. App. 141", "794 A.2d 565", "80 Conn. App. 26", "80 Conn. App. 703", "802 A.2d 88", "81 Conn. App. 26", "815 A.2d 694", "821 A.2d 813", "826 A.2d 1160", "826 A.2d 1183", "832 A.2d 1187", "832 A.2d 65", "836 A.2d 1242", "838 A.2d 243", "840 A.2d 1171", "841 A.2d 1192", "846 A.2d 882", "853 A.2d 105", "871 F.2d 1564", "896 F.2d 1303", "899 F.2d 1324", "899 F.2d 1348", "960 F.2d 1128"]
+---
+
+# State v. Sinvil
+
+## Majority (FLYNN, J.)
+
+Opinion
+FLYNN, J.
+This criminal appeal returns to this court on remand from our Supreme Court; State v. Sinvil, 270 Conn. 516, 530, 853 A.2d 105 (2004); for resolution of the remaining claims of the defendant, Marc Sinvil. The defendant was convicted, following a jury trial, of sexual assault in the fourth degree in violation of General Statutes § 53a-73a and unlawful restraint in the second degree in violation of General Statutes § 53a-96. In addition to claims of prosecutorial misconduct, with which we agreed but were reversed by our Supreme Court, the defendant claims that his right to a fair trial was violated (1) by the failure of a court interpreter to interpret testimony properly for the jury and (2) by the court’s failure to conduct an adequate inquiry into a juror’s assertion that he might know the defendant. We disagree and, thus, affirm the judgment of the trial court.
+The facts underlying the defendant’s conviction were set out at length in State v. Sinvil, 76 Conn. App. 761, 821 A.2d 813 (2003), rev’d, 270 Conn. 516, 530, 853 A.2d 105 (2004). “The defendant and the victim’s husband, B, had been friends for several years. The defendant came to know the victim, A, through his relationship with B. All three were originally from Haiti. After having known each other for several years, the defendant and A’s family moved to Norwich at approximately the same time. The friendship between the defendant and B was such that B gave the defendant a key to his family’s apartment. The defendant would visit B almost every day. The defendant and B would play cards together at B’s apartment, and the defendant frequently had meals there. Using the key given to him, the defendant also would spend time at his friend’s apartment even when B and A were not there.
+“In time, both the defendant and B obtained jobs at Foxwoods Casino. The defendant worked as a bus driver, and his scheduled working hours were generally from 4 p.m. until approximately midnight. B worked in a different department and usually was scheduled to work until 2 a.m.
+“A and the defendant were the two principal witnesses at trial. A testified that at approximately 12:30 a.m. on September 28, 1999, she was sleeping alone in the bedroom she shared with B, while her two sons were sleeping in an adjacent bedroom. A testified that she awoke to find somebody behind her in bed. At first, she believed it to be B, but she turned and discovered that it was the defendant. According to her, she and the defendant struggled, during which time the defendant told her that he loved her and he wanted to have sex with her. She related that the defendant held her hands down as he touched her under her nightgown. At some point, A could feel the defendant becoming aroused. A managed to calm the defendant, and she was able to get to her bathroom and lock herself inside. The defendant stayed for a short time, calling to A from outside of the bathroom, but he eventually left. When B got home from work at approximately 2:30 a.m., A did not tell him what had happened that night.
+“Approximately two days later, after speaking about the incident with two coworkers and B, A did contact the police. The defendant was arrested and charged with sexual assault in the fourth degree and unlawful restraint in the second degree.
+“The defendant testified on his own behalf at trial. According to the defendant, he and A had engaged in a continuing consensual extramarital sexual affair over several months. The defendant testified that A and B argued frequently, and that she had turned to their mutual friend, the defendant, for comfort. He claimed that the incident of September 28 was actually a consensual sexual encounter which began in A’s kitchen, where she met the defendant that night, and proceeded to the bedroom. At trial, the defendant maintained that A had accused him of attacking her to protect her reputation in the community.” Id., 763-64.
+The jury found the defendant guilty of sexual assault in the fourth degree and unlawful restraint in the second degree. Id., 765. Following the verdict, the court sentenced the defendant to a total effective term of two years imprisonment, execution suspended after eight months, with five years probation. The defendant appealed to this court. This court reversed the judgment of conviction on the basis of the defendant’s claim of prosecutorial misconduct. Our Supreme Court granted the state’s petition for certification to appeal; State v. Sinvil, 264 Conn. 916, 826 A.2d 1160 (2003); and subsequently reversed the judgment of this court. Although the Supreme Court concluded that the prosecutor did engage in misconduct, it, nevertheless, held that the misconduct did not deprive the defendant of his due process right to a fair trial. State v. Sinvil, supra, 270 Conn. 529. The case has now been remanded to this court to consider the defendant’s remaining claims. Id., 530. Insofar as the defendant’s remaining claims are unpreserved, he seeks review pursuant to State v. Golding, 213 Conn. 233, 239-40, 567 A.2d 823 (1989). We review the claims under Golding because we conclude that the record is adequate for review and the claims are of constitutional magnitude.
+I
+The defendant claims that he was deprived of a fair trial by the failure of a court interpreter to interpret testimony properly for the jury. The defendant argues that “the interpreter consistently fell far short of the required continuous, word for word translation standard . . . and [he] frequently interjected his own commentary on the testimony of the witnesses.” The state responds that “the record reveals that the trial court, sua sponte, recognized a potential problem with the interpreter and immediately took what it believed to be appropriate corrective measures. The defendant’s silence indicates his satisfaction with and his acceptance of the court’s handling of the matter.” Further, the state argues, the defendant is not entitled to Golding review on this issue because “[b]y acquiescing in the trial court’s ruling, the defendant has waived the issue for appellate review.”
+We will review the defendant’s claim, but agree with the state that the defendant waived his claim at trial. Therefore, the defendant is unable to satisfy the third prong of Golding, which requires that a constitutional violation clearly exist and that it clearly denied the defendant a fair trial. See State v. Wyatt, 80 Conn. App. 703, 708, 710, 836 A.2d 1242 (2003), cert. denied, 267 Conn. 918, 841 A.2d 1192 (2004); State v. Arluk, 75 Conn. App. 181, 191-92, 815 A.2d 694 (2003); State v. Cooper, 38 Conn. App. 661, 676, 664 A.2d 773, cert. denied, 235 Conn. 908, 665 A.2d 903 (1995), cert. denied, 517 U.S. 1214, 116 S. Ct. 1837, 134 L. Ed. 2d 940 (1996).
+The defendant, although arguing on appeal that there were frequent lapses on the part of the interpreter, did not raise these objections before the trial court. Rather, the court, upon recognizing an inconsistency between the length of a witness’ answer and its interpretation, sua sponte, spoke with the interpreter and explained to him the he must report fully the witness’ answer. The court also offered defense counsel the opportunity to ask his questions again, which seemed to satisfy defense counsel. Upon review of the transcript, our attention is called to the following colloquy, which is referenced both by the state and the defendant in their appellate briefs:
+“[Defense Counsel]: Was it your opinion that [the defendant] and your wife were very good friends?
+“[B]: Yes.
+“[Defense Counsel]: On occasion, would [the defendant] kiss your wife on the cheek to show affection when they met?
+“[B]: No.
+“[The Interpreter]: He say, no.
+“[Defense Counsel]: He would never kiss her—
+“The Court: Excuse me. All right. I see a lot of conversation going on and then you come out with—
+“[The Interpreter]: The reason — sometime he doesn’t answer the question.
+“The Court: Okay.
+“[The Interpreter]: He say something else.
+“The Court: Okay.
+“[The Interpreter]: Like he — he make details. And you said, ‘Don’t make details.’ He should answer—
+“The Court: Well, no, no, no, no. You can’t — On these types of things he can make details.
+“[The Interpreter]: Okay.
+“The Court: And then what happens is, if he’s making details that have nothing to do with the questions, I expect the state’s attorney will stand up and say, ‘Nonresponsive.’
+“[The Interpreter]: Okay. Okay.
+“The Court: We need to know what he said.
+“[The Interpreter]: Okay.
+“The Court: Okay?
+“[The Interpreter]: Yes. Thank you. Thank you. . . .
+“[B]: Can — can I speak English one say?
+“The Court: Okay.
+“[B]: I said, ‘I never, never, on my life, nothing come on my — on my — on my brain. See. I [trust the defendant] is something together with my wife. I never, never, in my life — never—
+“The Court: All right. That’s responsive.
+“[Defense Counsel]: Well, that wasn’t — the question was — that wasn’t the question. The question was whether—
+“[The Court]: You asked, ‘What do you think the opinion of their relationship was?’ He just answered it.
+“[Defense Counsel]: Well, I thought I just — that wasn’t the question — there was the kiss — was the question of whether or not—
+“The Court: Well, he’s answering. There was a lot of discussion — all right. I want it clear on the record. I asked the interpreter what had been said, because the question before, there was a lot said and it came out ‘No,’ and then this question again. So, now, the witness has elaborated upon what he said. Okay? Yes, Ma’am?
+“[The Standby Intexpreter]: Do you want—
+“The Court: You’ve got something—
+“[The Standby Interpreter]: Do you want me to just— I could tell you what he — what he just said. It was— All he said — I could tell you—
+“The Court: Wait a minute. Wait a minute. Wait a minute. Now I got two interpreters. You have to interpret for him what was said—
+“[The Standby Interpreter]: Okay.
+“[Defense Counsel]: What if we have two contrary interpretations?
+“The Court: Well—
+“[The Interpreter]: There’s — There’s a little bit different between what he’s saying and what [the witness] ask.
+“The Court: All right. So, I need to know — I need to know from you because you’re interpreting for him—
+“[The Interpreter]: Yes.
+“The Court: — what he — everything that he is saying. The ladies and gentlemen of the jury should be hearing everything he has said. If it’s something that’s nonresponsive to the question, then it’s the obligation of the state to object. But if he says something, say it. Okay?
+“[The Interpreter]: Okay. Thank you.
+“[Defense Counsel]: Okay.
+“[Defense Counsel]: My question was—
+“The Court: And I allow [defense counsel], if he wants, to go over those questions again, I will allow it, because of what has occurred, more specifically, now. I didn’t notice it happening yesterday, and I want that on the record. And as soon as I saw it happen two times in a row today, I inquired about it. Okay. And that’s for the purpose of the record later on if anybody wants to know what’s going on. No other reason.”
+The defendant complains that the interpreter’s failure to provide word for word translation deprived him of a fair trial. In discussing the requirements of the Court Interpreters Act, 28 U.S.C. § 1827, which “requires that interpreters used in proceedings instituted by the United States be certified or otherwise qualified”; United States v. Huang, 960 F.2d 1128, 1135 (2d Cir. 1992); the United States Court of Appeals for the Second Circuit explained: “As a substantive matter, the [Court Interpreters] Act generally requires continuous word for word translation. United States v. Joshi, 896 F.2d 1303, 1309 (11th Cir.), [cert. denied sub nom. Panchal v. United States], 498 U.S. 986, 111 S. Ct. 523, 112 L. Ed. 2d 534 (1990); see also H.R. No. 1687, 95th Cong., 2d Sess. 7-8, reprinted in 1978 U.S. Code Cong. & Admin. News 4652, 4658-59 (committee prefers ‘consecutive’ translation mode over ‘summary mode’). The giving of summaries rather than word-for-word translation . . . does not automatically require reversal. See, e.g., United States v. Joshi, [supra] 1309; Valladares v. United States, 871 F.2d 1564, 1565-66 (11th Cir. 1989). Objections to the adequacy of translation may be waived, United States v. Villegas, [899 F.2d 1324, 1348 (2d Cir.), cert. denied, 498 U.S. 991, 111 S. Ct. 535, 112 L. Ed. 2d 545 (1990)], and the ultimate question is whether the translator’s performance has rendered the trial fundamentally unfair, United States v. Joshi, [supra, 1309]; Valladares v. United States, [supra, 1566].” (Internal quotation marks omitted.) United States v. Huang, supra, 1135-36.
+“Our resolution of [this] issue is guided by this court’s analysis in State v. Arluk, [supra, 75 Conn. App. 191-93]. See also State v. Hersey, 78 Conn. App. 141, 157, 826 A.2d 1183, cert. denied, 266 Conn. 903, 832 A.2d 65 (2003). The court in Arluk relied on State v. Cooper, [supra, 38 Conn. App. 661], and stated that [w]e are mindful that in the usual Golding situation, the defendant raises a claim on appeal which, while not preserved at trial, at least was not waived at trial. . . . State v. Arluk, supra, 192. [In Cooper], we held that a defendant could not satisfy the third prong of Golding where he had implicitly waived at trial a challenge to the alleged constitutional deprivation that was the basis of his claim on appeal. Therefore, a defendant cannot prevail under Golding on a claim that he implicitly waived at trial.” (Internal quotation marks omitted.) State v. Robinson, 81 Conn. App. 26, 31, 838 A.2d 243, cert. denied, 268 Conn. 921, 846 A.2d 882 (2004); see State v. Tate, 59 Conn. App. 282, 285, 755 A.2d 984 (“defendant must avail himself of the opportunity to make an objection and if he does not avail himself of the opportunity, he must be holden to a waiver of the objection” [internal quotation marks omitted]), cert. denied, 254 Conn. 935, 761 A.2d 757 (2000). “Like other complaints about the conduct of trial, a challenge to the competence of the interpreter may be waived if not raised in timely fashion.” United States v. Villegas, supra, 899 F.2d 1348.
+Here, the defendant’s claim fails to satisfy the third prong of Golding because we conclude that the defendant waived his claim when he raised no objection to the court’s immediate attempt to cure any lack of translation by instructing the interpreter and by offering defense counsel the opportunity to requestion the witness. Defense counsel also did not move for a mistrial, nor did he ever specifically object to the interpreter’s translation, despite the defendant’s knowledge of the Creole language, the availability of the standby interpreter, who was translating for the defendant, and the defendant’s own ability to understand the answers of the witness. “Only if the defendant makes any difficulty with the inteipreter known to the court can the judge take corrective measures. To allow a defendant to remain silent throughout the trial and then, upon being found guilty, to assert a claim of inadequate translation would be an open invitation to abuse.” (Internal quotation marks omitted.) Id. Because the defendant implicitly waived his constitutional claim at trial by failing to object to the interpreter’s translation or to the court’s attempt to cure any deficiency on the part of the interpreter, the defendant cannot satisfy the third prong of Golding, and his claim, therefore, must fail.
+II
+The defendant next claims that his right to a fair trial was violated by the court’s failure to conduct an adequate inquiry into a juror’s assertion that he might know the defendant. The defendant argues that after the juror informed the court that he thought he may have worked with the defendant at Foxwoods Casino, “the court . . . failed to inquire whether the juror could be fair and impartial, and whether his thoughts and feelings would affect his ability to render a fair verdict in the trial . . . .” The state argues that the court conducted an adequate inquiry and that this is demonstrated by the state’s and the defendant’s acquiescence to the level of inquiry and their failure to request that the court conduct a more in-depth inquiry. We agree with the state.
+At the conclusion of the first day of trial, a juror requested to speak to the prosecutor. The court explained to the juror that he was not allowed to do that and instructed him to speak to the judicial marshal in the courtroom. After the juror privately spoke with the judicial marshal, the following colloquy occurred:
+“[The Judicial Marshal]: He feels he may have worked with the defendant in the past, but he’s not sure.
+“The Court: That’s what I wanted to know. That’s— that’s what we wanted to know.
+“[The Judicial Marshal]: Do you want him out?
+“The Court: Bring him out.
+“[The Judicial Marshal]: Okay, sir. Come out, please.
+“The Court: All right, sir. With the defendant?
+“[The Juror]: Yes. I know the defendant, I think, sir.
+“The Court: How do you know him?
+“[The Juror]: He — I worked with him at Foxwoods.
+“The Court: How well did you know him?
+“[The Juror]: Well, he worked in the same department, if it’s who I think it is. I mean, I’m sitting here looking and looking, and I — if he worked in the audiovisual department or entertainment, then I know him.
+“The Court: Do you work in audio-visual or entertainment?
+“[The Defendant]: No. I’m a bus driver.
+“The Court: Bus driver. He can’t be the same person.
+“[The Defendant]: And — and then now I try for—
+“The Court: Okay. That’s all I need to know.
+“[The Defendant]: All right.
+“The Court: Wrong person.
+“[The Juror]: It’s too much of a likeness.
+“The Court: Just put it completely out of your mind. You’re all excused for the day.”
+Neither the defendant nor the state objected, nor did either request that the court inquire further of the juror.
+We first set forth the principles that guide our review of the defendant’s claim. “To ensure that the jury will decide the case free from external influences that might interfere with the exercise of deliberate and unbiased judgment ... a trial court is required to conduct a preliminary inquiry, on the record, whenever it is presented with information tending to indicate the possibility of juror misconduct or partiality.” (Citation omitted; internal quotation marks omitted.) State v. Mukhtaar, 253 Conn. 280, 296, 750 A.2d 1059 (2000).
+“Jury impartiality is a core requirement of the right to trial by jury guaranteed by the constitution of Connecticut, article first, § 8, and by the sixth amendment to the United States constitution. . . . [An] accused [is entitled to] a fair trial by a panel of impartial, indifferent jurors. . . . The modem jury . . . determines the case solely on the basis of the evidence and arguments. . . . [These] rules . . . assure that the jury will decide the case free from external influences . . . .” (Internal quotation marks omitted.) State v. Portee, 55 Conn. App. 544, 565-66, 740 A.2d 868 (1999), cert. denied, 252 Conn. 920, 744 A.2d 439 (2000).
+“Any assessment of the form and scope of the inquiry that a trial court must undertake when it is presented with allegations [or the possibility] of jury [bias or] misconduct will necessarily be fact specific. . . . We [therefore] have limited our role, on appeal, to a consideration of whether the trial court’s review of alleged [or possible] jury misconduct can fairly be characterized as an abuse of its discretion. . . . Although we recognize that trial [c]ourts face a delicate and complex task whenever they undertake to investigate [the possibility] of juror misconduct or bias ... we nevertheless have reserved the right to find an abuse of discretion in the highly unusual case in which such an abuse has occurred. . . . Ultimately, however, [t]o succeed on a claim of [juror] bias the defendant must raise his contention of bias from the realm of speculation to the realm of fact.” (Citations omitted; internal quotation marks omitted.) State v. Mukhtaar, supra, 253 Conn. 296-97.
+“[A] trial court should consider the following factors in exercising its discretion as to the form and scope of a preliminary inquiry into allegations [or the possibility] of jury misconduct [or bias]: (1) the criminal defendant’s substantial interest in his constitutional right to a trial before an impartial juiy; (2) the risk of deprivation of the defendant’s constitutional right to a trial before an impartial jury, which will vary with the seriousness and the credibility of the allegations of jury misconduct; and (3) the state’s interests of, inter alia, jury impartiality, protecting jurors’ privacy and maintaining public confidence in the jury system. . . .
+“Consequently, the trial court has wide latitude in fashioning the proper response to allegations [or the possibility] of juror bias. . . . We [therefore] have limited our role, on appeal, to a consideration of whether the trial court’s review of alleged [or possible] jury misconduct [or bias] can fairly be characterized as an abuse of its discretion. . . . [W]hen, as in this case, the trial court is in no way responsible for the [possible] juror misconduct [or bias], the defendant bears the burden of proving that the misconduct [or bias] actually occurred and resulted in actual prejudice.” (Internal quotation marks omitted.) State v. Bangulescu, 80 Conn. App. 26, 49-50, 832 A.2d 1187, cert. denied, 267 Conn. 907, 840 A.2d 1171 (2003).
+Here, where the defendant claims that the court failed to conduct an adequate inquiry into possible juror bias or prejudice, the defendant bears the burden of proving that such bias or prejudice existed, and he also bears the burden of establishing the prejudicial impact thereof. See id. We conclude that the defendant has failed to satisfy that burden. On the basis of the court’s direct questioning of the juror and the defendant, the court concluded that the defendant was not the employee that had worked in the area discussed by the juror. The court also directed the juror to put the issue out of his mind. The defendant did not contest the finding of the court or the court’s instruction to the juror, nor did he request that the court conduct further inquiry. We conclude that the court properly conducted an inquiry into whether there was juror misconduct or bias. We further conclude that even if the inquiry were insufficient, the defendant has failed to sustain his burden of proof that the juror was biased and that he was harmed by such bias.
+The judgment is affirmed.
+In this opinion the other judges concurred.
+In accordance with our policy of protecting the privacy interests of the victims of sexual abuse, we decline to identify the victim or others through whom the victim’s identity may be ascertained. We therefore refer to the victim and her husband as A and B, respectively. See General Statutes § 54-86e.
+The defendant also specifically refers to three other instances in the transcript in support of his claim. He did not object at trial in any of those instances. They are as follows: “On one of many occasions, a witness called by the state gave a long answer in Creole, which went untranslated by the interpreter. Rather than requiring a word for word translation, the court inquired of the substance of the testimony from the interpreter and, on that basis, instructed the interpreter to instruct the witness how to testify. . . . Once again, the witness testifies at length, which remains untranslated by the interpreter. Thereafter, the interpreter, rather than interpreting a question posed by the defendant’s attorney, questions the attorney about the substance of the question.” (Citation omitted.)
+The defendant then cites the following excerpt from the court transcript:
+“[The Interpreter]: Excuse me. You said, ‘Visit him.’ If he’s not—
+“[Defense Counsel]: Visit the premises.
+“[The Interpreter]: If he’s not there, he just visit the house.
+“The Court: I understand — I understand, too. Mr. Interpreter.
+“[The Interpreter]: Yeah. Um-humm. So, what should I say?”
+In his citation to the transcript, however, counsel for the defendant has omitted a very relevant statement made by the defendant’s trial counsel. After the interpreter asked defense counsel if he meant visit the house and not necessarily visit the witness, and the court indicated that it understood the interpreter’s confusion, defense counsel responded to the interpreter: “That’s correct.”
+We have reviewed the additional two references to the transcript that the defendant has cited in support of his claim. The colloquies, in which B was the witness, were as follows:
+“[The Prosecutor]: Okay. Did she tell you the nature of that action?
+“[The Witness]: (The witness is giving a long response in Creole when [defense counsel] objects.)
+“[Defense Counsel]: Objection.
+“The Court: All right. I don’t know. I’m waiting. I’m waiting.
+“[The Prosecutor]: I know.
+“The Court: Okay. Is he giving details or is he just telling the subject matter? . . .
+“[The Interpreter]: Yes. He’s giving details.
+“The Court: All right. Tell him that in reference to the [incident], he can only say the general subject matter for what happened. Not the specifics of exactly what — he can give the time, the place and the subject matter of what happened.
+“[The Inteipreter]: Okay.”
+The defendant raises as an issue the court’s instruction to the witness, through the interpreter, that he can report what the victim told him only in general terms. The defendant does not, however, explain what was improper in such an instruction, but instead argues that the court should have required a word by word recitation of what had been stated by the witness. Additionally, the defendant did not object to the court’s instruction to the witness.
+The second colloquy raised by the defendant occurred as follows:
+“[The Prosecutor]: Who drove to Norwich, Connecticut?
+“[The Witness]: Marc.
+“[The Interpreter]: Mr. Marc Sinvil.
+“[The Prosecutor]: How did [the defendant] become involved in the plan to move to Norwich, Connecticut?
+“[The Witness or the interpreter]: Says, next question.
+“The Court: What. I — I didn’t—
+“[The Interpreter]: (The interpreter talks to the witness.) Just answer the question.
+“[The Witness]: Okay.
+“(The witness is giving a long answer in Creole without interpretation.)
+“The Court: Okay. We got to get — we can’t go all at once. Okay.”
+After the court’s indication that the witness could not give a long answer without some intermittent interpretation, the interpreter went on to translate the witness’ answer without any objection by defense counsel.
+For the same reason, the defendant cannot prevail on a claim of plain error. “Just as a valid waiver calls into question the existence of a constitutional violation depriving the defendant of a fair trial for the purpose of Golding review, a valid waiver also thwarts plain error review of a claim.” State v. Corona, 69 Conn. App. 267, 274, 794 A.2d 565, cert. denied, 260 Conn. 935, 802 A.2d 88 (2002).
+It is undisputed that both the defendant and the witness had worked at Foxwoods Casino. Nevertheless, there is no evidence in the record, nor does the defendant claim, that the juror and the defendant knew each other.
