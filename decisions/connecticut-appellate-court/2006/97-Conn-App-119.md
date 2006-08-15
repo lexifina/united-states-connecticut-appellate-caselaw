@@ -1,0 +1,30 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 25973"
+decided: "2006-08-15"
+citations: ["97 Conn. App. 119"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DAVID BRIDGES v. COMMISSIONER OF CORRECTION"]
+source_url: "https://static.case.law/conn-app/97/cases/0119-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3686649
+cites_cases: ["230 Conn. 608", "267 Conn. 907", "278 Conn. 914", "400 U.S. 25", "44 Conn. App. 746", "498 U.S. 430", "646 A.2d 126", "692 A.2d 1285", "80 Conn. App. 903", "833 A.2d 948", "840 A.2d 1171", "890 A.2d 620", "899 A.2d 620", "93 Conn. App. 736"]
+---
+
+# Bridges v. Commissioner of Correction
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The petitioner, David Bridges, appeals following the denial of his petition for certification to appeal from the judgment of the habeas court dismissing his amended petition for a writ of habeas corpus. We agree with the court that the doctrine of res judicata bars the petitioner from asserting the claims raised in his petition for a writ of habeas corpus and dismiss the appeal.
+In March, 2001, the petitioner pleaded guilty under the Alford doctrine to several offenses. The court conducted a plea canvass and accepted the pleas. Prior to the sentencing hearing, the petitioner filed a motion to withdraw his pleas. The petitioner based his motion on his claims that his trial counsel had rendered ineffective legal assistance and that such assistance influenced the pleas. Following an evidentiary hearing, the court denied the petitioner’s motion. The court observed that the motion was based on a claim of ineffective assistance and found that the petitioner’s claims were not supported by the evidence. To the contrary, the court found that the petitioner’s trial counsel had rendered thorough and professional representation to the petitioner, and that the petitioner’s pleas were made voluntarily and intelligently. In September, 2001, the court sentenced the petitioner, imposing a total effective term of incarceration of fifteen years followed by ten years of special parole. The petitioner appealed to this court from the trial court’s ruling. This court affirmed the judgment of the trial court. State v. Bridges, 80 Conn. App. 903, 833 A.2d 948, cert. denied, 267 Conn. 907, 840 A.2d 1171 (2003).
+In November, 2002, the petitioner filed an amended petition for a writ of habeas corpus, claiming that his trial counsel had rendered ineffective legal assistance that affected the outcome of the proceedings. The court held an evidentiary hearing after which it dismissed the petition. The court concluded that the doctrine of res judicata barred the petitioner from raising the ineffective assistance of counsel claim because he had raised the same claim in substance by means of his motion to withdraw his plea. The court concluded that the petitioner had a full and fair opportunity to litigate his ineffective assistance of counsel claim, he did litigate the claim and the trial court as well as the appellate courts of this state had rejected the claim. The court later denied the petition for certification to appeal.
+The petitioner bears the burden of demonstrating that the court abused its discretion in denying his petition for certification to appeal. See Fuller v. Commissioner of Correction, 93 Conn. App. 736, 738, 890 A.2d 620, cert. denied, 278 Conn. 914,899 A.2d 620 (2006). In an attempt to sustain this burden, the petitioner argues, inter alia, that debatable factual issues exist as to whether his pleas were knowing and voluntary, and whether his trial counsel “pressured [him] into pleading guilty to the charges when he did not really wish to do so.” These arguments do not help the petitioner’s cause. These factual issues concerning his plea, as well as the nature of the representation afforded him by his trial counsel, already have been resolved, adversely to him, in a prior proceeding. The judgment rendered by the court with regal'd to the petitioner’s motion for permission to withdraw his pleas constituted a judgment on the merits of the petitioner’s ineffective assistance of counsel claim. That claim is the basis of the petition for a writ of habeas coipus.
+“[T]he doctrine of res judicata, or claim preclusion, [provides that] a former judgment on a claim, if rendered on the merits, is an absolute bar to a subsequent action [between the same parties] on the same claim. A judgment is final not only as to every matter which was offered to sustain the claim, but also as to any other admissible matter which might have been offered for that purpose. . . . The rule of claim preclusion prevents reassertion of the same claim regardless of what additional or different evidence or legal theories might be advanced in support of it.” (Internal quotation marks omitted.) Brown v. Commissioner of Correction, 44 Conn. App. 746, 749, 692 A.2d 1285 (1997).
+We carefully have reviewed the record, the court’s ruling and the briefs submitted by the parties. The petitioner has not demonstrated that the issues raised with regard to the court’s dismissal of his petition for a writ of habeas corpus are debatable among jurists of reason, that a court could resolve the issues in a different manner or that the questions raised deserve encouragement to proceed further. See Lozada v. Deeds, 498 U.S. 430, 431-32, 111 S. Ct. 860, 112 L. Ed. 2d 956 (1991). Having failed to satisfy any of these criteria, the petitioner has failed to demonstrate that the court’s denial of his petition for certification to appeal reflects an abuse of discretion. See Simms v. Warden, 230 Conn. 608, 612, 646 A.2d 126 (1994).
+The appeal is dismissed.
+See North Carolina v. Alford, 400 U.S. 25, 91 S. Ct. 160, 27 L. Ed. 2d 162 (1970).
+Apart from dismissing the petition on the ground of the doctrine of res judicata, the court, in the alternative, found that the petitioner’s trial counsel rendered exceptionally thorough legal assistance to the petitioner and rejected the ineffectiveness claim on its merits.
