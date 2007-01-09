@@ -1,0 +1,28 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 26876; AC 27177"
+decided: "2007-01-09"
+citations: ["99 Conn. App. 161"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ERROL DUNKLEY v. COMMISSIONER OF CORRECTION"]
+source_url: "https://static.case.law/conn-app/99/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4032716
+cites_cases: ["107 S. Ct. 597", "200 Conn. 743", "200 Conn. 753", "230 Conn. 608", "262 Conn. 953", "280 Conn. 935", "47 Conn. App. 914", "479 U.S. 994", "498 U.S. 430", "513 A.2d 86", "646 A.2d 126", "702 A.2d 672", "73 Conn. App. 819", "810 A.2d 281", "818 A.2d 780", "906 A.2d 4", "909 A.2d 962", "93 L. Ed. 2d 598", "97 Conn. App. 490"]
+---
+
+# Dunkley v. Commissioner of Correction
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The petitioner, Errol Dunkley, appeals following the habeas court’s denial of his three petitions for certification to appeal from the judgments dismissing his three petitions for a writ of habeas corpus. We dismiss the appeals.
+The petitioner was convicted, following a jury trial, of burglary in the first degree as an accessory in violation of General Statutes §§ 53a-8 and 53a-101 (a). The petitioner received a total effective sentence of eighteen years incarceration, execution suspended after fifteen years, followed by five years probation. He then filed a direct appeal, and this court affirmed the judgment of conviction in a memorandum decision. See State v. Dunkley, 47 Conn. App. 914, 702 A.2d 672 (1997). In 1998, the petitioner filed a petition for a writ of habeas corpus in which he claimed that his trial counsel had provided ineffective assistance. That petition was unsuccessful, and the petitioner failed to obtain certification to appeal. He appealed to this court, and we dismissed the appeal. See Dunkley v. Commissioner of Correction, 73 Conn. App. 819, 810 A.2d 281 (2002), cert. denied, 262 Conn. 953, 818 A.2d 780 (2003).
+The petitioner subsequently filed three additional petitions for a writ of habeas corpus. In the first petition, the petitioner claimed ineffective assistance of trial counsel, actual innocence and prosecutorial misconduct. In the second petition, he claimed that his appellate counsel, Robert M. Casale, had provided ineffective assistance. In the third petition, the petitioner again claimed ineffective assistance of trial counsel and pros-ecutorial misconduct. The habeas court rejected all of the petitioner’s claims and then denied his three petitions for certification to appeal.
+Although the petitioner has appealed from the denial of all three petitions for certification to appeal, he limits his brief to the issue of whether Casale provided ineffective assistance in the petitioner’s direct appeal. We therefore deem all of the petitioner’s other claims abandoned. As to Casale’s allegedly ineffective assistance, the petitioner claims that Casale should have sought certification to appeal to our Supreme Court after we issued a memorandum of decision affirming the judgment of conviction. The petitioner argues that Casale’s failure to seek certification to appeal deprived the petitioner of further review regarding a witness’ prior inconsistent statement that had been admitted into evidence at the petitioner’s trial pursuant to State v. Whelan, 200 Conn. 743, 513 A.2d 86, cert. denied, 479 U.S. 994, 107 S. Ct. 597, 93 L. Ed. 2d 598 (1986). The habeas court ruled that even if Casale’s failure to seek certification to appeal constituted deficient performance, the petitioner had failed to demonstrate prejudice because it was unlikely that our Supreme Court would have granted certification to appeal and reversed the judgment of conviction.
+The petitioner must demonstrate that the habeas court abused its discretion in denying his petitions for certification to appeal. It is noteworthy that the petitioner did not raise his claim of ineffective assistance of appellate counsel in his 1998 habeas petition, even though he could have done so. See Dunkley v. Commissioner of Correction, supra, 73 Conn. App. 819. After a careful review of the record and briefs, we conclude that the petitioner has not demonstrated that the issue he has raised is debatable among jurists of reason, that a court could resolve the issue in a different manner or that the question raised deserves encouragement to proceed further. See Lozada v. Deeds, 498 U.S. 430, 431-32, 111 S. Ct. 860, 112 L. Ed. 2d 956 (1991); Simms v. Warden, 230 Conn. 608, 616, 646 A.2d 126 (1994). Accordingly, the court did not abuse its discretion in denying the petitions for certification to appeal.
+The appeals are dismissed.
+Our Supreme Court has adopted “a rule allowing the substantive use of prior written inconsistent statements, signed by the declarant, who has personal knowledge of the facts stated, when the declarant testifies at trial and is subject to cross-examination.” State v. Whelan, supra, 200 Conn. 753. “A Whelan claim is evidentiary in nature and, accordingly, the defendant bears the burden of establishing that the trial court’s erroneous ruling was harmful to him in that it probably affected the outcome of the trial. . . . The admissibility of evidence, including the admissibility of a prior inconsistent statement pursuant to Whelan, is a matter within the wide discretion of the trial court. ... On appeal, the exercise of that discretion will not be disturbed except on a showing that it has been abused.” (Internal quotation marks omitted.) State v. Holbrook, 97 Conn. App. 490, 499-500, 906 A.2d 4, cert. denied, 280 Conn. 935, 909 A.2d 962 (2006).
