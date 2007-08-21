@@ -1,0 +1,27 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 27253"
+decided: "2007-08-21"
+citations: ["103 Conn. App. 366"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERT GRANT v. COMMISSIONER OF CORRECTION"]
+source_url: "https://static.case.law/conn-app/103/cases/0366-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4040824
+cites_cases: ["100 Conn. App. 283", "101 Conn. App. 465", "219 Conn. 596", "229 Conn. 178", "230 Conn. 608", "254 Conn. 214", "262 Conn. 953", "273 Conn. 903", "282 Conn. 918", "594 A.2d 459", "640 A.2d 601", "646 A.2d 126", "73 Conn. App. 819", "756 A.2d 1264", "810 A.2d 281", "818 A.2d 780", "86 Conn. App. 392", "861 A.2d 1191", "868 A.2d 744", "918 A.2d 283", "922 A.2d 221", "925 A.2d 1099"]
+---
+
+# Grant v. Commissioner of Correction
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The petitioner, Robert Grant, appeals from the judgment of the habeas court denying his petition for a writ of habeas corpus. On appeal, the petitioner claims that the court (1) abused its discretion by failing to grant certification to appeal and (2) improperly concluded that his trial counsel did not render ineffective assistance. We dismiss the appeal.
+The petitioner is incarcerated pursuant to his 1990 conviction for accessory to murder in violation of General Statutes §§ 53a-8 and 53a-54a. His conviction was upheld on appeal in State v. Grant, 219 Conn. 596, 594 A.2d 459 (1991). In 1994, the petitioner filed a petition for a writ of habeas corpus, alleging that he was denied (1) the effective assistance of (a) trial counsel and (b) appellate counsel, and (2) due process as a result of prosecutorial misconduct. The habeas court, Fuger, J., denied the petition for a writ of habeas corpus. This court affirmed that judgment in Grant v. Commissioner of Correction, 86 Conn. App. 392, 861 A.2d 1191 (2004), cert. denied, 273 Conn. 903, 868 A.2d 744 (2005). The petitioner filed the subject petition for a writ of habeas corpus in December, 2003, in which he alleged that he (1) was denied the effective assistance of habeas counsel and (2) is actually innocent. The habeas court, Elgo, J., denied the petition for a writ of habeas coipus and denied the petition for certification to appeal.
+“[A] disappointed habeas corpus litigant [may] invoke appellate jurisdiction for plenary review of the decision of the habeas court upon carrying the burden of persuasion that denial of certification to appeal was an abuse of discretion or that injustice appears to have been done. Simms v. Warden, 229 Conn. 178, 189, 640 A.2d 601 (1994) .... The Supreme Court adopted this test in Simms v. Warden, 230 Conn. 608, 612, 646 A.2d 126 (1994) . . . and stated that the petitioner must first show that the habeas court’s decision was an abuse of discretion. To establish an abuse of discretion, the petitioner must demonstrate that the issues are debatable among jurists of reason; that a court could resolve the issues [in a different manner]; or that the questions are adequate to deserve encouragement to proceed further. . . . Rivera v. Commissioner of Correction, 254 Conn. 214, 227, 756 A.2d 1264 (2000); see also Simms v. Warden, supra, [616-17]. If the appeal meets one of the criteria set forth in [Simms v. Warden, supra, 608], the habeas court’s failure to grant certification to appeal constitutes an abuse of discretion. After successfully demonstrating the existence of an abuse of discretion, the petitioner must then demonstrate that the judgment of the habeas court should be reversed on its merits. Simms v. Warden, supra, [612]. . . .
+“In deciding whether the petitioner has established a clear abuse of discretion in the court’s denial of his request for certification, we must determine whether, in fact, a certifiable issue exists.” (Citations omitted; internal quotation marks omitted.) Dunkley v. Commissioner of Correction, 73 Conn. App. 819, 822, 810 A.2d 281 (2002), cert. denied, 262 Conn. 953, 818 A.2d 780 (2003). On the basis of our review of the record and Judge Elgo’s thoughtful memorandum of decision, we conclude that there are no certifiable issues on appeal and that the court did not abuse its discretion by denying the petition for a writ of habeas corpus. The petitioner has failed to demonstrate to this corut what evidence was presented at the habeas trial that would lead another court to reach a different conclusion or that there is a question that deserves further proceedings to resolve.
+The petitioner claimed that his habeas counsel rendered ineffective assistance by failing to call certain witnesses. The court concluded that habeas counsel made a strategic decision not to call certain witnesses and that that decision was entitled to a strong presumption that counsel’s conduct fell within the wide range of reasonable professional conduct. See Ancona v. Commissioner of Correction, 100 Conn. App. 283, 289, 918 A.2d 283, cert. denied, 282 Conn. 918, 925 A.2d 1099 (2007). The petitioner failed to produce any evidence to overcome the presumption that his habeas counsel’s performance was not deficient. Furthermore, in order to prevail on a claim of actual innocence, a petitioner must present newly discovered evidence that was not available at the time of the criminal trial. See Johnson v. Commissioner of Correction, 101 Conn. App. 465, 470-71, 922 A.2d 221 (2007). The petitioner failed to do so.
+The appeal is dismissed.
