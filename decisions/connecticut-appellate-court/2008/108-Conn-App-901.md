@@ -1,0 +1,20 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 28628"
+decided: "2008-05-27"
+citations: ["108 Conn. App. 901"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSEPH MOONEY v. COMMISSIONER OF CORRECTION"]
+source_url: "https://static.case.law/conn-app/108/cases/0901-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5753560
+---
+
+# Mooney v. Commissioner of Correction
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The appeal is dismissed.
