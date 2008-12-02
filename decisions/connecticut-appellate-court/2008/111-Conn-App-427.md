@@ -1,0 +1,27 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 29052"
+decided: "2008-12-02"
+citations: ["111 Conn. App. 427"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF CONNECTICUT v. ABDUL N. PEAY"]
+source_url: "https://static.case.law/conn-app/111/cases/0427-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4059797
+cites_cases: ["103 Conn. App. 100", "104 Conn. App. 710", "192 Conn. 471", "245 Conn. 132", "280 Conn. 909", "284 Conn. 919", "285 Conn. 916", "472 A.2d 1267", "712 A.2d 947", "900 A.2d 577", "908 A.2d 541", "913 A.2d 480", "927 A.2d 964", "933 A.2d 721", "935 A.2d 645", "943 A.2d 475", "96 Conn. App. 421", "99 Conn. App. 347"]
+---
+
+# State v. Peay
+
+## Majority (LAVINE, J.)
+
+Opinion
+LAVINE, J.
+The pro se plaintiff in error, Abdul N. Peay, brings a writ of error challenging the decision of the defendant in error, the sentence review division of the Superior Court (panel), affirming his sentence. On appeal, the plaintiff in error claims that the panel abused its discretion and violated his constitutional rights in concluding that he had a long criminal record. We conclude that the plaintiff in error failed to brief his claims adequately and to provide this court with an adequate record for review and, accordingly, dismiss the writ of error.
+The following facts and procedural history are relevant. On April 17,2003, the plaintiff in error was arrested after striking the victim with a crowbar. He was found guilty of two counts of burglary in the first degree in violation of General Statutes § 53a-101 (a) (1) and (2), assault in the second degree in violation of General Statutes § 53a-60 (a) (2), and interfering with an officer in violation of General Statutes § 53a-167a (a). See State v. Peay, 96 Conn. App. 421, 423, 900 A.2d 577, cert. denied, 280 Conn. 909, 908 A.2d 541 (2006). On March 8, 2004, the court, Keller, J., sentenced the plaintiff in error to twelve years incarceration with a five year mandatory minimum. On October 24, 2006, the panel, Iannotti, Miaño and Espinosa, Js., affirmed the sentence. In its report, the panel stated that it had considered the plaintiff in error’s “positive attributes,” the severity of the injuries he inflicted on April 17, 2003, and the fact that his “record dates back to 1974” and “is replete with both felonies and misdemeanors.” On July 11, 2007, the plaintiff in error filed a writ of error in our Supreme Court, which transferred it to this court.
+On appeal, the plaintiff in error claims that the panel abused its discretion when it found that he had a lengthy criminal record and that it utilized an illegal application of the habitual offender statute. “[T]he legislature passed the Sentence Review Act in 1957 ... to reduce the disparity in sentences meted out by different judges and, thereby, to quell prisoner discontent.” (Citation omitted.) James L. v. Commissioner of Correction, 245 Conn. 132, 144, 712 A.2d 947 (1998). “The review division shall review the sentence imposed and determine whether [it] should be modified because it is inappropriate or disproportionate in the light of the nature of the offense, the character of the offender, the protection of the public interest, and the deterrent, rehabilitative, isolative, and denunciatory purposes for which the sentence was intended.” Practice Book § 43-28. The panel’s actions are reviewed for an abuse of discretion. See State v. Johnson, 192 Conn. 471, 475-76, 479, 472 A.2d 1267 (1984). The plaintiff in error bears the burden of providing this court with an adequate record for review. See State v. Hannah, 104 Conn. App. 710, 714, 935 A.2d 645 (2007), cert. denied, 285 Conn. 916, 943 A.2d 475 (2008); see also Practice Book § 61-10. Additionally, “[w]e are not required to review issues that have been improperly presented to this court through an inadequate brief. . . . Analysis, rather than mere abstract assertion, is required in order to avoid abandoning an issue by failing to brie f [it] properly. ” (Internal quotation marks omitted.) State v. Blango, 103 Conn. App. 100, 116 n.11, 927 A.2d 964, cert. denied, 284 Conn. 919, 933 A.2d 721 (2007).
+We conclude that we cannot determine, on the basis of the record before this court, whether the panel abused its discretion when it relied on the plaintiff in error’s criminal record. We have not been presented with the presentence report, the transcript of the sentencing hearing from March 8, 2004, or any other information that the panel considered before it affirmed the plaintiff in error’s sentence. We cannot further analyze this claim without an adequate record. We also conclude that we cannot analyze the plaintiff in error’s claims that the panel illegally applied the “habitual offender statute” or designated him to be a “career criminal” because the plaintiff in error does not specify the statute that he is referring to or provide any meaningful legal analysis of either claim. “Although we are solicitous of the fact that the [plaintiff in error] is a pro se litigant, the statutes and rules of practice cannot be ignored completely. . . . We are not required to review issues that have been improperly presented to this court through an inadequate brief.” (Citation omitted; internal quotation marks omitted.) Cooke v. Cooke, 99 Conn. App. 347, 352-53, 913 A.2d 480 (2007).
+The writ of error is dismissed.
+In this opinion the other judges concurred.
