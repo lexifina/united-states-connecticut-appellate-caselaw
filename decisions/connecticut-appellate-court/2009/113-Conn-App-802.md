@@ -1,0 +1,29 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 28964"
+decided: "2009-04-21"
+citations: ["113 Conn. App. 802"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN ALAN SAKON ET AL. v. PEARL MANAGER ET AL."]
+source_url: "https://static.case.law/conn-app/113/cases/0802-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3709101
+cites_cases: ["231 Conn. 469", "231 Conn. 481", "252 Conn. 479", "650 A.2d 1240", "746 A.2d 1277", "879 A.2d 482", "90 Conn. App. 696"]
+---
+
+# Sakon v. Manager
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The plaintiffs John Alan Sakon and Expressway Associates IV appeal from the summary judgment rendered by the trial court in favor of the defendants Pearl Manager, individually and as executrix of the estate of her husband, Edward Manager; Thomas Manager, Jr.; Jean Manager; and Sandra Manager. The court ruled as a matter of law that the defendants had not violated the terms of a release executed in 1992. We agree and, accordingly, affirm the judgment of the trial court.
+The relevant facts are not in dispute. In 1992, the plaintiffs and the defendants were parties to litigation involving a property that the defendants previously had owned and that the plaintiffs wanted to acquire to use for a proposed development. The parties settled their dispute, and they entered into a release agreement (release), which provided, in relevant part: “[The defendants do] remise, release and forever discharge [the plaintiffs] of and from all debts, obligations . . . controversies, suits, actions, causes of actions . . . claims or demands, in law or equity . . . whether known or unknown ... of whatever kind, nature and description . . . which against the [plaintiffs] the [defendants] ever had, now [have] or hereafter can, shall, or may have, for, upon or by reason of any matter, cause or thing whatsoever, from the beginning of the world to the date of these Presents.”
+The plaintiffs brought their action, claiming that the defendants violated the release in that (1) at a public hearing in 2004, they opposed the plaintiffs’ zoning application regarding the property involved in the 1992 dispute and (2) solicited, encouraged and worked with others to oppose the plaintiffs’ zoning application. The defendants moved for summary judgment, claiming that the release did not bar them from commenting on the development of the plaintiffs’ property. In support of their motion, the defendants submitted (1) a release and covenant not to sue signed by the plaintiffs, dated December 31,1992, (2) the release signed by the defendants, dated November 2, 1992, (3) portions of Sakon’s deposition testimony and (4) portions of Sakon’s responses to interrogatories. In opposition to the motion, the plaintiffs submitted an affidavit of Sakon.
+We begin our analysis with the standard of review. “The standard of review of decisions granting motions for summary judgment is well settled. Practice Book [§ 17-49] provides that summary judgment shall be rendered forthwith if the pleadings, affidavits and any other proof submitted show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law. ... In deciding a motion for summary judgment, the trial court must view the evidence in the light most favorable to the nonmov-ing party.” (Internal quotation marks omitted.) Lindsay v. Pierre, 90 Conn. App. 696, 699, 879 A.2d 482 (2005).
+The dispositive issue on this appeal is whether the release prevented the defendants from opposing the proposed development of the plaintiffs’ property. “It is well settled that a release, being a contract whereby a party abandons a claim to a person against whom that claim exists, is subject to rules governing the construction of contracts. . . . The intention of the parties, therefore, controls the scope and effect of the release, and this intent is discerned from the language used and the circumstances of the transaction.” (Internal quotation marks omitted.) Muldoon v. Homestead Insulation Co., 231 Conn. 469, 482, 650 A.2d 1240 (1994). “Although ordinarily the question of contract interpretation, being a question of the parties’ intent, is a question of fact . . . [w]here there is definitive contract language, the determination of what the parties intended by their contractual commitments is a question of law. . . . Our case law, however, does not set forth a test by which to determine whether contract language is sufficiently definite to warrant its review as a question of law rather than as a question of fact.” (Citations omitted; internal quotation marks omitted.) Tallmadge Bros., Inc. v. Iroquois Gas Transmission System, L.P., 252 Conn. 479, 495-96, 746 A.2d 1277 (2000).
+In the present case, the release contains language that is unambiguous. It clearly applied to conduct “from the beginning of the world to the date of [its execution]. (Emphasis added.) “The usual general release ... is not ordinarily construed to include in its coverage claims based upon occurrences which have their beginning after the instrument is executed.” (Internal quotation marks omitted.) Muldoon v. Homestead Insulation Co., supra, 231 Conn. 481. The conduct of the defendants that now is at issue took place almost twelve years after the release was executed, and, therefore, the release unambiguously did not apply to it. We conclude, as a matter of law, that the release did not preclude the defendants from opposing the plaintiffs’ subsequent zoning application.
+The judgment is affirmed.
+The complaint also named as a defendant Joyce Manager, also known as Mrs. Edward Manager. Joyce Manager was not a party to the motion for summary judgment or this appeal, and reference to the defendants herein does not include her.
