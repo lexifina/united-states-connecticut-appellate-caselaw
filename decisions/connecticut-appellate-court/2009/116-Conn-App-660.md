@@ -1,0 +1,28 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 29822"
+decided: "2009-08-25"
+citations: ["116 Conn. App. 660"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY E. SULLIVAN v. RANDY BROWN ET AL."]
+source_url: "https://static.case.law/conn-app/116/cases/0660-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4065046
+cites_cases: ["112 Conn. App. 160", "112 Conn. App. 189", "208 Conn. 515", "208 Conn. 524", "267 Conn. 909", "290 Conn. 767", "290 Conn. 920", "544 A.2d 634", "80 Conn. App. 146", "80 Conn. App. 150", "833 A.2d 934", "840 A.2d 1170", "962 A.2d 842", "966 A.2d 237", "967 A.2d 1"]
+---
+
+# Sullivan v. Brown
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+Claiming a violation of the Connecticut Unfair Trade Practices Act (CUTPA), General Statutes § 42-110a et seq., the plaintiff, Mary E. Sullivan, commenced this action against the defendants, Randy Brown, Randy Brown doing business as Clearwater Construction/Home Improvements and Clearwater Home Improvement, Inc. The defendants claim that the court improperly determined that the plaintiff was entitled to a hearing on costs and attorney’s fees under General Statutes § 42-1 lOg (d) because she had not proven that she suffered an ascertainable loss as required by § 42-110g (a). Because we dismiss the defendants’ appeal, sua sponte, we do not reach this issue.
+The plaintiff brought an action against the defendants, who constructed ahorne for her. In her amended complaint, the plaintiff set forth claims of breach of contract, a violation of CUTPA and unjust enrichment. Following atrial, the court, in its March 31, 2008 memorandum of decision, found in favor of the plaintiff on her breach of contract claim and awarded damages to her in the amount of $12,407.74. The court also found that the defendants violated provisions of the New Home Construction Contractors Act, General Statutes § 20-417a et seq. The court found that as a result of this violation, the defendants violated CUTPA. The court did not award any damages pursuant to CUTPA. The court stated that “the plaintiff is entitled to costs and reasonable attorney’s fees” and that “[t]he plaintiff may . . . move for a hearing on costs and attorney’s fees awarded under the [CUTPA] count.” The record indicates that no such hearing has been held. This appeal followed.
+We must first address the threshold jurisdictional issue of whether the defendants have appealed from a final judgment. Although neither of the parties raised a question as to the finality of the judgment, we decide the question sua sponte because it invokes this court’s subject matter jurisdiction over the defendants’ appeal. “The lack of a final judgment implicates the subject matter jurisdiction of an appellate court to hear an appeal. . . . The jurisdiction of the appellate courts is restricted to appeals from judgments that are final. General Statutes §§ 51-197a and 52-263.” (Internal quotation marks omitted.) Liberty Mutual Ins. Co. v. Lone Star Industries, Inc., 290 Conn. 767, 793-94, 967 A.2d 1 (2009).
+Following oral argument in this court, we asked the parties, sua sponte, to brief the question of whether the court’s March 31, 2008 decision that the plaintiff was entitled to costs and reasonable attorney’s fees was an appealable final judgment in light of the fact that the court indicated that the plaintiff may move for a hearing on costs and attorney’s fees but the hearing had not been held and the amount of attorney’s fees, if any, had not yet been decided. The defendants argue in their supplemental brief that the court awarded attorney’s fees in principle and that the award is an appealable final judgment despite the fact that no amount has been awarded and despite the fact that a hearing as to an amount has not been held. The plaintiff, in her supplemental brief, states that prior case law indicates that an award of attorney’s fees without a determination of the amount of that award is not an appealable final judgment; see Paranteau v. DeVita, 208 Conn. 515, 524 n.11, 544 A.2d 634 (1988); Stuart v. Stuart, 112 Conn. App. 160, 188-89, 962 A.2d 842, cert. granted on other grounds, 290 Conn. 920, 966 A.2d 237 (2009); Burns v. General Motors Corp., 80 Conn. App. 146, 150 n.6, 833 A.2d 934, cert. denied, 267 Conn. 909, 840 A.2d 1170 (2003); and requests this court to overturn such prior case law.
+We may not overturn prior case law established by our Supreme Court, and we conclude, with respect to the defendants’ sole claim on appeal concerning costs and attorney’s fees under CUTPA, that the defendants have not appealed from a final judgment. In its memorandum of decision, the court determined that the plaintiff was entitled to attorney’s fees and costs and indicated that a hearing would be scheduled to determine the amount. “In Paranteau v. DeVita, [supra, 208 Conn. 524 n.11], our Supreme Court determined that ‘ [a] supplemental postjudgment award of attorney’s fees becomes final and appealable . . . not when there is a finding of liability for such fees, but when the amount of fees are conclusively determined.’ An award of attorney’s fees without a determination of the amount of the attorney’s fees is not an appealable final judgment. See Burns v. General Motors Corp., [supra, 80 Conn. App. 150 n.6].” Stuart v. Stuart, supra, 112 Conn. App. 189.
+The appeal is dismissed.
+The defendants raised additional claims in their appellate brief. At oral argument before this court, the defendants abandoned all claims except those pertaining to the court’s determination that the plaintiff was entitled to costs and attorney’s fees under CUTPA.
