@@ -1,0 +1,35 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 31184"
+decided: "2010-10-19"
+citations: ["124 Conn. App. 536"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DiPentima, C. J., and Lavine and Bear, Js."]
+parties: ["IN RE PROBATE APPEAL OF DOREEN L. MIKOSHI, EXECUTRIX (ESTATE OF VINCENT JAMES CAPPIELLO)"]
+source_url: "https://static.case.law/conn-app/124/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4234080
+cites_cases: ["113 Conn. App. 404", "184 Conn. 252", "258 Conn. 942", "292 Conn. 98", "439 A.2d 975", "65 Conn. App. 295", "782 A.2d 698", "786 A.2d 429", "970 A.2d 123", "971 A.2d 8"]
+---
+
+# In re Probate Appeal of Mikoshi
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The defendant, Richard Cappiello, appeals from the judgment of the Superior Court sustaining the appeal of the plaintiff, Doreen L. Mikoshi, individually and as executrix of the estate of Vincent James Cappiello (decedent), from the order and decree of the Probate Court for the district of Stamford. On appeal, the defendant claims that the Superior Court improperly concluded that (1) the decedent had made an inter vivos monetary gift to the plaintiff and (2) there was sufficient evidence establishing that the plaintiff was a joint owner of the funds at issue. We disagree and, accordingly, affirm the judgment of the Superior Court.
+The following facts and procedural history are necessary for our decision. The parties are the adult children of the decedent, who died on June 21, 2001. On March 27, 2007, the Probate Court issued the following order and decree: “[T]he Final Account of [the plaintiff] is hereby allowed, except that the sum of $67,718.42 shall be added to the assets of said Estate by a Supplementary Inventory and shall be distributed one half to the [plaintiff] and one half to [the defendant] in accordance with the will of the decedent.”
+The plaintiff filed an appeal to the Superior Court from the order and decree of the Probate Court. The plaintiff alleged that the bank account that had contained the $67,718.42 was a joint account held in the names of the decedent and the plaintiff. The plaintiff further claimed that those funds were not part of the estate of the decedent because (1) she was a co-owner of the money and, therefore, had the legal right to withdraw it from the joint account or (2) the decedent made a valid gift of the money from that account to her.
+On May 20,2009, the Superior Court, Mintz, J., issued a memorandum of decision sustaining the plaintiffs appeal from the order and decree of the Probate Court. The court concluded that the plaintiff, as a co-owner of the joint account, was permitted to withdraw all moneys from the account pursuant to General Statutes § 36a-290. The court also found, by clear and satisfactory proof, that the decedent had made a valid gift of the money to the plaintiff prior to his death. This appeal followed.
+The defendant first claims that the Superior Court improperly concluded that the money contained in the joint account was given to the plaintiff as a gift from the decedent. Specifically, he argues that no other witnesses corroborated the plaintiffs testimony regarding this gift, and, therefore, the court’s finding was clearly erroneous. We disagree with this claim.
+“When an estate is a party, the burden is on the person claiming the gift to prove the claim by clear and satisfactory proof. . . . The question of whether a gift inter vivos or causa mortis has been made is within the exclusive province of the court. . . . The determination of whether a gift has been made is not reviewable unless the conclusion of the court is one which cannot reasonably be made. . . . The credibility of the witnesses and the weight to be accorded to their testimony is for the trier of fact. . . . This court does not try issues of fact or pass upon the credibility of witnesses.” (Citations omitted.) Long v. Schull, 184 Conn. 252, 255, 439 A.2d 975 (1981).
+In the present case, the court found that the decedent had been appreciative of the plaintiffs caring for him since 1995. The plaintiff visited the decedent daily at Stamford Hospital after he became ill. On June 18,2001, the date of the gift, the plaintiff visited the decedent for one or two hours. The decedent, sitting upright and making eye contact with the plaintiff, was able to speak and hear clearly while he discussed his finances. The decedent expressly instructed the plaintiff to withdraw the money from the joint account and to place it into a separate account in her name. Additionally, he told her that the contents of that account were hers. The plaintiff complied with the decedent’s instruction and, the next day, informed him of the transfer. The decedent acknowledged that she had done what he had requested.
+“A gift is the transfer of property without consideration. ... To make a valid gift inter vivos, the donor must part with control of the property which is the subject of the gift with an intent that title shall pass immediately and irrevocably to the donee. ... In other words, a valid inter vivos gift of personal property requires both delivery of possession of the property to the donee and an intent on the part of the donor that title shall pass immediately to the donee.” (Citations omitted; internal quotation marks omitted.) Wasniewski v. Quick & Reilly, Inc., 292 Conn. 98, 103-104, 971 A.2d 8 (2009). On the basis of the foregoing, we cannot conclude that the court’s finding that the decedent made a gift of the money from the joint account to the plaintiff was clearly erroneous. Accordingly, we need not address the defendant’s claim that the Superior Court improperly concluded that the plaintiff was a co-owner of the bank account in question.
+The judgment is affirmed.
+We refer in this opinion to Mikoshi in both capacities as the plaintiff.
+“An appeal from a Probate Court to the Superior Court is not an ordinary civil action. . . . When entertaining an appeal from an order or decree of a Probate Court, the Superior Court takes the place of and sits as the court of probate. ... In ruling on a probate appeal, the Superior Court exercises the powers, not of a constitutional court of general or common law jurisdiction, but of a Probate Court.” (Internal quotation marks omitted.) Silverstein v. Laschever, 113 Conn. App. 404, 409, 970 A.2d 123 (2009).
+“Pursuant to that statute, any of two or more joint owners of a bank account may withdraw any part or all of the balance of such account during the lifetime of the other owner. It is clear that, under Connecticut law, coholders of a joint account are considered owners of the entire account . . . with access to the entire amount therein.” (Internal quotation marks omitted.) Ardito v. Olinger, 65 Conn. App. 295, 297-98, 782 A.2d 698, cert. denied, 258 Conn. 942, 786 A.2d 429 (2001).
+The decedent was diagnosed with cancer in February, 2001.
