@@ -1,0 +1,34 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 31522"
+decided: "2010-10-19"
+citations: ["124 Conn. App. 556"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bishop, Harper and Beach, Js."]
+parties: ["JASON K. CHARBONNEAU v. COMMISSIONER OF MOTOR VEHICLES"]
+source_url: "https://static.case.law/conn-app/124/cases/0556-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4234458
+cites_cases: ["229 Conn. 31", "252 Conn. 38", "254 Conn. 333", "639 A.2d 1018", "743 A.2d 1110", "757 A.2d 561"]
+---
+
+# Charbonneau v. Commissioner of Motor Vehicles
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The plaintiff, Jason K. Charbonneau, commenced an administrative appeal in the trial court from the decision of the defendant, the commissioner of motor vehicles (commissioner), suspending his motor vehicle operator’s license for ten months and disqualifying him from operating a commercial motor vehicle for life. Following a hearing, the court upheld the commissioner’s decision and dismissed the plaintiffs appeal. On appeal, the plaintiff challenges the court’s decision. We affirm the judgment of the trial court.
+On November 1, 2008, the plaintiff was arrested and charged with operating a motor vehicle while under the influence of intoxicating liquor. Subsequent chemical analysis tests of the plaintiffs breath indicated that he had blood alcohol contents of 0.178 and 0.172, respectively, thereby exceeding the statutory limit of 0.08.
+The department of motor vehicles conducted an administrative hearing pursuant to General Statutes § 14-227b (g). At the hearing, the results of the two chemical analysis tests were admitted, among other evidence. Thereafter, the hearing officer, acting on behalf of the commissioner, found that the four criteria set forth in § 14-227b (g) had been satisfied. The commissioner thereafter ordered that the plaintiffs operator’s license be suspended for ten months and that the plaintiff be disqualified from operating a commercial motor vehicle for life.
+The plaintiff appealed to the trial court pursuant to General Statutes § 4-183 (a). The plaintiff claimed, inter alia, that the chemical analysis test results were inadmissible at the administrative license suspension hearing because the police officer administering the tests had not engaged in a proficiency review as required by § 14-227a-10b (d) (1) (B) (ii) of the Regulations of Connecticut State Agencies. In response to a request by the trial court, the commissioner issued a supplemental finding that stated, inter alia, that the officer who had administered the breath tests to the plaintiff was last reviewed for proficiency in August, 2006, but that there was no evidence in the record to indicate that his certification had ever been revoked as a result. In its ruling dismissing the plaintiffs appeal, the court concluded that the results of the plaintiffs breath tests were admissible. This appeal followed.
+We first set forth our standard of review. “[J]udicial review of the commissioner’s action is governed by the Uniform Administrative Procedure Act [(UAPA), General Statutes §§ 4-166 through 4-189], and the scope of that review is very restricted. . . . [R]eview of an administrative agency decision requires a court to determine whether there is substantial evidence in the administrative record to support the agency’s findings of basic fact and whether the conclusions drawn from those facts are reasonable. . . . Neither this court nor the trial court may retry the case or substitute its own judgment for that of the administrative agency on the weight of the evidence or questions of fact. . . . Our ultimate duty is to determine, in view of all of the evidence, whether the agency, in issuing its order, acted unreasonably, arbitrarily, illegally or in abuse of its discretion.” (Citation omitted; internal quotation marks omitted.) Murphy v. Commissioner of Motor Vehicles, 254 Conn. 333, 343, 757 A.2d 561 (2000).
+On appeal before this court, the plaintiff claims that the trial court erred in affirming the commissioner’s decision to admit into evidence at the administrative license suspension hearing the results of two chemical analysis tests taken by the plaintiff on November 1, 2008. The plaintiff reasons that the chemical analysis test results were inadmissible because the police officer administering the tests had failed to undergo a review of his proficiency in the operation of the breath test device within twelve months since his last review, thereby failing to comply with § 14-227a-10b (d) (1) (B) (ii) of the Regulations of Connecticut State Agencies.
+Section 14-227b (g) sets forth the issues to be decided in license suspension hearings and provides in relevant part that “[t]he hearing shall be limited to a determination of the following issues: (1) Did the police officer have probable cause to arrest the person for operating a motor vehicle while under the influence of intoxicating liquor or any drug or both; (2) was such person placed under arrest; (3) did such person refuse to submit to such test or analysis or did such person submit to such test or analysis, commenced within two hours of the time of operation, and the results of such test or analysis indicated that such person had an elevated blood alcohol content; and (4) was such person operating the motor vehicle. . . .”
+Our Supreme Court has stated that “the plain language of [§ 14-227b (g)] expressly and narrowly limits the scope of the license suspension hearing to the four issues enumerated in the statute.” Fishbein v. Kozlowski, 252 Conn. 38, 46, 743 A.2d 1110 (1999). The plaintiff claims, however, that the test results obtained by the questioning police officer erroneously were relied on by the commissioner because the officer, though certified to operate the testing device, had not engaged in a timely proficiency review. In addressing a virtually identical claim, our Supreme Court held that a lack of recertification as required by the regulations does not prevent the commissioner’s consideration of and reliance on the officer’s report. See Schallenkamp v. DelPonte, 229 Conn. 31, 41-43, 639 A.2d 1018 (1994). We see no meaningful distinction between the facts of Schallenkamp and the facts of the present case.
+The judgment is affirmed.
+See General Statutes § 14-227a.
+Because the hearing officer acts on behalf of the commissioner, we refer to the hearing officer as the commissioner.
+Section 14-227a-10b (d) (1) (B) (ii) of the Regulations of Connecticut State Agencies provides: “Bach operator shall demonstrate to a certified instructor competence in the operation of a device or instrument at least once during the 12-month period following the last such demonstration. The results of each such review shall be reported to the commissioner.”
