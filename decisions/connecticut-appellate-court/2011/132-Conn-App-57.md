@@ -1,0 +1,37 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 31657"
+decided: "2011-11-08"
+citations: ["132 Conn. App. 57"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DiPentima, C. J., and Espinosa and Pellegrino, Js."]
+parties: ["MICHAEL BRAHAM v. COMMISSIONER OF CORRECTION"]
+source_url: "https://static.case.law/conn-app/132/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4070567
+cites_cases: ["108 Conn. App. 744", "121 Conn. App. 240", "213 Conn. 233", "262 Conn. 906", "297 Conn. 926", "400 U.S. 25", "567 A.2d 823", "72 Conn. App. 1", "804 A.2d 951", "810 A.2d 271", "949 A.2d 1246", "994 A.2d 685", "998 A.2d 1193"]
+---
+
+# Braham v. Commissioner of Correction
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The self-represented petitioner, Michael Braham, appeals from the judgment of the habeas court denying his petition for a writ of habeas corpus. On appeal, the petitioner claims that the court improperly (1) limited the scope of his cross-examination and (2) determined that he received the effective assistance of habeas trial and appellate counsel. We are not persuaded by the petitioner’s claims and, accordingly, affirm the judgment of the habeas court.
+“The facts underlying the petitioner’s arrest and subsequent guilty plea are as follows. On June 24, 1996, in the area of 104 Westboume Parkway in Hartford, the petitioner shot and killed Jeffrey Murphy. The petitioner and the victim had attended a cookout that day where the petitioner consumed beer and smoked marijuana. The petitioner and the victim had engaged in an argument that began the previous night over a sale of drugs. The petitioner testified at the habeas trial that he had been angry about the continuing argument with the victim.
+“According to the petitioner, the victim threatened that he would see the petitioner when the petitioner did not have his gun. The petitioner interpreted that to mean that he and victim were at war now. He then withdrew his gun and tried to strike the victim with it, but the victim ran away. The petitioner proceeded to fire shots in the direction of the victim. One of the bullets struck the victim and killed him. The victim’s cousin, Troy Murphy, witnessed the shooting and gave a statement to the police. The police seized the petitioner’s shirt, which later tested positive for gunpowder.
+“On July 2, 1996, the petitioner was charged with murder in violation of General Statutes § 53a-54a. The state filed a part B information on August 25, 1997, charging the petitioner with commission of a class A, B or C felony with a firearm in violation of General Statutes § 53-202k. Attorney Joseph S. Elder represented the petitioner on all charges. He met with and telephoned the petitioner on numerous occasions during the course of his representation.
+“On January 22, 1998, the petitioner entered a guilty plea under the Alford doctrine to the charge of murder. The trial court accepted the plea as knowingly and voluntarily made and sentenced the petitioner to a term of thirty-two years incarceration pursuant to a plea agreement.” (Internal quotation marks omitted.) Braham v. Commissioner of Correction, 72 Conn. App. 1, 2-4, 804 A.2d 951, cert. denied, 262 Conn. 906, 810 A.2d 271 (2002).
+Following the first unsuccessful habeas proceeding and appeal, the petitioner filed a second petition for a writ of habeas coipus. In his second revised amended petition, filed on November 17, 2006, the petitioner alleged that he had received ineffective assistance of counsel from his prior habeas trial and appellate counsel, attorney Judith M. Wildfeur. As stated by the second habeas court, “[t]he claim of ineffective assistance of counsel essentially complains that . . . Wildfeur . . . was ineffective in her representation before the initial habeas court and on appeal by not pursuing a claim against the [criminal trial counsel, attorney Joseph S. Elder] that he unduly pressured the petitioner to accept a plea bargain and that he failed to properly advise the petitioner regarding his ‘intoxication defense’ relative to his decision to plead guilty to murder.”
+In its memorandum of decision, the court concluded that the petitioner had “enjoyed the representation of a competent counsel and [that] the court has found that his plea of guilty [was] knowing, intelligent and voluntary.” Accordingly, it denied the petition for a writ of habeas corpus. On September 9, 2009, the court granted the petition for certification to appeal from the denial of the petition for a writ of habeas corpus.
+I
+On appeal, the petitioner first claims that the court improperly restricted his cross-examination of prosecutor Vicki Melchiorre, a witness for the respondent, the commissioner of correction. Specifically, he argues that he improperly was denied the opportunity to question Melchiorre about Elder’s alleged misrepresentation that the petitioner would be eligible for parole after being convicted of murder. He contends that this violated both his constitutional right to cross-examination and our rules of evidence. We decline to review this claim.
+The respondent counters that the specific claim raised on appeal was not raised at trial, and therefore we should decline to afford it review. Specifically, the respondent argues: “[T]he record of Melchiorre’s cross-examination reveals that the petitioner neither asked Melchiorre about her failure to correct Elder’s alleged misstatement nor proffered such an inquiry. . . . Instead, the petitioner merely asked Melchiorre whether, at the plea proceeding, she had heard Elder encourage the petitioner to plead guilty. • • • Similarly, the petitioner made no claim below that the court’s ruling prohibiting inquiry as to whether Melchiorre heard Elder encourage the petitioner to plead guilty unduly restricted his cross-examination of Melchiorre as to her steadfast refusal to reduce the murder charge.” (Citations omitted.) We agree with the respondent.
+It is well established that this court will not review unpreserved evidentiary claims. See, e.g., State v. Messam, 108 Conn. App. 744, 759-60, 949 A.2d 1246 (2008). As to his claim of a constitutional violation, the petitioner has failed to request review under State v. Golding, 213 Conn. 233, 239-40, 567 A.2d 823 (1989), and therefore we decline to engage in a Golding analysis. See Harris v. Commissioner of Correction, 121 Conn. App. 240, 248 n.3, 994 A.2d 685, cert. denied, 297 Conn. 926, 998 A.2d 1193 (2010). On the basis of this law, we conclude that the petitioner’s claims regarding the cross-examination of Melchiorre are not properly before this court, and we decline to review them.
+II
+The petitioner next claims that the habeas court improperly determined that he received the effective assistance of his prior habeas trial and appellate counsel. The petitioner presents several arguments regarding the alleged deficiencies in the memorandum of decision. We thoroughly have reviewed this decision. We conclude that the habeas court carefully considered, addressed and resolved the issues set forth in the petition for a writ of habeas corpus. The court properly denied the petition, and we are not persuaded by the petitioner’s claims on appeal.
+The judgment is affirmed.
+See North Carolina v. Alford, 400 U.S. 25, 91 S. Ct. 160, 27 L. Ed. 2d 162 (1970).
