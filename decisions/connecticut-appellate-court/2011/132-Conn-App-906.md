@@ -1,0 +1,21 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 31871"
+decided: "2011-12-13"
+citations: ["132 Conn. App. 906"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DiPentima, C. J., and Beach and Espinosa, Js."]
+parties: ["TROY THOMAS v. COMMISSIONER OF CORRECTION"]
+source_url: "https://static.case.law/conn-app/132/cases/0906-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4071378
+---
+
+# Thomas v. Commissioner of Correction
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The appeal is dismissed.
