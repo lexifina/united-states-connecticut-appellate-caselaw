@@ -1,0 +1,32 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 32535"
+decided: "2012-01-03"
+citations: ["132 Conn. App. 776"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Alvord, Espinosa and Bishop, Js."]
+parties: ["MARGARET PEARSON v. GARY PEARSON"]
+source_url: "https://static.case.law/conn-app/132/cases/0776-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4070288
+cites_cases: ["127 Conn. App. 602", "129 Conn. App. 425", "13 Conn. App. 326", "14 A.3d 1064", "22 A.3d 630", "243 Conn. 471", "243 Conn. 484", "536 A.2d 598", "706 A.2d 960"]
+---
+
+# Pearson v. Pearson
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The plaintiff, Margaret Pearson, appeals from the trial court’s refusal to consider her motion to open the judgment dissolving her marriage to the defendant, Gary Pearson. The plaintiff claims that the court failed to meet its obligation to decide every matter properly before it, and that, by doing so, the court deprived her of her right to appeal the judgment of dissolution by causing the twenty day appeal period to expire without considering her motion. Because we decide that the appeal is moot, we dismiss the appeal.
+The following facts and procedural history are relevant to our consideration of this appeal. On April 30, 2010, the court rendered a judgment of dissolution, dissolving the parties’ marriage. The judgment incorporated by reference a stipulation agreement entered into by the parties. The plaintiff filed a motion to open this judgment on May 11, 2010, on the ground of fraud and/ or other equitable grounds. At a hearing on June 7, 2010, the court refused to consider this motion. The court stated: “I’ve looked at the motion to open judgment and I can’t tell from the motion that was filed, May 11, 2010, what the grounds are for the opening, it — it has no factual pleadings as to what the alleged fraud or other equitable grounds are, on its face, the motion is grossly inadequate, there’s no way it can be granted. So, it won’t be reclaimed and it won’t be heard.
+“If there is to be a motion to open, it will have to be a fresh one that is filed with specifics as to the grounds. So, we’re not going to hear that today, in any case.”
+The plaintiff filed a motion to reargue on June 17, 2010, claiming that under Ahneman v. Ahneman, 243 Conn. 471, 706 A.2d 960 (1998), it was improper for the court to refuse to consider her motion to open the judgment. The court denied this motion on June 22, 2010, stating: “The court did not declare the plaintiffs motion a ‘nullity.’ The court pointed out to counsel that the court could not tell from the motion what were the factual bases or grounds for the opening. The pleading stated a legal basis for opening the judgment without reference to any facts from which a reasonable person could understand the factual basis. On its face, the motion was grossly inadequate since our rules require factual pleading and the motion could not be granted.” The court invited counsel to file a new motion containing specific and factual claims as to the grounds for opening the judgment. On June 24,2010, the plaintiff filed an amended motion to open the judgment, stating the same grounds as those raised in the May 11, 2010 motion, namely, fraud and that the stipulation agreement was neither fair nor equitable, but making specific factual claims. After a hearing on the merits of the motion, the court denied this amended motion on June 28, 2010. Thereafter, on July 12, 2010, the plaintiff brought the present appeal from the court’s refusal to consider her May 11, 2010 motion to open.
+The plaintiff invokes Ahneman v. Ahneman, supra, 243 Conn. 484, for the principle that “where a court is vested with jurisdiction over the subject-matter . . . and . . . obtains jurisdiction of the person, it becomes its . . . duty to determine every question which may arise in the cause . . . .” (Internal quotation marks omitted.) According to the plaintiff, the court’s refusal to rule on her May 11,2010 motion to open the judgment was an abdication of its duty to decide matters properly before it. We do not reach the substance of this claim, however, because we conclude that the appeal is moot.
+“Mootness is a question of justiciability that must be determined as a threshold matter because it implicates [a] court’s subject matter jurisdiction.” (Internal quotation marks omitted.) Commissioner of Correction v. Freedom of Information Commission, 129 Conn. App. 425, 428, 22 A.3d 630 (2011). “Justiciability requires (1) that there be an actual controversy between or among the parties to the dispute ... (2) that the interests of the parties be adverse ... (3) that the matter in controversy be capable of being adjudicated by judicial power . . . and (4) that the determination of the controversy will result in practical relief to the complainant.” (Internal quotation marks omitted.) Santos v. Morrissey, 127 Conn. App. 602, 605, 14 A.3d 1064 (2011).
+Although the court refused to consider the plaintiffs May 11, 2010 motion to open the judgment, the court considered and denied the plaintiffs amended motion to open after a hearing on the merits. Assuming that the court’s refusal to consider the May 11, 2010 motion to open was reversible error, the only practical relief that could be afforded to the plaintiff would be to remand the case with direction to the trial court to consider the motion on the merits. The corut, however, already has considered the motion on its merits, albeit in an amended form. Remanding the case with direction to consider the motion on the merits would not afford the plaintiff relief that she has not already received.
+The appeal is dismissed.
+Although the parties did not address the issue of mootness in their briefs to this court, because it implicates our subject matter jurisdiction, we raised it sua sponte at oral argument before this court. We gave the parties the opportunity to submit briefs addressing the issue, but they declined.
+The plaintiff further argues that if, on remand, the court denied the May 11, 2010 motion to open, she would have a new twenty day period in which to appeal the judgment of dissolution. See Practice Book § 63-1 (c) (1). It is highly speculative that this would afford the plaintiff any practical relief, and we are not persuaded that it affects our mootness analysis. See DeCarlo v. Kolnaski, 13 Conn. App. 326, 328-29, 536 A.2d 598 (1988).
