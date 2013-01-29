@@ -1,0 +1,29 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 34295"
+decided: "2013-01-29"
+citations: ["140 Conn. App. 490"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Beach, Bear and Sehaller, Js."]
+parties: ["JOANNE M. FOLEY v. ANDREW C. FOLEY"]
+source_url: "https://static.case.law/conn-app/140/cases/0490-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6768199
+cites_cases: ["105 Conn. App. 637", "11 Conn. App. 610", "133 Conn. App. 732", "262 Conn. 928", "272 Conn. 14", "285 Conn. 483", "38 A.3d 163", "529 A.2d 213", "59 Conn. App. 452", "73 Conn. App. 488", "757 A.2d 673", "808 A.2d 1138", "814 A.2d 383", "861 A.2d 473", "907 A.2d 126", "938 A.2d 1289", "940 A.2d 733", "98 Conn. App. 42"]
+---
+
+# Foley v. Foley
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The defendant, Andrew C. Foley, appeals from the judgment of the trial court denying three motions for contempt that he filed against the plaintiff, Joanne M. Foley. On appeal, the defendant essentially requests that we review these motions de novo. We affirm the judgment of the trial court.
+The following facts reasonably can be ascertained from the record. The marriage of the parties was dissolved in February, 2010. In October, 2011, the defendant filed three separate postjudgment motions for contempt. In the first motion, the defendant alleged that the plaintiff was in contempt because she had defaulted on the parties’ mortgage and had increased the loan amount on the home by more than $25,000 without the defendant’s permission. The court denied this motion finding that the plaintiff was not in wilful contempt. In the second motion for contempt, the defendant alleged that the plaintiff was in contempt because the child care bills that she expected him to pay were not related to employment, but, rather, were related to her schooling. The court denied this motion finding that the defendant had failed to prove that the plaintiff was in wilful contempt of a court order. The court also explained that if the defendant wanted to pursue a request for a modification of child support, he should do so via an appropriate motion. In the third contempt motion, the defendant alleged that the plaintiff was in contempt because she was bringing one of the parties’ children to therapy without the permission of the defendant. The court denied this motion without prejudice. This appeal followed.
+On appeal, the defendant requests that we “review the decisions [of the trial court] anew.” We are mindful, however, that “[o]ur function as an appellate court is to review and not retry the proceeding of the trial court.” (Internal quotation marks omitted.) In re Davonta V., 98 Conn. App. 42, 49, 907 A.2d 126 (2006), aff'd, 285 Conn. 483, 940 A.2d 733 (2008). As to the first motion, the defendant “requests that the court provide relief from this situation by ordering the plaintiff to refinance the property in [her own] name ... [or that she] be ordered to sell the property and clear the loan . . . .” As to the second motion, the defendant “asks that the court order [the child care] bills to cease and that any future qualifying bills be split ... in accordance with the child support guidelines.” He also asks us to order that the plaintiff “be more cooperative in regard to the defendant’s offer for alternative day care with [him].” As to the third motion, the defendant requests “an end to the therapy sessions.” Essentially, the defendant is asking us to retry the facts and issue new orders. This we are unable to do. See Hopfer v. Hopfer, 59 Conn. App. 452, 458, 757 A.2d 673 (2000) (“[o]ur role as an appellate court is not to retry the facts of the case, substitute our judgment for that of the trial court, or articulate or clarify the trial court’s decision” [internal quotation marks omitted]); Mihalyak v. Mihalyak, 11 Conn. App. 610, 618, 529 A.2d 213 (1987) (“claim is no more than an effort to retry the facts, which is not the function of an appellate court”).
+Additionally, even if the defendant had sought review of the court’s orders instead of a de novo hearing, we would decline to review his claims because of inadequate briefing. The defendant has failed to set forth a standard of review for any of his claims or to cite relevant authority in support of his position. “We consistently have held that [a]nalysis, rather than mere abstract assertion, is required in order to avoid abandoning an issue by failure to brief the issue properly. . . . Strobel v. Strobel, 73 Conn. App. 488, 490, 808 A.2d 1138, cert. denied, 262 Conn. 928, 814 A.2d 383 (2002); see Northeast Ct. Economic Alliance, Inc. v. ATC Partnership, 272 Conn. 14, 51 n.23, 861 A.2d 473 (2004) ([i]nasmuch as the plaintiffs’ briefing of the . . . issue constitutes an abstract assertion completely devoid of citation to legal authority or the appropriate standard of review, we exercise our discretion to decline to review this claim as inadequately briefed).” (Internal quotation marks omitted.) Carabetta v. Carabetta, 133 Conn. App. 732, 736-37, 38 A.3d 163 (2012).
+The judgment is affirmed.
+Although some motions that are denied “without prejudice” are not appealable final orders, in this case, the court clearly denied the motion at issue with respect to the plaintiffs conduct up to the time the motion was filed. See Moreira v. Moreira, 105 Conn. App. 637, 639-40, 938 A.2d 1289 (2008). Therefore, the matter fully was acüudicated and is a final order for purposes of appeal.
+The defendant also has failed to provide a written memorandum of decision or a signed transcript setting forth the court’s findings of fact and conclusions of law with respect to its rulings as required by Practice Book § 64-1. The defendant, however, has provided an unsigned transcript of the October 24, 2011 motion hearing.
