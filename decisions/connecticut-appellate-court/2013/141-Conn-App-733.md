@@ -1,0 +1,36 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 32898"
+decided: "2013-04-02"
+citations: ["141 Conn. App. 733"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DiPentima, C. J., and Lavine and Bear, Js."]
+parties: ["SANDRA LYNN BUGGY v. GLENN MILLS BUGGY"]
+source_url: "https://static.case.law/conn-app/141/cases/0733-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6768856
+cites_cases: ["129 Conn. App. 614", "189 Conn. 671", "20 A.3d 1270", "200 Conn. 108", "458 A.2d 362", "609 A.2d 512"]
+---
+
+# Buggy v. Buggy
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+This appeal and cross appeal arise out of various orders entered by the trial court within a judgment converting a decree of legal separation to a judgment of dissolution. On appeal, the plaintiff, Sandra Lynn Buggy, raises claims primarily addressing the custody order of the parties’ two minor children. On cross appeal, the defendant, Glenn Mills Buggy, challenges certain financial orders relating to child support and alimony. Because neither party has filed a transcript of the proceedings in the trial court, we decline to reach the merits of either party’s claims. We therefore affirm the trial court’s judgment as to both the plaintiffs appeal and the defendant’s cross appeal.
+The following facts and procedural history were set out in the court’s October 22, 2010 memorandum of decision. The plaintiff and the defendant were married in October, 1991. The plaintiff filed a complaint seeking a dissolution of marriage on July 1, 2005. On August 3, 2006, the plaintiff filed an amended complaint requesting a legal separation; the separation was granted on August 11, 2006. The parties’ separation agreement was incorporated into the judgment of legal separation. In that agreement, the parties agreed that they would have joint legal custody of their two minor children and that the children’s primary residence would be with the plaintiff.
+In November, 2007, the plaintiff filed a motion for contempt relating to financial issues. In April, 2008, the defendant filed a motion for modification of visitation and financial orders. Thereafter, the parties filed various other motions, including a motion for the appointment of a guardian ad litem for the parties’ two minor children, a motion for a psychological evaluation of the parties and a motion for modification of visitation and financial orders.
+The court held a hearing on the motion for modification in June, 2010. During the course of the hearing, the court considered the defendant’s amended motion to modify visitation and financial orders. At the conclusion of the hearing, the court entered an order dissolving the parties’ marriage and converted the decree of legal separation to a decree of dissolution. The court determined that a change in custody in favor of the defendant was in the best interests of the minor children and further that there had been a substantial change in the defendant’s financial circumstances. The plaintiff filed this appeal on November 15, 2010; the defendant filed his cross appeal on November 23, 2010.
+On appeal, the plaintiff argues that the court erred by (1) using a custody study that was more than six months old, (2) granting a motion in limine but not enforcing it, (3) allowing the defendant to support his girlfriend financially while failing to pay child support and alimony and (4) allowing the guardian ad litem to rely on the custody evaluation for her opinion. On cross appeal, the defendant claims that the trial court erred by (1) failing to make its orders retroactive to the date of service of the motion for modification, (2) failing to terminate the defendant’s payments for work-related day care and to order that any such day care payments be paid by the plaintiff, (3) failing to order a nonmodifiable term of alimony and (4) ordering the defendant to rent a residence in Darien for eight months.
+To address these claims adequately, it is necessary for us to review the transcripts of the hearing before the court. Neither party, however, filed with their briefs either the written or electronic versions of the trial transcripts. On February 4, 2013, this court sua sponte ordered the parties to file the necessary transcripts no later than February 20, 2013. No transcripts have been filed.
+Where a transcript is required for review of a party’s claims, this court cannot proceed without one. See Rice v. Housing Authority, 129 Conn. App. 614, 619, 20 A.3d 1270 (2011) (transcript of trial was necessary to determine merits of plaintiff’s claim); see also Taylor v. American Thread Co., 200 Conn. 108, 111-12, 609 A.2d 512 (1986) (lack of appropriate transcripts precludes finding of error); DeMilo v. West Haven, 189 Conn. 671, 680-81, 458 A.2d 362 (1983) (lack of transcript of certain testimony precludes review of claim that trial court improperly failed to set aside verdict).
+After thoroughly reviewing the briefs, arguments and the record properly before us, we conclude that we are unable to determine the merits of the plaintiffs or the defendant’s claims without the transcripts of the proceedings in the trial corut. In their absence, we are unable to examine all of the relevant evidence that was before the trial court.
+The judgment is affirmed.
+Sandra Lynn Buggy is now known as Sandra MacVicar.
+Practice Book § 63-8 states in relevant part: “(a) [T]he appellant shall . . . order . . . from the official reporter a transcript and an electronic version of a transcript of the parts of the proceedings not already on file which the appellant deems necessary for the proper presentation of the appeal. . . . If any other party deems other parts of the transcript necessary, that party shall, within twenty days from the filing of the appellant’s transcript papers, similarly order those parts, and an electronic version of those parts, in writing from the official reporter. . . .
+“(e) (1) The appellant is required, either before or simultaneously with the filing of the appellant’s brief, to file with the appellate clerk one unmarked, nonretumable copy of the transcript, including a copy of the court reporter’s certification page, ordered pursuant to subsection (a).
+“(2) All other parties are likewise required, either before or simultaneously with the filing of their briefs, to file those additional portions ordered pursuant to subsection (a) but shall not include the portions already filed by the appellant. . . .” See Practice Book § 60-6 (“[i]t is the responsibility of the appellant to provide an adequate record for review”).
+The order stated: “No transcripts and no electronic version of the transcripts are on file for this appeal and cross appeal. See Practice Book Sections 63-8, 63-8A. The parties are sua sponte ordered to file with the Appellate Clerk those portions of the transcript deemed necessary for the resolution of the plaintiffs appeal and the defendant’s cross appeal on or before February 20, 2013. Failure to file said transcripts by February 20, 2013, may result in the summary affirmance of the plaintiffs appeal and the defendant’s cross appeal.”
