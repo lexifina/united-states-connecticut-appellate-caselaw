@@ -1,0 +1,35 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 33816"
+decided: "2013-04-02"
+citations: ["141 Conn. App. 681"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Beach, Alvord and Borden, Js."]
+parties: ["BETH KELLER v. RICHARD KELLER"]
+source_url: "https://static.case.law/conn-app/141/cases/0681-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6768661
+cites_cases: ["135 Conn. 333", "64 A.2d 173", "64 Conn. App. 355", "780 A.2d 198"]
+---
+
+# Keller v. Keller
+
+## Majority (BORDEN, J.)
+
+Opinion
+BORDEN, J.
+In this marital dissolution action, the dispositive issue is whether the trial court abused its discretion in entering an order of alimony and child support pendente lite payable by the defendant, Richard Keller, to the plaintiff, Beth Keller. We conclude that the court did abuse its discretion and, accordingly, reverse the judgment of the trial court.
+The defendant appeals from the trial court’s order of alimony and support pendente lite. In addition to the defendant’s claim of abuse of discretion in entering the pendente lite order, the defendant claims that the court: (1) violated the defendant’s due process rights by considering the plaintiffs simply worded pendente lite motion without requiring the plaintiff to give him specific notice that she would be relying on an imputed earning capacity of the defendant; (2) improperly quashed three subpoenas duces tecum served on certain members of the plaintiffs family; and (3) based its finding of the defendant’s earning capacity on inadequate evidence. Because we agree with the defendant’s claim of abuse of discretion in entering the pendente lite order, we need not consider these other claims.
+The parties married on August 15, 1992. They have three minor children, bom in 1996, 1999 and 2002. The plaintiff brought this dissolution action in May, 2011, when she also filed the motion for alimony and support pendente lite. On July 15, 2011, the parties entered into a court-approved stipulation agreeing, among other things, that the defendant would have exclusive possession of the jointly owned marital home located in Greenwich until the final judgment in the dissolution action, the parties would share custody of the children subject to an agreed parenting plan, and any order on the pen-dente lite motion would be presumptively retroactive to July 15,2011, with the parties free to argue otherwise.
+During the ensuing three day hearing on the pendente lite motion in early August, 2011, the following evidence was introduced. The plaintiff, age forty-six at the time of the hearing, is a licensed registered dietician who was last employed in 1996 in the field of public relations. Since then, she has been a full-time mother and homemaker. She has been supplementing the money that the defendant has been giving her by borrowing from her family. The defendant, age forty-seven at the time of the hearing, earned a law degree from Columbia University in 1991, was admitted to the New York and Connecticut bars, and practiced law in New York for two and one-half years. He then entered the financial services industry. In 2006, he founded a hedge fund, of which he was the manager, earning approximately $ 1.9 million in 2007. After the economic downturn in 2008, he began to liquidate the fund, and closed it at the end of 2010. Essentially, he has had no income since 2008, and has been paying living expenses and attempting to support the family by selling liquid assets, which are almost exhausted, and by borrowing money. The parties’ joint 2009 federal income tax return showed a loss of approximately $120,000.
+The court found that the plaintiff had a current earning capacity of approximately $3000 per month. With respect to the defendant, the court found that he “historically has been employed in a profession or calling where he is given considerable flexibility in how to recognize and receive income . . . [and has] licenses to practice law in two states and a very substantial and commendable record of achievement in the financial industry. He appears to have a wealth of financial acumen and experience. There is also some evidence in the record as to his trading profits and expertise in investment and investment advice.”
+Regarding the defendant’s attempts to find alternate sources of income, the court found that “as a matter of choice, seeking to maximize the potential for him to return to managing an investment fund, he has foregone whatever opportunities there be for him to obtain direct employment. The court is not in any way critical of that choice. It may well be the best decision. But it does not free him from the responsibilities he has under the law to support his spouse and children.” Accordingly, the court found that “the defendant has a current earning capacity of a minimum of $25,000 a month.”
+On the basis of this finding, the court ordered the defendant to pay: (1) $9000 per month to the plaintiff as unallocated alimony and child support; (2) the monthly mortgage payments on the marital residence, including the first mortgage, the home equity line of credit, the taxes and insurance; (3) the monthly loan payments on the plaintiffs car; and (4) the current health and dental insurance for the plaintiff and the three children, plus all unreimbursed medical and dental expenses, except for purely cosmetic or elective procedures.
+The defendant claims that these orders constitute an abuse of discretion because they were based upon the defendant’s gross, rather than net, income. We agree.
+It is axiomatic that an award of alimony and support must be based on net income after taxes, not gross income. Ludgin v. McGowan, 64 Conn. App. 355, 358, 780 A.2d 198 (2001). It is clear from the record that the court considered the imputed $25,000 per month income of the defendant to be gross, rather than net, income. At the hearing, the defendant’s attorney asked the court: “[W]ith respect to the Court’s determination of an earning capacity. I take it that is a gross sum, correct?” The court responded: “Yes.” It is also clear that, at no time, did the court attempt to calculate, or ask the parties to calculate, what the available net income after taxes would be on such a gross income. The court, therefore, abused its discretion in basing its orders solely on gross income.
+The judgment is reversed and the case is remanded for further proceedings according to law.
+In this opinion the other judges concurred.
+Certain interlocutory orders and rulings of the Superior Court have been determined to be final judgments for purposes of appeal because they so conclude the rights of a party that further proceedings could not affect them. See Hiss v. Hiss, 135 Conn. 333, 336, 64 A.2d 173 (1949) (pendente lite order of temporary support was final judgment).
+Although the defendant has offered such a calculation to us in his brief, it is not necessary to consider the accuracy of that calculation.
