@@ -1,0 +1,30 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 34164"
+decided: "2013-07-23"
+citations: ["144 Conn. App. 371"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lavme, Robinson and Keller, Js."]
+parties: ["JEFFREY R. STENNER v. COMMISSIONER OF CORRECTION"]
+source_url: "https://static.case.law/conn-app/144/cases/0371-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12415939
+cites_cases: ["112 Conn. App. 137", "128 S. Ct. 290", "132 Conn. App. 263", "144 Conn. App. 203", "169 L. Ed. 2d 139", "229 Conn. 178", "281 Conn. 742", "291 Conn. 910", "31 A.3d 1182", "552 U.S. 883", "640 A.2d 601", "72 A.3d 1162", "917 A.2d 28", "962 A.2d 148", "969 A.2d 171"]
+---
+
+# Stenner v. Commissioner of Correction
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The petitioner, Jeffrey R. Stenner, appeals following the denial of his petition for certification to appeal from the judgment of the habeas court denying his petition for a writ of habeas coipus. On appeal, the petitioner claims that the habeas court abused its discretion in denying his petition for certification to appeal and that the denial of his petition for a writ of habeas corpus was improper because his trial counsel rendered ineffective assistance by failing to investigate adequately and to present to the jury the theory that a coconspirator had reason to kill the victim. We dismiss the petitioner’s appeal.
+The following facts and procedural history are relevant to the petitioner’s appeal. On August 22, 2001, the petitioner was arrested and charged with one count of murder in violation of General Statutes §§ 53a-54a and 53a-8 following the death of Robert Schmidt. See State v. Stenner, 281 Conn. 742, 744, 917 A.2d 28, cert. denied, 552 U.S. 883, 128 S. Ct. 290, 169 L. Ed. 2d 139 (2007). After being found guilty following a jury trial, the court sentenced the petitioner to sixty years of incarceration. Our Supreme Court affirmed his conviction. See id.
+On August 12, 2011, the petitioner filed an amended habeas coipus petition alleging that his trial counsel, Brian Woolf, provided ineffective assistance because he failed to (1) hire an investigator to conduct an effective investigation, (2) effectively present evidence that someone other than the petitioner had a motive to murder the victim, (3) call several witnesses who would have supported the petitioner’s defense, (4) object to the introduction of a coconspirator’s hearsay statement on sixth amendment grounds and (5) effectively impeach coconspirators. Following the habeas trial, the habeas court denied the petition for a writ of habeas coipus. The petitioner requested certification to appeal from the denial of the petition for a writ of habeas coipus and set forth the ground for the appeal in his application for waiver of fees, costs and expenses and appointment of counsel on appeal. In that application, the petitioner set forth the following as the basis for his appeal: “Confrontation violated pursuant to 6th amendment.” The habeas court denied the petition for certification. This appeal followed.
+We begin with our standard of review. “Faced with the habeas court’s denial of a petition for certification to appeal, a petitioner can obtain appellate review of the [denial] of his petition for habeas corpus only by satisfying the two-pronged test enunciated by our Supreme Court in Simms v. Warden, 229 Conn. 178, 640 A.2d 601 (1994) .... First, he must demonstrate that the denial of his petition for certification constituted an abuse of discretion. . . . Second, if the petitioner can show an abuse of discretion, he must prove that the decision of the habeas court should be reversed on the merits. . . .
+“To prove an abuse of discretion, the petitioner must demonstrate that the [resolution of the underlying claim involves issues that] are debatable among jurists of reason; that a court could resolve the issues [in a different manner]; or that the questions are adequate to deserve encouragement to proceed further.” (Citation omitted; internal quotation marks omitted.) Mejia v. Commissioner of Correction, 112 Conn. App. 137, 144, 962 A.2d 148, cert. denied, 291 Conn. 910, 969 A.2d 171 (2009).
+On appeal, the petitioner argues that the habeas court abused its discretion in denying his petition for certification because his trial counsel rendered ineffective assistance by failing to investigate adequately and to present to the jury the theory that a coconspirator had reason to kill the victim. The petitioner’s application for waiver of fees, costs and expenses and appointment of counsel on appeal, however, cites “[confrontation violated pursuant to 6th amendment” as his statement of grounds on appeal. Neither the petition for certification to appeal nor the application for waiver of fees, costs and expenses and appointment of counsel included claims related to the adequacy of investigation or the advancement of an alternative theory of defense.
+“This court has determined that a petitioner cannot demonstrate that a habeas court abused its discretion in denying a petition for certification to appeal on the basis of issues that were not actually raised in the petition for certification to appeal. . . . Under such circumstances, the petition for certification to appeal could not have apprised the habeas court that the petitioner was seeking certification to appeal based on such issues. ... A review of such claims would amount to an ambuscade of the [habeas] judge.” (Citations omitted; internal quotation marks omitted.) Campbell v. Commissioner of Correction, 132 Conn. App. 263, 267, 31 A.3d 1182 (2011). Because the petitioner failed to raise the claims that he now alleges in his petition for certification to appeal or in his application for waiver of fees, costs and expenses and appointment of counsel, we decline to afford them review. See Tutson v. Commissioner of Correction, 144 Conn. App. 203, 217, 72 A.3d 1162 (2013); Campbell v. Commissioner of Correction, supra, 267.
+The appeal is dismissed.
