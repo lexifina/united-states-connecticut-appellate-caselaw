@@ -1,0 +1,31 @@
+---
+court: "Connecticut Appellate Court"
+docket: "AC 33859"
+decided: "2013-12-31"
+citations: ["147 Conn. App. 414"]
+reporter: "conn-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Alvord, Bear and Borden, Js."]
+parties: ["STATE OF CONNECTICUT v. JOHN VIVO III"]
+source_url: "https://static.case.law/conn-app/147/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12415317
+cites_cases: ["241 Conn. 665", "275 Conn. 925", "282 Conn. 614", "697 A.2d 1130", "876 A.2d 1216", "888 A.2d 1253", "90 Conn. App. 167", "922 A.2d 1065"]
+---
+
+# State v. Vivo
+
+## Majority (PER CURIAM.)
+
+Opinion
+PER CURIAM.
+The self-represented defendant, John Vivo III, appeals from the judgment of the trial court denying, in part, his motion to correct an illegal sentence and resentencing him to a total effective sentence of seventy-five years imprisonment. He raises numerous claims on appeal challenging the judgment. We affirm the judgment of the trial court.
+In 1995, the defendant was found guilty by a jury of murder in violation of General Statutes § 53a-54a (a), assault in the first degree in violation of General Statutes § 53a-59 (a) (1), and commission of a class A and class B felony with a firearm in violation of General Statutes § 53-202k. The court, Gormley, J., sentenced him to sixty years imprisonment on the murder conviction, ten years on the assault conviction, and five years on the violation of § 53-202k, all the sentences to run consecutively to each other, for a total effective sentence of seventy-five years imprisonment. The Supreme Court affirmed the judgment of conviction. See State v. Vivo, 241 Conn. 665, 697 A.2d 1130 (1997).
+Thereafter, the defendant filed a petition for a writ of habeas corpus alleging ineffectiveness of both his trial and appellate counsel. The habeas court, Hon. Richard M. Rittenband, judge trial referee, denied the habeas petition and granted certification to appeal. This court reversed the habeas judgment as to the defendant’s conviction under § 53-202k, noting that § 53-202k is a sentence enhancement provision, not a separate offense. See Vivo v. Commissioner of Correction, 90 Conn. App. 167, 177, 876 A.2d 1216, cert. denied, 275 Conn. 925, 888 A.2d 1253 (2005). Accordingly, we concluded that “[although the [defendant’s] total effective sentence was proper, the judgment must be modified to reflect the fact that § 53-202k does not constitute a separate offense” and we remanded the case “with direction to vacate that conviction and to resentence the [defendant] to a total effective term of seventy-five years incarceration.” Id.
+Thereafter, the self-represented defendant filed this amended motion to correct an illegal sentence raising three claims: (1) the seventy-five year sentence is contrary to the initial remand order of this court; (2) he is entitled to a new trial and a jury determination regarding the applicability of the § 53-202k enhancement provision; and (3) he was never resentenced as required by the remand order of this court. The trial court, Devlin, J., denied the first two claims. As to the third, Judge Devlin noted that, following this court’s remand in the habeas action, the habeas file indicated that the habeas court, Bryant, J., had filed its own “Motion for Judgment” and resentenced the defendant to a total effective sentence of seventy-five years imprisonment without, however, the defendant’s presence and without anything being placed on the record. In addition, the judgment mittimus was never modified to reflect the vacated conviction under § 53-202k. Accordingly, Judge Devlin vacated the conviction under § 53-202k and resentenced the defendant as follows: sixty years imprisonment on the murder conviction, and ten years on the assault conviction enhanced to fifteen years pursuant to § 53-202k, to run consecutively to the sentence on the murder conviction, for a total effective sentence of seventy-five years imprisonment. Judge Devlin also amended the mittimus to reflect the vacated conviction. This appeal followed.
+The defendant raises the following claims on appeal: (1) Judge Devlin abused his discretion in denying the defendant appointed counsel to pursue his motion to correct an illegal sentence; (2) Judge Devlin improperly denied the defendant’s motion to correct an illegal sentence; (3) Judge Devlin abused his discretion in determining that the defendant was not entitled to a new trial and jury determination as to the applicability of § 53-202k; (4) his sentence is unconstitutional and, therefore, his incarceration is illegal; (5) his resentenc-ing by Judge Bryant was imposed in an illegal manner; (6) his sentence under § 53-202k constituted double jeopardy; (7) Judge Devlin abused his discretion when he vacated the conviction under § 53-202k “on the mitti-mus and sentence[d] the defendant opening of final judgment on the assault charge and imposed [five] years without due process” of law; and (8) the denial of his request for appellate counsel violated his constitutional rights under the federal and state constitutions, and his rights under General Statutes § 51-296. We disagree.
+We have carefully considered all of the defendant’s claims, and have fully reviewed the record in light of those claims. We conclude that all of his claims are without merit.
+The judgment is affirmed.
+Notably, when Vivo v. Commissioner of Correction, supra, 90 Conn. App. 167, originally was released, the rescript contained a clerical error directing the court on remand “to resentence the [defendant] to a total effective term of seventy years incarceration.” (Emphasis added.) Thereafter, this clerical error was corrected to reflect this court’s intended order to resentence the defendant “to a total effective term of seventy-five years incarceration.” (Emphasis added.) Id., 177.
+Additionally, the defendant filed an objection to the public defender’s report determining that the defendant was not entitled to counsel to pursue his motion to correct an illegal sentence, pursuant to State v. Casiano, 282 Conn. 614, 922 A.2d 1065 (2007). The trial court, Devlin, J., overruled this objection.
